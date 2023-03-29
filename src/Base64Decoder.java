@@ -2,13 +2,13 @@ public class Base64Decoder {
     public static long decode (String encodedNumber){
         long sum = 0;
         for (int i = 0; i < encodedNumber.length(); i++){
-            sum = sum + decodeADigit(encodedNumber.charAt(i)) * (long) Math.pow(64, encodedNumber.length() -1 - i);
+            sum += decodeADigit(encodedNumber.charAt(i)) * (long) Math.pow(64, encodedNumber.length() - 1 - i);
         }
         return sum;
 
     }
 
-    public static long decodeADigit(char digit) {
+    private static long decodeADigit(char digit) {
         int asciiValue = digit;
         if (digit >= 'A' && digit <= 'Z') {
             return asciiValue - 65;

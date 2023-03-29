@@ -1,38 +1,45 @@
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.HashMap;
-import java.util.Scanner;
+import java.io.IOException;
+import java.io.RandomAccessFile;
+import java.nio.charset.StandardCharsets;
+import java.util.*;
 
 public class Main {
-    private static final int WORD = 0;
-    private static final int OFFSET = 1;
-    private static final int LENGTH = 2;
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws IOException {
+
 
 
 
 //        String encodedNumber = "SaR7"; // Base 64 Number
 //        long number = Base64Decoder.decode(encodedNumber); // Should return decimal number = 4826235
 
-        File indexFile = new File("eng-tur.index");
-        Scanner scannerForFile = new Scanner(indexFile);
-        HashMap<String, Slice> indexMap = new HashMap<>();
-        while (scannerForFile.hasNextLine()) {
-            String line = scannerForFile.nextLine();
-            String[] parts = line.split("\t");
-            indexMap.put(parts[WORD], new Slice(Base64Decoder.decode(parts[OFFSET]), (int) Base64Decoder.decode(parts[LENGTH])));
-        }
+//        ArrayList<Translator> langList = new ArrayList<>();
+//        for(Languages source : Languages.values()){
+//            for(Languages target : Languages.values()){
+//                if(source == target) continue;
+//                Pair pair = new Pair(source, target);
+//                Translator translator = new Translator(pair);
+//                langList.add(translator);
+//            }
+//        }
 
         Scanner inputScanner = new Scanner(System.in);
 
+        Pair pair = new Pair(Languages.ENG, Languages.TUR);
+        Translator translator = new Translator(pair);
+
+
         System.out.println("Enter a word");
         String word= inputScanner.nextLine();
-        Slice returnedSlice = indexMap.get(word);
-        System.out.println(returnedSlice);
+        List<String> definition = translator.getDefinition(word);
+        System.out.println(definition);
+        System.out.println(pair);
 
 
     }
+
 
 
 
