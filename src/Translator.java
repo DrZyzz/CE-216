@@ -14,9 +14,11 @@ public class Translator {
     private static final int LENGTH = 2;
     private final HashMap<String, List<Slice>> indexMap = new HashMap<>();
     private final String dictFileName;
+    public final Pair pair;
 
     public Translator(Pair p) throws FileNotFoundException {
         this.dictFileName = p.getDictFileName();
+        this.pair = p;
         File indexFile = new File(p.getIndexFileName());
         Scanner scannerForFile = new Scanner(indexFile);
         while (scannerForFile.hasNextLine()) {
