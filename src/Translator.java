@@ -36,8 +36,9 @@ public class Translator {
     }
 
     public List<String> getDefinition(String word) throws IOException {
-        List<Slice> slices = this.indexMap.get(word);
+        List<Slice> slices = indexMap.get(word);
         List<String> definitions = new ArrayList<>();
+        if(slices == null) return definitions;
         for(Slice slice : slices){
             byte[] bytes = new byte[slice.length];
             RandomAccessFile file = new RandomAccessFile(dictFileName, "r");

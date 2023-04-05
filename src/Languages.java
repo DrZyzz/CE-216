@@ -1,9 +1,9 @@
 public enum Languages {
     ENG,
     TUR,
-    DUE,
-    FRA,
-    ELL,
-    SWE,
-    ITA,
+//    DUE,
+//    FRA,
+//    ELL,
+//    SWE,
+//    ITA,
 }
