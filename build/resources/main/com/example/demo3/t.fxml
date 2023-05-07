@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo3.EditController">
+   <children>
+      <TextField fx:id="editWord" layoutX="185.0" layoutY="104.0" />
+      <TextField fx:id="editDefinition" layoutX="185.0" layoutY="188.0" />
+      <Label layoutX="52.0" layoutY="109.0" text="Word:" />
+      <Label layoutX="52.0" layoutY="193.0" text="Definition:" />
+      <Button layoutX="215.0" layoutY="148.0" mnemonicParsing="false" onAction="#listDefinition" text="Show Definiton" />
+      <Label layoutX="261.0" layoutY="48.0" text="-">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="52.0" layoutY="50.0" text="Languages:" />
+      <Button layoutX="219.0" layoutY="290.0" mnemonicParsing="false" onAction="#EditDefinition" text="Edit Definition" />
+      <TextArea fx:id="text" layoutX="386.0" layoutY="29.0" prefHeight="342.0" prefWidth="200.0" />
+      <ChoiceBox fx:id="cb1" layoutX="177.0" layoutY="45.0" prefHeight="26.0" prefWidth="75.0" />
+      <ChoiceBox fx:id="cb2" layoutX="279.0" layoutY="45.0" prefHeight="26.0" prefWidth="75.0" />
+      <Label layoutX="52.0" layoutY="253.0" text="Number of the definition:" />
+      <TextField fx:id="lineOfDef" layoutX="189.0" layoutY="248.0" />
+   </children>
+</AnchorPane>
