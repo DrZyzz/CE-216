@@ -1,2 +1,0 @@
-# CE-216
-Dictionary APPLICATION
