@@ -1,0 +1,6243 @@
+
+00-database-dictfmt-1.12.1
+Italian-German FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.2.1
+Size: 2924 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+    Copyright (C) 1999-2019 by various authors listed below.
+    Available under the terms of the GNU General Public License ver. 2.0 and
+  any later version.
+    This program is free software; you can redistribute it and/or modify it
+  under the terms of the GNU General Public License as published by the
+  Free Software Foundation; either version 2 of the License, or (at your
+  option) any later version.
+    This program is distributed in the hope that it will be useful, but
+  WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+  Public License for more details.
+    You should have received a copy of the GNU General Public License along
+  with this program; if not, write to the Free Software Foundation, Inc.,
+  59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+ID# (svn): $Id$
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://www.travlang.com/ This Database was generated from Ergane.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2019-05-03 Ivan Panchenko ver. 0.2.1:
+   insert missing spaces, replace incorrect "ß" through "ss"
+ * 2017-12-06 Sebastian Humenda ver. 0.2:
+   * update licencing stanza (thanks to Karl Bartel)
+   * improve markup by removing empty nodes and doubled translations
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-21 that was rolled back due to
+   Ergane's cryptic change of database licensing.
+ * 2005-02-11 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-03 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-10 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+Italian-German FreeDict Dictionary ver. 0.2.1
+Abissinia /abissˈinia/
+Abessinien
+Acheronte /akerˈonte/
+Acheron
+Achille /akˈille/
+Achilles
+Adamo /adˈamo/
+Adam
+Adige /ˈadidʒe/
+Etsch
+Afghanistan /afɡˈanistan/
+Afghanistan
+Africa /ˈafrika/
+Afrika
+Alasca /alˈaska/
+Alaska
+Albania /albanˈia/
+Albanien
+Algeria /aldʒerˈia/
+Algerien
+Alpi /ˈalpɪ/
+Alpen
+Alsace /alsˈatʃe/
+Elsass
+Alsazia /alsˈatsia/
+Elsass‐Lothringen
+Amburgo /ambˈurɡo/
+Hamburg
+America /amˈɛrika/
+1. Amerika
+2. Vereinigte Staaten
+America /amˈɛrika/
+Südamerika
+Anatolia /anatˈɔlia/
+Anatolien
+Ande /ˈande/
+Anden
+Andorra /andˈɔrɾa/
+Andorra
+Angola /aŋɡˈɔla/
+Angola
+Annunciazone /annʊntʃatsˈone/
+Mariä Verkündigung
+Antille /antˈille/
+Antillen
+Appennini /apːennˈinɪ/
+Apenninen
+Aquisgrana /akwizɡrˈana/
+Aachen
+Arabia /aɾˈabia/
+Arabien
+Ardenne /ardˈɛnne/
+Ardennen, Ardennerwald
+Argentina /ardʒentˈina/
+Argentinien
+Armenia /armˈenia/
+Armenien
+Asia /ˈaːzja/
+Asien
+Assiria /assˈiria/
+Assyrien
+Atene /atˈene/
+Athen
+Atlantico /atlˈantiko/
+Atlantischer Ozean
+Australia /aʊstrˈalia/
+Australien
+Austria /ˈaʊstria/
+Österreich
+Azerbaigian /adzerbaɪdʒˈan/
+Aserbaidschan
+Balcani /balkˈanɪ/
+Balkan
+Baltico /bˈaltiko/
+Baltisches Meer, Ostsee
+Befana /befˈana/
+Dreikönigsfest
+Belgio /bˈɛldʒo/
+Belgien
+Berlino /berlˈino/
+Berlin
+Bibbia /bˈibːia/
+Bibel
+Birmania /birmˈania/
+Birma
+Borgogna /borɡˈoɲɲa/
+Burgund
+Brasile /brazˈile/
+Brasilien
+Bretagna /bretˈaɲɲa/
+Bretagne, die Bretagne
+Cairo /kˈaɪro/
+Kairo
+Canad /kˈanad/
+Kanada
+Canarie /kanˈarie/
+Kanarische Inseln
+Capricorno /kaprikˈɔrno/
+Steinbock
+Castiglia /kastˈiʎa/
+Kastilien
+Cerbero /tʃˈɛrbero/
+Zerberus
+Cesare /tʃˈezare/
+Cäsar
+Cile /tʃˈile/
+Chile
+Cina /tʃˈina/
+China
+Cipro /tʃˈipro/
+Zypern
+Corano /korˈano/
+Koran
+Corea /korˈɛa/
+Korea
+Corsica /kˈɔrsika/
+Korsika
+Cristo /krˈisto/
+Christus
+Croazia /kroˈatsia/
+Kroatien
+Danimarca /danimˈarka/
+Dänemark
+Danubio /danˈubio/
+Donau
+Dio /dˈio/
+Gott
+Egitto /edʒˈitːo/
+Ägypten
+Epifania /epifanˈia/
+Dreikönigsfest
+Etiopia /etiˈɔpia/
+Äthiopien
+Europa /eʊrˈɔpa/
+Europa
+Francia /frˈantʃa/
+Frankreich
+Galles /ɡˈalles/
+Wales
+Genova /dʒˈɛnova/
+Genua
+Germania /dʒermˈania/
+Deutschland
+Ginevra /dʒinˈevra/
+Genf
+Gran /ɡrˈan/
+Britannien
+Grecia /ɡrˈetʃa/
+Griechenland
+Groenlandia /ɡroenlˈandia/
+Grönland
+IVA /ˈiva/
+Mehrwehrtsteuer
+Iddio /ˈidːio/
+Gott
+India /ˈindia/
+Indien
+Indocina /indotʃˈina/
+Hinterindien
+Inghilterra /iŋɡiltˈɛrɾa/
+England
+Irlanda /irlˈanda/
+Irland
+Islam /izlˈam/
+Islam
+Islanda /izlˈanda/
+Island
+Italia /itˈalia/
+Italien
+Iugoslavia /jʊɡozlˈavia/
+Jugoslawien
+Lapponia /lapːˈɔnia/
+Lappland
+Lituania /litʊˈania/
+Litauen
+Londra /lˈondra/
+London
+L /ˈɛlle/
+Haag
+Mar /mˈar/
+Adria, Adriatisches Meer
+Mar /mˈar/
+Ägäisches Meer
+Messia /messˈia/
+Messias
+Milano /milˈano/
+Mailand
+Natale /natˈale/
+Weihnachten
+Norvegia /noɾvˈeːdʒa/
+Norwegen
+Ognissanti /oɲissˈantɪ/
+Allerheiligen
+Olanda /olˈanda/
+1. Holland
+2. Niederlande, die Niederlande
+Olandese /olandˈeze/
+Holländer, Niederländer
+Parigi /parˈidʒɪ/
+Paris
+Pasqua /pˈaskwa/
+Ostern
+Polonia /polˈɔnia/
+Polen
+Portogallo /portoɡˈallo/
+Portugal
+Reno /rˈeno/
+Rhein
+Roma /rˈoma/
+Rom
+Russia /rˈussia/
+Russland
+Satana /sˈatana/
+Satanas, Teufel
+Scozia /skˈɔtsia/
+Schottland
+Sicilia /sitʃˈilia/
+Sizilien
+Spagna /spˈaɲɲa/
+Spanien
+Stati /stˈatɪ/
+Vereinigte Staaten
+Stoccolma /stokːˈolma/
+Stockholm
+Svezia /zvˈɛtsia/
+Schweden
+Svizzera /zvˈɪtsːera/
+Schweiz, die Schweiz
+Ticino /titʃˈino/
+Tessin
+Turchia /tʊrkˈia/
+Türkei, die Türkei
+Ungheria /ʊŋɡerˈia/
+Ungarn
+Unione /ʊniˈone/
+Europäische Union
+Venecia /venˈetʃa/
+Venedig
+Venere /vˈɛnere/
+Venus
+Vienna /vjˈɛnna/
+Wien
+Zurigo /dzʊrˈiɡo/
+Zürich
+a /ˈaː/
+1. an, in, nach, zu
+2. pro
+3. bei
+abaco /ˈabako/
+Abakus
+abate /abˈate/
+Abt
+abbandonare /abːandonˈare/
+1. entäußern, fortlassen, überlassen, unterlassen
+2. hinterlassen
+abbastanza /abːastˈantsa/
+genug, genügend, hinlänglich, ziemlich
+abbonamento /abːonamˈento/
+Abonnement
+abete /abˈete/
+Fichte, Tanne
+abile /ˈabile/
+1. begabt, fähig, imstande, tüchtig
+2. anstellig, behände, fix, geschickt, geübt, gewandt
+abilit /abˈilit/
+1. Kapazität
+2. Geschicklichkeit, Gewandtheit
+abissino /abˈissino/
+1. abessinisch
+2. Abessinier
+abisso /abˈisso/
+Abgrund, Tiefe
+abitante /abitˈante/
+Bewohner, Einwohner, Insasse
+abitare /abitˈare/
+1. hausen, wohnen
+2. bewohnen
+abito /ˈabito/
+1. Anzug, Gewand, Kostüm, Tracht
+2. Kleid, Robe
+abortire /abortˈire/
+abortieren
+accademia /akːadˈɛmia/
+Akademie
+accadere /akːadˈere/
+geschehen, passieren, sich ereignen, stattfinden, vorkommen
+accanto /akːˈanto/
+neben
+accappatoio /akːapːatˈojo/
+Bademantel
+accelerare /atʃːelerˈare/
+beeilen, beschleunigen, fördern, befördern
+accendere /atʃːˈɛndere/
+1. verbrennen
+2. zünden, entzünden
+accendino /atʃːendˈino/
+Funke
+accento /atʃːˈɛnto/
+Akzent, Betonung, Ton
+accettare /atʃːetːˈare/
+annehmen, empfangen, genehmigen
+acciaio /atʃːˈaio/
+Stahl
+accidente /atʃːidˈɛnte/
+Unfall
+acciuga /atʃːˈuɡa/
+Anchovis
+acclamare /akːlamˈare/
+akklamieren, zujauchzen
+accoglienza /akːoʎˈɛntsa/
+1. Annahme, Aufnahme, Übernahme, Zusage
+2. Gruß
+accogliere /akːˈɔʎere/
+annehmen, empfangen, genehmigen
+accoglimento /akːoʎimˈento/
+Annahme, Aufnahme, Übernahme, Zusage
+accomodamento /akːomodamˈento/
+1. Einrichtung, Zusammenstellung
+2. Einverständnis, Übereinkunft
+accompagnare /akːompaɲˈare/
+begleiten
+accordo /akːˈɔrdo/
+1. Abkommen, Einklang, Übereinkommen, Übereinkunft, Übereinstimmung
+2. Akkord
+3. Eintracht, Harmonie, Wohlklang
+4. Einverständnis
+5. Einigkeit
+accorgersi /akːˈɔrdʒersɪ/
+gewahr werden, innewerden
+accumulatore /akːʊmʊlatˈore/
+Akkumulator
+accusare /akːʊzˈare/
+anklagen, beschuldigen
+aceto /atʃˈeto/
+Essig
+acido /ˈatʃido/
+herb, sauer
+acino /ˈatʃino/
+Traube, Weintraube
+acqua /ˈakːwa/
+Wasser
+acquaforte /akːwafˈɔrte/
+Scheidewasser
+aculeo /akˈuleo/
+Stachel
+acuto /akˈuto/
+akut, heftig, hitzig
+adatto /adˈatːo/
+1. begabt, fähig, imstande, tüchtig
+2. tauglich
+addio /adːˈio/
+1. adieu, auf Wiedersehen, lebe wohl
+2. Abschied, Valet
+addormentarsi /adːormentˈarsɪ/
+einschlafen
+adorare /adorˈare/
+anbeten, verehren, vergöttern
+ad /ˈad/
+laut
+ad /ˈad/
+jäh
+aerare /aerˈare/
+lüften
+aereo /aˈɛːreo/
+Aeroplan, Flugmaschine, Flugzeug
+aeroplano /aeroplˈano/
+Aeroplan, Flugmaschine, Flugzeug
+aeroporto /aeropˈɔrto/
+Flugplatz
+affare /affˈare/
+Angelegenheit, Ding, Sache, Werk
+affascinante /affaʃinˈante/
+allerliebst, anmutig, hold, lieblich, reizend
+affaticare /affatikˈare/
+strapazieren
+affermare /affermˈare/
+bejahen, ja sagen
+afferrare /afferɾˈare/
+greifen, angreifen, ergreifen
+affettazione /affetːatsiˈone/
+Gezier
+affigere /affˈidʒere/
+anlegen, beifügen
+affilato /affilˈato/
+scharf
+affisso /affˈisso/
+Affiche, Anschlag, Anschlagzettel
+affittare /affitːˈare/
+vermieten
+affitto /affˈitːo/ <m>
+Miete <f>, Vermietung <f>
+afflitto /afflˈitːo/
+1. düster
+2. traurig
+affrancare /affrankˈare/
+frankieren
+affrancatura /affrankatˈura/
+Frankatur, Porto
+affrettarsi /affretːˈarsɪ/
+eilen, sputen
+afgano /afɡˈaːno/
+1. afghanisch
+2. Afghane
+africano /afrikˈano/
+1. afrikanisch
+2. Afrikaner
+agente /adʒˈɛnte/
+Agent, Geschäftsbesorger
+agenzia /adʒentsˈia/
+Agentur
+aggettivo /adʒːetːˈivo/
+1. adjektivisch
+2. Adjektiv, Eigenschaftswort
+aggiungere /adʒːˈundʒere/
+addieren, beifügen, zufügen
+aggredire /aɡːredˈire/
+ein Anschlag ausführen, ein Attentat ausführen
+agile /ˈadʒile/
+behände, gewandt
+agire /adʒˈire/
+agieren, handeln, verfahren, vorgehen, wirken
+agitato /adʒitˈato/
+heftig, unruhig
+agnello /aɲˈɛllo/
+Lamm
+ago /ˈaɡo/
+Nadel
+agonia /aɡonˈia/
+Agonie, Todeskampf
+agosto /aɡˈosto/ <m>
+August <m>
+agro /ˈaɡro/
+herb, sauer
+aia /ˈaia/
+Dreschtenne, Tenne
+aiutante /ajʊtˈante/
+Adjutant, Hilfsoffizier
+aiutare /ajʊtˈare/
+1. assistieren, beistehen, helfen
+2. beispringen
+aiuto /ajˈuto/
+Beihilfe, Beistand, Handreichung
+ala /ˈala/
+Fittich, Flügel
+alba /ˈalba/
+Tagesanbruch
+albanese /albanˈeze/
+1. albanesisch, albanisch
+2. Albaner, Albanier
+albergo /albˈɛrɡo/
+Hotel
+albero /ˈalbero/
+1. Baum
+2. Mast
+3. Pappel
+4. Welle
+albicocca /albikˈɔkːa/
+Aprikose, Marille
+album /ˈalbʊm/
+Album
+alcool /ˈalkoːl/
+Alkohol, Spiritus
+alcool /ˈalkoːl/
+Brennspiritus
+alcova /alkˈova/
+Alkoven
+alfabet /alfˈabet/
+Alphabet
+alfabeto /alfabˈɛto/ <m>
+Alphabet <n>
+alfabeto italiano /alfabˈɛto italiˈano/
+italienisches Alphabet
+         Note: A, a: Ancona, Amsterdam, Alfa
+         Note: B, b: Bologna, Baltimore, Bravo
+         Note: C, c: Catania, Casablanca, Charlie
+         Note: D, d: Domodossola, Danemark, Delta
+         Note: E, e: Empoli, Edison, Ecco
+         Note: F, f: Firenze, Florida, Foxtrot
+         Note: G, g: Genova, Gallipoli, Golf
+         Note: H, h: Hotel, Havanna, Hotel
+         Note: I, i: Imola, Italia, India
+         Note: J, j: i lunga, Jerusalem, Juliet, Jersey
+         Note: K, k: Kappa, Kilogramme, Kilo
+         Note: L, l: Livorno, Liverpool, Lima
+         Note: M, m: Milano, Madagascar, Mike
+         Note: N, n: Napoli, New York, November
+         Note: O, o: Otranto, Oslo, Oscar
+         Note: P, p: Padova, Paris, Papa
+         Note: Q, q: Quarto, Quebec, Quebec
+         Note: R, r: Roma, Roma, Romeo
+         Note: S, s: Savonda, Santiago, Sierra
+         Note: T, t: Turino, Tripoli, Tango
+         Note: U, u: Udine, Upsala, Uniform
+         Note: V, v: Venezia, Valencia, Victor
+         Note: W, w: vu doppia, Washington, Whiskey
+         Note: X, x: Xilofono, Xanthippe, X-ray
+         Note: Y, y: Yacht, Yokohama, Yankee
+         Note: Z, z: Zara, Zürich, Zulu
+algerino /aldʒerˈino/
+1. algerisch
+2. Algerier
+alice /alˈitʃe/
+Anchovis
+alimentare /alimentˈare/
+beköstigen, hegen, nähren, ernähren
+alimento /alimˈento/
+Ätzung, Ernährung, Futter, Nahrung, Nahrungsmittel
+alito /ˈalito/
+Atem, Hauch
+allarme /allˈarme/
+Alarm
+allattare /allatːˈare/
+säugen
+alla /ˈalla/
+endlich
+allegria /alleɡrˈia/
+Jubel, Wonne
+allegro /allˈeɡro/
+fröhlich, heiter, lustig, vergnügt
+allestire /allestˈire/
+bereiten, vorbereiten
+allievo /alliˈɛvo/
+Schüler
+allodola /allˈɔdola/
+Lerche
+alloggio /allˈɔdʒːo/
+Wohnhaus, Wohnung
+allora /allˈora/
+damals, dann, alsdann, danach, hierauf
+alloro /allˈɔro/
+Lorbeer, Lorbeerbaum
+allo /ˈallo/
+zugleich
+alludere /allˈudere/
+anspielen, anspielen auf
+allume /allˈume/
+Alaun
+all /ˈal/
+auswärtig
+all /ˈal/
+anfänglich
+almeno /almˈeno/
+wenigstens
+alsaziano /alsatsjˈano/
+1. elsässisch
+2. Elsässer
+altare /altˈare/
+Altar
+alta /ˈalta/
+Flut
+alternativa /alternatˈiva/
+Alternative
+altitudine /altitˈudine/
+Höhe
+alto /ˈalto/
+erhaben, hoch
+altro /ˈaltro/
+anderer, anders, sonst
+altrove /altrˈove/
+anderswo
+altura /altˈura/
+Höhe
+alveare /alveˈare/
+Bienenkorb, Bienenstock
+alzare /altsˈare/
+heben, aufheben, erheben, zücken
+alzarsi /altsˈarsɪ/
+1. aufstehen, sich stellen
+2. sträuben
+amabile /amˈabile/
+allerliebst, anmutig, hold, lieblich, reizend
+amare /amˈare/
+gern haben, lieben, mögen
+amaro /amˈaro/
+bitter
+amazzone /amˈatsːone/
+Amazone
+ambasciata /ambaʃˈata/
+Gesandtschaft
+ambasciatore /ambaʃatˈore/
+Botschafter, Gesandter
+ambiente /ambiˈɛnte/ <m>
+Umgebung <f>, Milieu <n>
+ambizione /ambitsiˈone/
+Ehrgeiz
+ambra /ˈambra/
+Bernstein
+americano /amerikˈano/
+1. amerikanisch
+2. Amerikaner
+amianto /amjˈanto/
+Asbest
+amica /amˈika/
+Freundin
+amichevole /amikˈevole/
+freundlich
+amicizia /amitʃˈitsia/ <f>
+Freundschaft <f>
+amico /amˈiko/
+Freund
+ammalarsi /ammalˈarsɪ/
+erkranken, krank werden
+ammazzare /ammatsːˈare/
+ermorden, töten
+amministrare /amministrˈare/
+administrieren, verwalten
+amministratore /amministratˈore/
+Direktor, Leiter, Vorsteher
+amministrazione /amministratsiˈone/
+Verwaltung
+ammirabile /ammirˈabile/
+bewundernswert, wunderbar
+ammiraglio /ammirˈaʎo/
+Admiral
+ammirare /ammirˈare/
+bewundern
+ammogliarsi /ammoʎˈarsɪ/
+sich verehelichen, sich verheiraten
+ammonimento /ammonimˈento/
+Ermahnung, Zuspruch
+ammortizzare /ammortidzːˈare/
+amortisieren, löschen
+ammuffito /ammʊffˈito/
+moderig
+amnistia /amnistˈia/
+Amnestie, Begnadigung, Straferlass
+amo /ˈamo/
+Angelhaken
+ampolla /ampˈolla/
+Birne
+amputare /ampʊtˈare/
+abnehmen, abschneiden, amputieren
+analizzare /analidzːˈare/
+analysieren, auflösen, zergliedern
+ananas /anˈanas/
+Ananas
+ananasso /ananˈasso/
+Ananas
+anatema /anatˈɛma/
+Bann, Fluch, Bannfluch
+anca /ˈanka/
+Hanke, Hüfte
+anche /ˈanke/
+auch, ebenfalls, gleichfalls
+ancora /ankˈora/
+1. noch
+2. Anker
+3. abermalig, abermals, von neuem, wieder
+4. wiederholt, zurück
+andare /andˈare/
+fahren, gehen, treten
+andarsene /andˈarsene/
+abreisen, fortgehen
+andatura /andatˈura/
+Eile, Geschwindigkeit, Hast
+anello /anˈɛllo/
+Ring
+anemia /anemˈia/
+Blutarmut
+anemone /anˈɛmone/
+Anemone
+angelo /ˈandʒelo/
+Engel
+angolo /ˈaŋɡolo/
+Ecke
+angoscia /anɡˈɔʃa/
+Angst
+angoscioso /aŋɡoʃˈozo/
+1. bang, feige
+2. zaghaft
+anguilla /aŋɡwˈilla/
+Aal
+animale /animˈale/ <m>
+Tier <n>
+anitra /anˈitra/
+Ente
+annegare /anneɡˈare/
+ertränken
+annegarsi /anneɡˈarsɪ/
+ersaufen, ertrinken
+anno /ˈanno/ <m>
+Jahr <n>
+annoiare /annoiˈare/
+verdrießen
+anno /ˈanno/
+Schaltjahr
+annuale /annʊˈale/ <adv>
+jährlich
+annualmente /annʊalmˈente/
+alljährlich
+annullare /annʊllˈare/
+annullieren, für null und nichtig erklären, kassieren
+annunciare /annʊntʃˈare/
+1. ankündigen, anzeigen, avisieren, melden, anmelden, verkünden
+2. anschließen, mitteilen, teilhaftig machen, verbinden
+annuncio /annˈuntʃo/
+Annonce, Anzeige, Inserat
+annunziare /annʊntsjˈare/
+ankündigen, anzeigen, avisieren, melden, anmelden, verkünden
+annunzio /annˈuntsio/
+Auskunft, Bekanntmachung
+antartico /antˈartiko/
+antarktisch, südpolar
+antenato /antenˈato/
+Ahn, Vorfahr, Urahn
+antenna /antˈenna/
+Fühler, Fühlhorn
+anticipare /antitʃipˈare/
+antizipieren, vorausnehmen
+antico /antˈiko/
+1. altertümlich, antik
+2. alt
+antisettico /antizˈɛtːiko/
+antiseptisch, fäulniswidrig
+antologia /antolodʒˈia/
+Anthologie
+antracite /antratʃˈite/
+Anthrazit
+apatia /apatˈia/
+Apathie, Teilnahmslosigkeit
+ape /ˈape/ <f>
+Biene <f>
+aperto /apˈɛrto/
+offen
+apicoltura /apikoltˈura/
+Bienenzucht
+apicultura /apikʊltˈura/
+Bienenzucht
+apoplessia /apoplˈessia/
+Schlag, Schlagfluss
+apostolo /apˈɔstolo/
+Apostel
+apparecchio /apːarˈekːio/
+Apparat, Vorrichtung
+apparenza /apːarˈɛntsa/
+1. Anblick, Aussehen
+2. Anschein, Ansehen, Augenschein, Schein
+apparire /apːarˈire/
+erscheinen
+appartamento /apːartamˈento/ <m>
+1. Appartment <n>, Etagenwohnung <f>, Gemach <n>
+2. Wohnhaus, Wohnung
+appartenere /apːartenˈɛre/
+gehören, angehören, zugehören
+appello /apːˈɛllo/
+Ruf
+appena /apːˈena/
+kaum
+appetito /apːetˈito/
+Appetit
+appiccicare /apːitʃːikˈare/
+kleben, leimen
+applaudire /apːlaʊdˈire/
+applaudieren, Beifall spenden
+applausi /apːlˈaʊzɪ/
+Applaus, Beifall
+applicare /apːlikˈare/
+anwenden, verwenden
+applicazione /apːlikatsiˈone/
+Fleiß
+appoggiare /apːodʒːˈare/
+stemmen, unterhalten, unterstützen
+apposta /apːˈɔsta/
+absichtlich
+apprestare /apːrestˈare/
+zurichten
+apprezzare /apːretsːˈare/
+1. abschätzen, bewerten, schätzen, einschätzen
+2. achten, mögen, wertschätzen, würdigen
+approfittare /apːrofitːˈare/
+profitieren
+approvare /apːrovˈare/
+approbieren, billigen, genehmigen, gutheißen
+approvazione /apːrovatsiˈone/
+Approbation, Beifall
+appuntamento /apːʊntamˈento/
+Rendezvous
+appuntato /apːʊntˈato/
+spitz
+aprile /aprˈile/ <m>
+April <m>
+aprire /aprˈire/
+aufmachen, öffnen
+aquila /ˈakwila/
+Adler
+arabo /ˈaɾabo/
+1. arabisch
+2. Araber
+aragosta /aɾaɡˈɔsta/
+Hummer
+arancia /aɾˈantʃa/
+Apfelsine, Orange, Pomeranze
+arancio /aɾˈantʃo/
+Orangenbaum
+aratro /aɾˈatro/
+Pflug
+arbitrario /arbitrˈario/
+beliebig, eigenmächtig, willkürlich
+arbusto /arbˈusto/
+Gebüsch, Staude, Strauch
+architetto /arkitˈetːo/
+Architekt
+arciduca /artʃidˈuka/
+Großherzog
+arcivescovo /artʃivˈeskovo/
+Erzbischof
+arco /ˈarko/
+Bogen, Bügel
+arcobaleno /arkobalˈeno/
+Regenbogen
+ardere /ˈardere/
+brennen
+ardesia /ardˈɛzia/
+Schiefer, Schiefergestein
+ardore /ardˈore/
+1. Glut, Feuer, Inbrunst
+2. Eifer
+arena /arˈena/
+Arena, Kampfplatz
+argentino /ardʒentˈino/
+Argentinier
+argento /ardʒˈɛnto/
+Silber
+argilla /ardʒˈilla/
+Lehm, Ton, Tonerde
+argomento /arɡomˈento/
+Argument, Beweis
+aria /ˈaria/
+1. Luft
+2. Arie
+3. Anblick, Aussehen
+4. Klima
+5. Äußeres, Gesicht, Miene
+6. Anschein, Ansehen, Augenschein, Schein
+arieggiare /ariedʒːˈare/
+lüften
+aringa /arˈiŋɡa/
+Hering
+armadio /armˈadio/
+Schrank
+armare /armˈare/
+waffnen, bewaffnen, rüsten
+armeno /armˈɛno/
+1. armenisch
+2. Armenier
+arnese /arnˈeze/
+Mittel, Werkzeug
+arnia /ˈarnia/
+Bienenkorb, Bienenstock
+aroma /arˈɔma/
+Aroma, Duft
+arrendersi /arɾˈɛndersɪ/
+sich ergeben, kapitulieren
+arrestare /arɾestˈare/
+arretieren, festnehmen, verhaften
+arrestato /arɾestˈato/
+Arrestant
+arresto /arɾˈɛsto/
+Arrest, Haft
+arrischiare /arɾiskjˈare/
+riskieren, wagen
+arrivare /arɾivˈare/
+1. erlangen, erzielen, reichen, erreichen
+2. geschehen, passieren, sich ereignen, stattfinden, vorkommen
+arrivo /arɾˈivo/
+Ankunft, Eintreffen
+arrugginito /arɾʊdʒːinˈito/
+rostig
+arruolare /arɾʊolˈare/
+werben, anwerben
+arsenale /arsenˈale/
+Arsenal, Zeughaus
+arteria /artˈɛria/
+Arterie, Pulsader, Schlagader
+articolo /artˈikolo/
+Abhandlung, Artikel
+artiglieria /artiʎerˈia/
+Artillerie
+artiglio /artˈiʎo/
+Klaue, Kralle
+ascensore /aʃensˈore/
+Aufzug, Fahrstuhl, Lift
+ascesso /aʃˈɛsso/
+Abszess, Eiterbeule, Geschwulst
+ascia /ˈaʃa/
+Axt, Beil, Hacke
+asciugamano /aʃʊɡamˈano/
+Handtuch
+ascoltare /askoltˈare/
+anhören, horchen, aushorchen, zuhören
+asfalto /asfˈalto/
+Asphalt, Erdpech
+asiatico /azjˈatiko/
+1. asiatisch
+2. Asiat
+asilo /azˈilo/
+Asyl, Zufluchtsstätte
+asino /ˈazino/ <m>
+Esel <m>
+asma /ˈazma/
+Asthma
+asparago /aspˈaɾaɡo/
+Spargel
+aspettare /aspetːˈare/
+1. gewärtigen, harren, warten, erwarten
+2. achtgeben, aufpassen, beachten, zusehen
+aspetto /aspˈɛtːo/
+Anblick, Aussehen
+assai /assˈaj/
+sehr
+assale /assˈale/
+Achse
+assalire /assalˈire/
+einen Anschlag ausführen, ein Attentat ausführen
+assalto /assˈalto/
+Anfall, Angriff
+asse /ˈasse/
+1. Achse
+2. Bordbrett, Brett, Regal, Wandbrett
+assediare /assedjˈare/
+belagern
+assedio /assˈɛdio/
+Belagerung
+assegno /assˈeɲɲo/
+Bankanweisung, Scheck
+assegno /assˈeɲɲo/
+Bankanweisung, Scheck
+assente /assˈɛnte/
+abwesend
+assenza /assˈɛntsa/
+Abwesenheit
+asserire /asserˈire/
+behaupten
+assicurare /assikʊrˈare/
+behaupten, bestätigen, vergewissern
+assicurazione /assikʊratsiˈone/
+Assekuranz, Versicherung
+assioma /assiˈɔma/
+Axiom, Grundsatz
+assiro /assˈiro/
+1. assyrisch
+2. Assyrer
+assistente /assistˈɛnte/
+Assistent
+assistere /assˈistere/
+assistieren, beistehen, helfen
+asso /ˈasso/
+As, Daus
+assurdo /assˈurdo/
+abgeschmackt, absurd, ungereimt, widersinnig
+astratto /astrˈatːo/
+abstrakt, begrifflich, unwirklich
+ateniese /atenjˈeze/
+1. athenisch
+2. Athener
+atlantico /atlˈantiko/
+Atlantik‐
+atmosfera /atmosfˈɛra/
+Atmosphäre
+atomo /ˈatomo/
+Atom
+attaccare /atːakːˈare/
+anfallen, angreifen, ausfallen, befallen, überfallen
+attacco /atːˈakːo/
+Anfall, Angriff
+attendere /atːˈɛndere/
+achtgeben, aufpassen, beachten, zusehen
+attentato /atːentˈato/
+Anschlag, Attentat
+attento /atːˈɛnto/
+aufmerksam
+attenzione /atːentsiˈone/
+Achtung, Aufmerksamkeit
+attirare /atːirˈare/
+anziehen
+attivo /atːˈivo/
+1. aktiv, tätig
+2. arbeitsam, geschäftig
+attore /atːˈore/
+Schauspieler
+attraversare /atːraversˈare/
+entern, übergeben, übertreten
+attraverso /atːravˈɛrso/
+1. hindurch, quer mitten
+2. jenseits, quer, über, hinüber
+attuale /atːʊˈale/
+1. aktuell, gegenwärtig
+augurio /aʊɡˈurio/
+1. Anzeichen, Vorzeichen
+2. Vorbedeutung, Wahrsagung
+australiano /aʊstraliˈano/
+1. australisch
+2. Australier
+austriaco /aʊstrˈiako/
+1. österreichisch
+2. Österreicher
+autista /aʊtˈista/
+Chauffeur, Fahrer
+auto /ˈaʊto/
+Auto
+autobus /ˈaːʊtobʊs/
+Autobus, Bus
+autocarro /aʊtokˈarɾo/
+Lastauto, Lastkraftwagen, LKW
+autocrate /aʊtˈɔkrate/
+Autokrat, Selbstherrscher
+automa /aʊtˈɔma/
+Automat
+automobile /aʊtomˈɔbile/
+Auto
+autore /aʊtˈore/
+1. Autor, Urheber, Verfasser
+2. Schriftsteller
+autorimessa /aʊtorimˈessa/
+Garage
+autorit /aʊtˈɔrit/
+Autorität, Gewalt
+autunale /aʊtʊnˈale/
+Herbst-, herbstlich
+autunno /aʊtˈunno/ <m>
+Herbst <m>
+avambraccio /avambrˈatʃːo/
+Unterarm
+avanti /avˈantɪ/
+hervor, vorwärts
+avaro /avˈaro/
+geizig
+avena /avˈena/
+Hafer
+avere /avˈere/
+1. besitzen, haben, innehaben
+2. Kredit
+aver /avˈɛr/
+benötigen, brauchen, nötig haben
+aver /avˈɛr/
+fürchten, befürchten, sich ängsten, sich ängstigen, zagen
+aviazione /avjatsiˈone/
+Aviatik
+avido /ˈavido/
+begierig, habgierig, lüstern
+avvelenare /avvelenˈare/
+vergiften
+avvenire /avvenˈire/
+1. Futur, Futurum, Zukunft
+avventura /avventˈura/
+Abenteuer
+avverbio /avvˈɛrbio/
+Adverb, Umstandswort
+avversione /avversiˈone/
+1. Abneigung, Antipathie, Widerwillen
+2. Ekel, Übelkeit
+avvertire /avvertˈire/
+warnen
+avviso /avvˈizo/
+1. Annonce, Anzeige, Inserat
+2. Warnung
+3. Avis, Ankündigung, Benachrichtigung
+4. Rat, Ratschlag
+avvolgere /avvˈoldʒere/
+packen, einpacken
+azione /atsiˈone/
+1. Handlung, Tat
+2. Aktie, Anteilschein
+azionista /atsionˈista/
+Aktieninhaber, Aktionär
+azzurro /adzːˈurɾo/
+1. blau
+2. Azur, Lasur
+a /ˈaː/
+billig
+a /ˈaː/
+heim, daheim, zu Hause
+a /ˈaː/
+rechts
+a /ˈaː/
+lange
+a /ˈaː/
+auswendig, aus dem Kopfe
+a /ˈaː/
+links
+a /ˈaː/
+Glückwünsch
+babordo /babˈɔrdo/
+Backbord
+bacca /bˈakːa/
+Beere
+bacca /bˈakːa/
+Blaubeere, Heidelbeere
+baciare /batʃˈare/
+küssen
+bacillo /batʃˈillo/
+Bazillus
+bacino /batʃˈino/
+Becken, Schale
+bacio /bˈatʃo/
+Kuss
+badare /badˈare/
+beaufsichtigen, warten
+badia /badˈia/
+Abtei
+baffi /bˈaffɪ/
+1. Schnurrbart
+2. Backenbart
+bagagliaio /baɡaʎˈaio/
+Gepäckwagen
+bagaglio /baɡˈaʎo/
+Bagage, Gepäck, Verpackung
+bagassa /baɡˈassa/
+Bagasse
+bagnante /baɲˈante/
+Badegast
+bagnare /baɲˈare/
+baden
+bagnato /baɲˈato/
+nass
+bagni /bˈaɲɲɪ/
+Badeort
+bagno /bˈaɲɲo/
+Bad
+baia /bˈaia/
+Bai, Bucht
+baionetta /bajonˈetːa/
+Bajonett
+balcone /balkˈone/
+Altan, Balkon
+balena /balˈena/ <f>
+1. Wal <m>
+2. Walfisch
+baleno /balˈeno/
+Blitz
+ballare /ballˈare/
+tanzen
+ballata /ballˈata/
+Ballade
+ballo /bˈallo/
+1. Ball
+2. Tanz
+baluardo /balʊˈardo/
+Bastei, Bastion, Bollwerk
+bambino /bambˈino/
+Kind
+bambola /bˈambola/
+Puppe
+bamb /bˈamb/
+Bambus
+banale /banˈale/
+abgedroschen, banal, fade
+banana /banˈana/
+Banane
+banca /bˈanka/
+Bank
+banchiere /bankiˈɛre/
+Bankier
+banconota /bankonˈɔta/
+Bon, Schein
+banda /bˈanda/
+Allianz, Band, Bund, Bündnis, Liga, Verband, Verbindung
+bandiera /bandiˈɛra/
+Banner, Fahne, Flagge
+bandire /bandˈire/
+bannen, ins Exil schicken, verbannen
+bandito /bandˈito/
+Bandit, Räuber
+bar /bˈar/
+Büfett, Schankraum
+baracca /baɾˈakːa/
+Baracke, Lagerhütte
+barba /bˈarba/
+Bart
+barbabietola /barbabjˈɛtola/
+Beete, Mangold, Runkelrübe
+barbaforte /barbafˈɔrte/
+Krehn, Meerrettich
+barbaro /bˈarbaro/
+Barbar
+barbiere /barbiˈɛre/
+Barbier
+barca /bˈarka/
+Boot
+barile /barˈile/
+Fass, Tonne
+barometro /barˈɔmetro/
+Barometer
+barone /barˈone/
+Baron, Freiherr
+barra /bˈarɾa/
+Barre, Stange
+barriera /barɾiˈɛra/
+Barriere, Schranke
+bassa /bˈassa/
+Ebbe
+basso /bˈasso/
+1. niedrig
+2. flach
+bastardo /bastˈardo/
+Bastard, Mischling
+bastare /bastˈare/
+ausreichen, genügen, hinreichen, zureichen
+bastione /bastiˈone/
+Bastei, Bastion, Bollwerk
+battaglia /batːˈaʎa/
+Kampf, Schlacht
+battaglione /batːaʎˈone/
+Bataillon
+battere /bˈatːere/
+hauen, schlagen
+battere /bˈatːere/
+applaudieren, Beifall spenden
+batteria /batːerˈia/
+Batterie
+batterio /batːˈɛrio/
+Bakterie
+battesimo /batːˈɛzimo/
+Taufe
+battezzare /batːedzːˈare/
+taufen
+baule /baˈule/
+Koffer
+bazar /batsˈar/
+Basar, Markt, Warenhaus
+becco /bˈekːo/
+Schnabel
+belga /bˈɛlɡa/
+Belgier
+bellino /bellˈino/
+hübsch
+bello /bˈɛllo/
+hübsch, schön
+benche /bˈenke/
+obgleich, obschon, wenn auch, zwar
+beneficio /benefˈitʃo/
+1. Ertrag, Gewinn, Interesse, Nutzen, Überschuss, Verdienst, Vorteil
+benevole /benˈɛvole/
+freundlich
+benzina /bendzˈɪna/
+Benzin
+bere /bˈere/
+trinken
+beretta /berˈetːa/
+Barett
+bestemmiare /bestemmjˈare/
+lästern
+bestia /bˈestia/ <f>
+Bestie <f>, Tier <m>
+betulla /betˈulla/
+Birke
+bevanda /bevˈanda/
+Getränk, Trank
+bianco /bjˈanko/
+weiß
+bibita /bˈibita/
+Getränk, Trank
+biblioteca /bibliotˈɛka/
+Bibliothek
+bibliotecario /bibliotekˈario/
+Bibliothekar
+bicchiere /bikːiˈɛre/
+1. Glas
+2. Becher, Pokal
+bicicletta /bitʃiklˈetːa/
+1. Fahrrad, Rad, Rover
+bigio /bˈidʒo/
+grau
+biglietto /biʎˈetːo/
+Billett, Fahrkarte, Karte
+bilancia /bilˈantʃa/
+Waage
+bilancio /bilˈantʃo/
+Bilanz, Schlussrechnung
+bile /bˈile/
+Galle
+biliardo /biliˈardo/
+Billard
+biondo /bjˈondo/
+blond
+birra /bˈirɾa/
+Bier
+birraio /birɾˈaio/
+Brauer
+birreria /birɾerˈia/
+Brauerei
+bisbigliare /bizbiʎˈare/
+flüstern
+biscotto /biskˈɔtːo/
+Biskuit, Zwieback
+bisnonno /biznˈɔnno/
+Urahn, Urgroßvater
+bisogno /bizˈoɲɲo/
+Bedarf, Bedürfnis
+bistecca /bistˈekːa/
+Beefsteak
+bloccare /blokːˈare/
+blockieren
+blocco /blˈɔkːo/
+Block, Klotz
+blu /blˈu/
+blau
+blusa /blˈuza/
+Bluse
+bocca /bˈokːa/
+Mund
+boccale /bokːˈale/
+Becher, Pokal
+boia /bˈɔia/
+Henker
+bollire /bollˈire/
+brausen, kochen, sieden, wallen
+bollo /bˈollo/
+Briefmarke
+bomba /bˈomba/
+Bombe
+bomba /bˈomba/
+Brandbombe
+bosco /bˈɔsko/
+Forst, Wald
+bottiglia /botːˈiʎa/
+Flasche
+bracchio /brˈakːio/
+Arm
+braccialetto /bratʃːalˈetːo/
+Armband
+bramoso /bramˈozo/
+begierig, habgierig, lüstern
+branchia /brˈankia/
+Kieme
+brasiliano /braziliˈano/
+Brasilianer
+breve /brˈɛve/
+bündig, gedrängt, konzis, kurz
+brigante /briɡˈante/
+Bandit, Räuber
+brigata /briɡˈata/
+Abteilung, Detachement
+brillante /brillˈante/
+blank
+brillare /brillˈare/
+blinken, glänzen, scheinen, schimmern, strahlen
+brillo /brˈillo/
+berauscht, trunken, betrunken
+brocca /brˈɔkːa/
+Kanne, Krug
+bronzo /brˈondzo/
+Bronze, Erz
+bruciare /brʊtʃˈare/
+verbrennen
+bruco /brˈuko/
+Raupe
+bruno /brˈuno/
+braun
+brusco /brˈusko/
+brummig, unwirsch
+buca /bˈuka/
+Briefkasten
+buco /bˈuko/
+Loch
+bue /bˈue/
+Ochs
+bufalo /bˈufalo/
+Büffel
+buio /bˈuːjo/
+dunkel, düster, trübe
+buono /bʊˈɔno/
+gut, gütig
+burro /bˈurɾo/
+Butter
+burrone /bʊrɾˈone/
+Abgrund, Tiefe
+bussola /bˈussola/
+Kompass
+busta /bˈusta/
+1. Briefumschlag, Kuvert, Umschlag
+busto /bˈusto/
+Büste
+cabina /kabˈina/
+Kabine, Kajüte, Koje
+cacao /kakˈao/
+Kakao
+cacciare /katʃːˈare/
+jagen
+cacto /kˈakto/
+Kaktus
+cadetto /kadˈetːo/
+Kadett
+caff /kˈaff/
+Kaffee
+cagna /kˈaɲɲa/ <f>
+Hündin
+calce /kˈaltʃe/
+Kalk
+calcestruzzo /kaltʃestrˈutsːo/
+Beton
+calcolare /kalkolˈare/
+erachten, kalkulieren, rechnen, berechnen
+calderotto /kalderˈɔtːo/
+Kessel
+caldo /kˈaldo/
+warm
+calice /kˈalitʃe/
+Becher, Pokal
+callo /kˈallo/
+Hühnerauge, Leichdorn, Schwiele
+calmare /kalmˈare/
+1. besänftigen, dämpfen, züchtigen
+2. beruhigen
+calmo /kˈalmo/
+gelassen, gemütlich, ruhig, still
+calunniare /kalʊnnjˈare/
+afterreden, anschwärzen, fälschlich beschuldigen, verleumden
+calvo /kˈalvo/
+kahl
+calzolaio /kaltsolˈaio/
+Schuhmacher, Schuster
+calzoni /kaltsˈonɪ/
+Beinkleid, Hose
+cambiale /kambjˈale/
+Wechsel
+cambiamento /kambjamˈento/
+1. Veränderung
+2. Abwechslung, Änderung, Tausch, Wechsel
+cambiare /kambjˈare/
+ändern, tauschen, umändern, umtauschen, wechseln, umwechseln
+camera /kˈamera/
+Gemach, Stube, Zimmer
+camera /kˈamera/
+Schlafzimmer
+cameriera /kameriˈɛra/ <f>
+Zimmermädchen <n>, Zofe <f>
+cameriere /kameriˈɛre/
+Kellner
+camion /kˈamion/
+1. Lastauto, Lastkraftwagen, LKW
+camminare /kamminˈare/
+1. fahren, gehen, treten
+2. laufen, marschieren
+cammino /kammˈino/
+Bahn, Chaussee, Strecke, Weg
+campagna /kampˈaɲɲa/
+Gefilde, Land
+campana /kampˈana/
+Glocke, Klingel
+campione /kampiˈone/
+Muster, Probe, Probestück, Spezimen
+campo /kˈampo/
+1. Acker
+2. Feld
+3. Flur, Land
+camposanto /kampozˈanto/
+Friedhof, Gottesacker, Kirchhof
+candela /kandˈela/
+1. Kerze, Licht
+cane /kˈane/ <m>
+Hund <m>
+canna /kˈanna/
+Angelrute
+cantante /kantˈante/
+Berufssänger, Kantor, Sänger
+cantare /kantˈare/
+singen
+canzone /kantsˈone/
+Gesang, Lied
+capace /kapˈatʃe/
+1. begabt, fähig, imstande, tüchtig
+2. tauglich
+capacit /kapˈatʃit/
+Kapazität
+capanna /kapˈanna/
+Hütte
+capelli /kapˈellɪ/
+Haar, Haare
+capire /kapˈire/
+begreifen, erfassen, verstehen
+capitano /kapitˈano/
+1. Hauptmann, Kapitän
+capo /kˈapo/
+1. Befehlshaber, Chef, Haupt, Häuptling, Herr, Oberhaupt, Vorsteher
+capostazione /kapostatsiˈone/
+Bahnhofsvorsteher
+capotreno /kapotrˈɛno/
+Aufseher, Führer, Kondukteur, Schaffner
+capoverso /kapovˈɛrso/
+Absatz, Alinea
+capo /kˈapo/
+Neujahr
+cappotta /kapːˈɔtːa/
+Haube, Kapotte
+capra /kˈapra/
+1. Geiß, Ziege, Zicke
+capriolo /kapriˈɔlo/ <m>
+Reh <n>
+capro /kˈapro/
+Ziegenbock
+carattere /kaɾˈatːere/
+Natur
+carbone /karbˈone/
+Kohle
+carciofo /kartʃˈɔfo/
+Artischocke
+caricare /karikˈare/
+1. anklagen, beschuldigen
+2. aufziehen, spannen, anspannen, ausspannen, straffen
+3. beauftragen, belasten, laden, aufladen, beladen
+carico /kˈariko/
+Belastung, Bürde, Fuhre, Ladung, Last
+carino /karˈino/
+1. freundlich
+2. hübsch, schön
+carnagione /karnadʒˈone/
+Gesichtsfarbe, Teint
+carne /kˈarne/
+Fleisch
+carne /kˈarne/
+Hammelfleisch
+carne /kˈarne/
+Kalbfleisch
+caro /kˈaro/
+1. hold, lieb
+2. teuer, wert
+carota /karˈɔta/
+Karotte, Möhre, Mohrrübe
+carriera /karɾiˈɛra/ <f>
+Karriere <f>
+carta /kˈarta/
+1. Karte, Zettel
+2. Papier
+carta /kˈarta/
+Löschpapier
+carta /kˈarta/
+Löschpapier
+carta /kˈarta/
+Toilettenpapier
+cartellone /kartellˈone/
+Affiche, Anschlag, Anschlagzettel
+cartolina /kartolˈina/
+Postkarte
+casa /kˈaza/
+1. Haus
+2. Heim
+cascata /kaskˈata/
+1. Wasserfall
+2. Kaskade
+casella /kazˈɛlla/
+Postfach
+caserma /kazˈɛrma/
+Kaserne
+caso /kˈazo/
+Hasard, Zufall
+cassa /kˈassa/
+Behälter, Besteck, Krug
+cassa /kˈassa/
+Sarg
+casseruola /kasserʊˈɔla/
+Bratpfanne, Kasserole, Kochpfanne, Pfanne
+cassetto /kassˈetːo/
+Lade, Schublade, Tischlade
+castagna /kastˈaɲɲa/
+Kastanie
+castagno /kastˈaɲɲo/
+Kastanienbaum
+castello /kastˈɛllo/
+Burg, Kastell, Schloss
+castigare /kastiɡˈare/
+ahnden, strafen, bestrafen, züchtigen
+catalogo /katˈaloɡo/
+Katalog, Verzeichnis
+catedrale /katedrˈale/
+Dom, Kathedrale, Münster
+catena /katˈena/
+Kette
+catrame /katrˈame/
+Teer
+cattivo /katːˈivo/
+1. böse, schlecht
+2. ausgelassen, mutwillig, schalkhaft, schelmisch, übermütig
+causa /kˈaʊza/
+Anlass, Grund, Ursache, Veranlassung
+causare /kaʊzˈare/
+antun, bewirken, veranlassen, verursachen, zufügen
+cava /kˈava/ <f>
+Grube <f>, Steinbruch <m>
+cavalletta /kavallˈetːa/
+Grashüpfer, Heuschrecke
+cavallo /kavˈallo/
+Gaul, Pferd
+cavatappi /kavatˈapːɪ/
+Korkenzieher
+cavia /kˈavia/ <f>
+Meerschweinchen <n>, Versuchskaninchen <n>
+caviglia /kavˈiʎa/
+Knöchel
+cavo /kˈavo/
+1. Kabel
+2. hohl
+3. konkav
+cavolfiore /kavolfiˈore/
+Blumenkohl, Karfiol
+cavolo /kˈavolo/
+Kohl
+cecita /tʃetʃˈita/
+Blindheit
+cedere /tʃˈedere/
+abtreten, nachgeben, weichen
+cedola /tʃˈɛdola/
+Coupon, Zinsabschnitt
+celebre /tʃˈɛlebre/
+berühmt
+cella /tʃˈɛlla/ <f>
+Zelle <f>
+cena /tʃˈena/
+Abendessen, Abendmahl, Souper
+cenere /tʃˈenere/
+Asche
+censore /tʃensˈore/
+Zensor
+censura /tʃensˈura/
+Zensur
+centesimo /tʃentˈɛzimo/
+Cent
+centimetro /tʃentˈimetro/
+Zentimeter
+cento /tʃˈɛnto/
+hundert
+centrale /tʃentrˈale/
+zentral
+centro /tʃˈɛntro/
+Mittelpunkt, Zentrum
+cercare /tʃerkˈare/
+ausschauen nach, suchen, aufsuchen
+cerchio /tʃˈerkio/
+Zirkel
+certamente /tʃertamˈente/
+allerdings, bestimmt, freilich, gewiss, immerhin, wohl, zwar
+certificato /tʃertifikˈato/
+Attest, Testimonium, Zeugnis, Zertifikat
+certo /tʃˈɛrto/
+bestimmt, gewiss, sicher, zuversichtlich
+cervello /tʃervˈɛllo/
+Gehirn, Hirn
+cervo /tʃˈɛrvo/ <m>
+Hirsch <m>
+cessare /tʃessˈare/
+aufhören
+cessione /tʃessiˈone/
+Zession
+cesso /tʃˈɛsso/
+Abort, Abtritt
+cestino /tʃestˈino/
+Papierkorb
+cesto /tʃˈesto/
+Korb
+che /kˈe/
+1. dass
+2. als
+chiacchierare /kjakːjerˈare/
+plaudern, schwatzen
+chiamare /kjamˈare/
+1. heißen, nennen, benennen, ernennen
+2. rufen, anrufen
+chiamarsi /kjamˈarsɪ/
+heißen
+chiamata /kjamˈata/
+1. Anruf, Zuruf
+2. Ruf
+chiaro /kjˈaro/
+anschaulig, augenscheinlich, ersichtlich, evident, offenbar
+chiave /kjˈave/
+1. Schlüssel
+2. Schraubenschlüssel
+chicco /kˈikːo/
+Traube, Weintraube
+chiedere /kjˈɛdere/
+bitten, ersuchen
+chiesa /kjˈɛza/
+Kirche
+chiglia /kˈiʎa/
+Kiel
+chimica /kˈimika/
+Chemie
+chiocciola /kiˈɔtʃːola/
+1. Schnecke
+2. Klammeraffe
+chiocciolina /kiotʃːolˈina/
+Klammeraffe
+chiodo /kiˈɔdo/
+Nagel, Stift
+chirurgo /kirˈurɡo/
+Chirurg, Wundarzt
+chiudere /kjˈudere/
+schließen, verschließen, zumachen
+chiuso /kjˈuzo/
+geschlossen, zu
+cibo /tʃˈibo/
+Ätzung, Ernährung, Futter, Nahrung, Nahrungsmittel
+ciclomotore /tʃiklomotˈore/
+Moped
+cieco /tʃˈɛko/
+1. blind
+2. Blinder
+cielo /tʃˈɛlo/
+Himmel
+ciliegia /tʃiliˈɛdʒa/
+Kirsche
+ciliegio /tʃiliˈɛdʒo/
+Kirschbaum
+cilindro /tʃilˈindro/
+Walze, Zylinder
+cima /tʃˈima/
+First, Gipfel, Wipfel
+cimice /tʃˈimitʃe/ <f>
+1. Wanze <f>
+2. Reiszwecke <f>
+cimitero /tʃimitˈɛro/
+Friedhof, Gottesacker, Kirchhof
+cinema /tʃˈinema/
+Kino
+cinese /tʃinˈeze/
+Chinese
+cinghiale /tʃiŋɡjˈale/ <m>
+Wildschwein <n>, Eber <m>
+cinquanta /tʃinkwˈanta/
+fünfzig
+cinque /tʃˈinkwe/
+fünf
+cintura /tʃintˈura/
+Gurt, Gürtel
+cioccolata /tʃokːolˈata/
+Schokolade
+cio /tʃˈɔ/
+das heißt, das ist
+cipolla /tʃipˈolla/
+Zwiebel
+cipollina /tʃipollˈina/
+Schnittlauch
+cipresso /tʃiprˈɛsso/
+Zypresse
+circa /tʃˈirka/
+annähernd, etwa, ungefähr
+circo /tʃˈirko/
+Zirkus
+circolo /tʃˈirkolo/
+1. Zirkel
+2. Kreis
+circondare /tʃirkondˈare/
+umringen, umzingeln
+circondario /tʃirkondˈario/
+1. Amtsbezirk, Bezirk, Distrikt, Gau
+2. Quartier, Stadtviertel, Viertel
+citare /tʃitˈare/
+anführen, erwähnen, nennen, zitieren
+citazione /tʃitatsiˈone/
+Zitat
+cittadella /tʃitːadˈɛlla/
+Zitadelle
+cittadinanza /tʃitːadinˈantsa/
+Staatsangehörigkeit
+citt /tʃˈitː/
+Ort, Stadt
+ciuco /tʃˈuko/
+Esel
+civile /tʃivˈile/
+bürgerlich, zivil
+cliente /kliˈɛnte/
+Klient, Kunde
+clima /klˈima/
+Klima
+cloro /klˈɔro/
+Chlor
+coccodrillo /kokːodrˈillo/
+Krokodil
+coda /kˈoda/
+Bürzel, Fahne, Lunte, Rute, Schleppe, Schwanz, Schweif, Sterz, Wedel
+cognac /kˈoɲak/
+Kognak
+cognato /koɲˈato/
+Schwager
+cognome /koɲˈome/
+Familienname
+coincidenza /kointʃidˈɛntsa/
+Anschluss
+colazione /kolatsiˈone/
+1. Frühstück
+2. Diner, Mittagessen
+colle /kˈolle/
+Halde, Hügel
+collega /kollˈɛɡa/
+Kollegium
+collegio /kollˈɛdʒo/
+Amtsbruder, Amtsgenosse, Genosse, Kollege
+collina /kollˈina/
+Halde, Hügel
+collo /kˈollo/
+Hals
+colore /kolˈore/
+Farbe
+colpevole /kolpˈevole/
+schuldig
+colpire /kolpˈire/
+1. klopfen, schlagen
+2. treffen
+colpo /kˈolpo/
+Hieb, Schlag, Streich
+coltello /koltˈɛllo/
+Messer
+comandante /komandˈante/
+Befehlshaber
+comando /komˈando/
+Befehl
+come /kˈome/
+als ob, gleichsam
+comico /kˈɔmiko/
+drollig, komisch, spaßhaft
+cominciare /komintʃˈare/
+1. anbrechen, anfangen, beginnen
+comitato /komitˈato/
+Ausschuss, Komitee
+commedia /kommˈɛdia/
+Komödie, Lustspiel
+commerciante /kommertʃˈante/
+1. Händler, Kaufmann
+commercio /kommˈɛrtʃo/
+Handel
+commestibile /kommestˈibile/
+essbar, genießbar
+commettere /kommˈetːere/
+anfertigen, herstellen, leiten, machen, tun, zurücklegen
+commissario /kommissˈario/
+1. Kommissar
+2. Zahlmeister
+comodo /kˈɔmodo/
+bequem, gemächlich, wohnlich
+compagnia /kompaɲˈia/
+1. Gesellschaft, Kompagnie
+2. Rotte
+3. Assoziation, Sozietät
+compare /kompˈare/
+Gevatter, Pate
+comperare /komperˈare/
+kaufen, sich kaufen
+compiere /kˈompjere/
+ausführen, bestellen, erfüllen, leisten
+compito /kˈompito/
+Arbeit, Aufgabe, Pensum
+compleanno /kompleˈanno/
+1. Jahrestag
+2. Geburtstag
+completamente /kompletamˈente/
+1. völlig
+completare /kompletˈare/
+vervollständigen
+completo /komplˈɛto/
+ganz, total
+comportarsi /komportˈarsɪ/
+sich aufführen, sich benehmen, sich betragen, sich verhalten
+comprare /komprˈare/
+1. kaufen, sich kaufen
+compratore /kompratˈore/
+Klient, Kunde
+comprendere /komprˈɛndere/
+begreifen, erfassen, verstehen
+comprensibile /komprensˈibile/
+begreiflich, fassbar, verständlich
+compromesso /kompromˈesso/
+Kompromiss
+comune /komˈune/
+gemein, allgemein, gemeinsam, gemeinschaftlich
+comunicare /komʊnikˈare/
+anschließen, mitteilen, teilhaftig machen, verbinden
+comunicato /komʊnikˈato/
+Auskunft, Bekanntmachung
+comunista /komʊnˈista/
+Kommunist
+concernere /kontʃˈɛrnere/
+1. betreffs
+2. angehen, anlangen, betreffen
+concerto /kontʃˈɛrto/
+Musikaufführung, Konzert
+conchiglia /konkˈiʎa/
+Muschel
+concimare /kontʃimˈare/
+düngen
+conciso /kontʃˈizo/
+bündig, gedrängt, konzis, kurz
+concludere /konklˈudere/
+1. ableiten, deduzieren, folgern
+2. schließen
+3. einen Vertrag schließen
+concordare /konkordˈare/
+beipflichten, beistimmen, einwilligen, zustimmen, zuwilligen
+concorso /konkˈorso/
+Konkurrenzprüfung, Preisausschreiben, Wettbewerb
+condannare /kondannˈare/
+verdammen, verurteilen
+condotta /kondˈotːa/
+Aufführung, Benehmen, Betragen, Gebahren, Verhalten
+condotto /kondˈotːo/
+Rohr, Röhre, Schlauch
+condurre /kondˈurɾe/
+führen, leiten, lenken
+condursi /kondˈursɪ/
+sich aufführen, sich benehmen, sich betragen, sich verhalten
+conferenza /konferˈɛntsa/
+Beratung, Konferenz
+confermare /konfermˈare/
+bekräftigen, bestätigen, konfirmieren
+confessare /konfessˈare/
+1. anerkennen, gestehen, eingestehen
+2. beichten
+confessione /konfessiˈone/
+1. Bekenntnis, Eingeständnis, Geständnis
+2. Beichte
+confetto /konfˈɛtːo/
+Bonbon
+confine /konfˈine/
+Grenze, Schranke
+conflitto /konflˈitːo/
+Konflikt, Streit, Widerstreit
+confrontare /konfrontˈare/
+vergleichen
+confuso /konfˈuzo/
+bestürzt
+congedo /kondʒˈɛdo/
+Abschied, Valet
+congelarsi /kondʒelˈarsɪ/
+erfrieren
+congiungere /kondʒˈundʒere/
+fügen, gesellen, vereinigen
+congiunto /kondʒˈunto/
+verwandt, anverwandt
+congresso /koŋɡrˈɛsso/
+Kongress
+coniglio /konˈiʎo/
+Kaninchen
+coniugi /kˈoniʊdʒɪ/
+Ehepaar
+conoscenza /konoʃˈɛntsa/
+1. Bekannter
+2. Kenntnis, Wissen, Wissenschaft
+conoscere /konˈoʃere/
+kennen
+conosciuto /konoʃˈuto/
+bekannt
+consapevolezza /konsapevolˈetsːa/
+Bewusstsein
+conservare /konservˈare/
+aufbewahren, behalten, bergen, erhalten, konservieren
+conservatorio /konservatˈɔrio/
+Konservatorium
+considerare /konsiderˈare/
+berücksichtigen, betrachten, erwägen, sich überlegen
+considerato /konsiderˈato/
+da, denn, weil
+considerazione /konsideratsiˈone/
+Achtung, Verehrung
+consigliare /konsiʎˈare/
+raten, beraten, einen Rat geben
+consiglio /konsˈiʎo/
+Rat, Ratschlag
+consolare /konsolˈare/
+trösten, Trost spenden
+consolato /konsolˈato/
+Konsulat
+console /kˈɔnsole/
+Konsul
+consorti /konsˈɔrtɪ/
+Ehepaar
+constatare /konstatˈare/
+als Tatsache feststellen, konstatieren
+consueto /konsʊˈɛto/
+geläufig, üblich
+contabile /kontˈabile/
+Buchhalter
+contadino /kontadˈino/
+Bauer
+contante /kontˈante/
+bar, kontant
+contare /kontˈare/
+zählen, aufzählen
+contatto /kontˈatːo/
+Berührung, Kontakt
+contenere /kontenˈere/
+1. enthalten
+2. einschließen
+contento /kontˈɛnto/
+zufrieden
+contenuto /kontenˈuto/
+Inhalt
+continuare /kontinʊˈare/
+fortfahren, fortführen
+continuo /kontˈinʊo/
+fest
+conto /kˈonto/
+1. Kalkül
+2. Konto, Rechnung
+contraddire /kontradːˈire/
+widersprechen
+contrasto /kontrˈasto/
+Gegensatz, Kontrast
+contratto /kontrˈatːo/
+Akkord, Traktat, Vertrag
+contravvenzione /kontravventsiˈone/
+1. Geldstrafe
+2. Protokoll
+contributo /kontribˈuto/
+Beisteuer, Kontribution
+contribuzione /kontribʊtsiˈone/
+Abgabe, Steuer, Steuerabgabe
+contro /kˈontro/
+an, gegen, gegenüber, wider
+controllare /kontrollˈare/
+kontrollieren, nachsehen, überwachen
+convegno /konvˈeɲɲo/
+Versammlung, Zusammenkunft
+conveniente /konveniˈɛnte/
+angemessen, füglich, geeignet, zeitgemäß
+convenire /konvenˈire/
+1. gehören, schicken, sich gehören, ziemen
+2. sich verständigen, übereinkommen, verabreden, vereinbaren
+conversazione /konversatsiˈone/
+Gespräch, Konversation, Unterhaltung
+convertire /konvertˈire/
+bekehren, umstimmen
+convertito /konvertˈito/
+Proselyt
+convincere /konvˈintʃere/
+überreden, überzeugen
+coperta /kopˈɛrta/ <f>
+1. Deck, Schiffsdeck, Verdeck
+2. Bedeckung, Decke, Deckel, Umschag
+3. Bettdecke <f>, Decke <f>
+coprire /koprˈire/
+belegen, decken, bedecken, einhüllen, verhüllen, zudecken
+coraggio /korˈadʒːo/
+Mut
+cornamusa /kornamˈuza/
+Dudelsack
+corpo /kˈɔrpo/
+Körper, Leib
+correggere /korɾˈedʒːere/
+berichtigen, korrigieren, verbessern
+corrente /korɾˈɛnte/
+Strömung
+correre /kˈorɾere/
+laufen
+corretto /korɾˈɛtːo/
+recht, richtig
+corridoio /korɾidˈojo/
+Gang, Hausflur, Flur, Korridor
+corsia /korsˈia/
+Bahn, Chaussee, Strecke, Weg
+corteccia /kortˈetʃːa/
+1. Baumrinde, Rinde
+2. Bast
+cortese /kortˈeze/
+1. freundlich
+2. artig, galant, höflich
+cortile /kortˈile/
+Hof, Hofraum
+cortina /kortˈina/
+Gardine, Vorhang
+corto /kˈorto/
+kurz
+corvo /kˈɔrvo/
+Rabe
+cosa /kˈɔza/
+1. Ding
+2. Gegenstand, Objekt
+coscia /kˈɔʃa/
+Schenkel, Oberschenkel
+cosciente /koʃˈɛnte/
+wissentlich
+coscienza /koʃˈɛntsa/
+Bewusstsein
+costa /kˈɔsta/
+Küste
+costante /kostˈante/
+beständig, fest, konstant, ständig, stetig, unablässig
+costare /kostˈare/
+kosten
+costoletta /kostolˈetːa/
+Kotelett
+costoso /kostˈozo/
+1. teuer, wert
+costringere /kostrˈindʒere/
+zwingen
+costruire /kostrʊˈire/
+bauen, aufbauen, erbauen, konstruieren
+costruzione /kostrʊtsiˈone/
+Erbauung, Bau
+costume /kostˈume/
+1. Anzug, Gewand, Kostüm, Tracht
+2. Angewohnheit, Brauch, Gebrauch, Gepflogenheit, Gewohnheit, Usus
+costume /kostˈume/
+Badeanzug
+covare /kovˈare/
+brüten
+covata /kovˈata/
+Brut
+cranio /krˈanio/
+Schädel
+cravatta /kravˈatːa/
+Halsbinde, Krawatte, Schlips
+credere /krˈedere/
+glauben
+credito /krˈedito/
+Kredit
+creditore /kreditˈore/
+Gläubiger, Kreditor
+crema /krˈɛma/
+Rahm, Sahne
+crepa /krˈɛpa/
+Spalte
+crepuscolo /krepˈuskolo/
+Zwielicht
+crescere /krˈeʃere/
+gedeihen, wachsen, anwachsen
+crescimento /kreʃimˈento/
+Anwuchs, Vermehrung, Wuchs, Zunahme
+creta /krˈɛta/
+Kreide
+cricco /krˈikːo/
+Heber
+criceto /kritʃˈɛto/ <m>
+Hamster <m>
+crisi /krˈizɪ/
+Krisis, Krise
+criticare /kritikˈare/
+begutachten, kritisieren
+croce /krˈotʃe/
+Kreuz
+crudele /krʊdˈɛle/
+grausam
+crudo /krˈudo/
+arg, rau, roh
+cubo /kˈubo/
+Würfel
+cucchiaio /kʊkːjˈaio/
+Löffel
+cucina /kʊtʃˈina/
+Küche
+cugina /kʊdʒˈina/
+Base, Kusine
+cugino /kʊdʒˈino/
+Cousin, Vetter
+cuoca /kʊˈɔka/
+Köchin
+cuocere /kʊˈɔtʃere/
+backen
+cuoio /kʊˈɔjo/
+Leder
+cuore /kʊˈɔre/
+Gemüt, Herz
+cura /kˈura/ <f>
+1. Sorge <f>, Pflege <f>, Sorgfalt <f>
+2. Besorgnis <f>, Sorge <f>
+curare /kʊrˈare/
+pflegen, warten
+curato /kʊrˈato/
+Geistlicher, Pastor, Pfarrer, Priester
+curioso /kʊriˈozo/
+1. neugierig
+curva /kˈurva/
+Kurve
+curvarsi /kʊrvˈarsɪ/
+1. hängen, sich bücken
+2. biegen
+curvo /kˈurvo/
+gebogen, krumm
+cuscino /kʊʃˈino/
+Kissen
+dabbasso /dabːˈasso/
+unten, unterhalb
+dado /dˈado/
+Würfel
+danese /danˈeze/
+Däne
+danneggiare /dannedʒːˈare/
+beschädigen, Schaden zufügen, verderben, verletzen
+danza /dˈantsa/
+Tanz
+dappertutto /dapːertˈutːo/
+allenthalben, allerorten, überall
+dapprima /dapːrˈima/
+1. anfänglich
+2. erst, erstens, zuerst
+dapprincipio /dapːrintʃˈipio/
+anfänglich
+dare /dˈare/
+erteilen, geben, angeben, herreichen
+data /dˈata/
+Datum
+dattero /dˈatːero/
+Dattel
+davanti /davˈantɪ/
+früher, zuvor
+davvero /davvˈero/
+fürwahr, wahrhaftig, wahrlich, wirklich
+dazio /dˈatsio/
+Akzise, Verbrauchssteuer
+da /dˈa/
+lange
+debilitare /debilitˈare/
+erschlaffen
+debito /dˈebito/
+Ausstand, Schuld
+debole /dˈebole/
+flau, gelinde, schwach
+decente /detʃˈɛnte/
+gehörig
+decidere /detʃˈidere/
+beschließen, entscheiden, sich entschließen
+decimetro /detʃˈimetro/
+Dezimeter
+decisione /detʃiziˈone/
+Austrag, Beschluss, Entschluss
+decisivo /detʃizˈivo/
+1. entschieden
+2. entscheidend
+decorare /dekorˈare/
+aufputzen, ausputzen, schmücken, verzieren
+decrepito /dekrˈɛpito/
+abgelebt, baufällig, gebrechlich, hinfällig
+decreto /dekrˈɛto/
+Dekret
+dedurre /dedˈurɾe/
+1. ableiten, deduzieren, folgern
+2. schließen
+definire /definˈire/
+bestimmen, definieren
+definitivo /definitˈivo/
+definitiv, endgültig
+delegato /deleɡˈato/
+1. Abgeordneter, Delegierter
+delfino /delfˈino/ <m>
+1. Delphin, Tümmler
+2. Delphin, Delfin <m>
+delicato /delikˈato/
+delikat, fein, gelinde, zart
+delitto /delˈitːo/
+Frevel, Verbrechen, Vergehen
+demonio /demˈɔnio/
+Teufel
+denaro /denˈaro/
+Geld
+denso /dˈɛnso/
+dicht, gedrängt, geschlossen
+dentatura /dentatˈura/
+Gebiss
+denti /dˈɛntɪ/
+Gebiss
+dentista /dentˈista/
+Zahnarzt
+dentro /dˈentro/
+1. in, nach, pro, zu
+2. binnen, inne, innerhalb, inwendig
+denuncia /denˈuntʃa/
+Anzeige
+denunciare /denʊntʃˈare/
+angeben, anzeigen, denunzieren, hinterbringen
+depresso /deprˈɛsso/
+1. flau, träge
+2. verzagt
+deputato /depʊtˈato/
+1. Abgeordneter, Delegierter
+derivare /derivˈare/
+ableiten, herleiten
+derubare /derʊbˈare/
+berauben
+descrivere /deskrˈivere/
+beschreiben
+deserto /dezˈɛrto/
+Einöde, Wildnis, Wüste
+desiderabile /deziderˈabile/
+erwünscht
+desiderare /deziderˈare/
+wünschen
+desiderio /dezidˈɛrio/
+Begehr, Lust, Wunsch
+despota /dˈɛspota/
+Gewaltherrscher, Despot
+dessert /dˌɛssˈer/
+Dessert, Nachtisch
+destinare /destinˈare/
+ausersehen, bestimmen, festsetzen
+destinario /destinˈario/
+Empfänger
+destra /dˈɛstra/
+Steuerbord
+destrezza /destrˈetsːa/
+Geschicklichkeit, Gewandtheit
+destro /dˈɛstro/
+1. rechter
+2. anstellig, behände, fix, geschickt, geübt, gewandt
+3. aufrecht, direkt, gerad, gradlinig, unmittelbar
+detenuto /detenˈuto/
+Arrestant
+detestare /detestˈare/
+verabscheuen
+di /dˈi/
+1. ab, seit, von
+2. als
+diabolico /djabˈɔliko/
+teuflisch
+diadema /djadˈɛma/
+Diadem
+dialetto /djalˈɛtːo/
+Dialekt, Mundart
+diamante /djamˈante/
+Diamant
+diario /djˈario/
+Tagebuch
+diavolo /djˈavolo/
+Teufel
+dicembre /ditʃˈɛmbre/ <m>
+Dezember <m>
+dichiarazione /dikjaɾatsiˈone/
+Angabe, Anzeige
+diciannove /ditʃannˈɔve/
+neunzehn
+diciasette /ditʃazˈetːe/
+siebzehn
+diciotto /ditʃˈɔtːo/
+achtzehn
+dieci /djˈɛtʃɪ/
+zehn
+dieta /djˈɛta/
+Diät
+dietro /djˈɛtro/
+1. hinter
+2. nach
+3. dann, darauf, hernach, hierauf, hinten, hinterher, nachher, später
+difendere /difˈɛndere/
+behaupten, beschützen, verteidigen
+difesa /difˈeza/
+Abwehr, Wehr
+difetto /difˈɛtːo/
+Verderbnis
+differente /differˈɛnte/
+verschieden, verschiedenartig
+difficile /diffˈitʃile/
+schwer
+dilettante /diletːˈante/
+Amateur, Liebhaber
+diligenza /dilidʒˈɛntsa/
+Fleiß
+dimensione /dimensiˈone/
+Ausdehnung, Dimension
+dimenticare /dimentikˈare/
+vergessen
+dimorare /dimorˈare/
+hausen, wohnen
+dinamite /dinamˈite/
+Dynamit
+dio /dˈio/
+Gott
+dipendente /dipendˈɛnte/
+abhängig
+dipendere /dipˈɛndere/
+abhängen
+dipingere /dipˈindʒere/
+malen
+diploma /diplˈɔma/
+Diplom, Prüfungszeugnis, Urkunde
+diplomatico /diplomˈatiko/
+Diplomat
+dire /dˈire/
+erwähnen, sagen
+direttamente /diretːamˈente/
+gleich, sogleich
+direttore /diretːˈore/
+Direktor, Leiter, Vorsteher
+direzione /diretsiˈone/
+Verwaltung
+dirigere /dirˈidʒere/
+administrieren, verwalten
+diritto /dirˈitːo/
+Befugnis, Recht
+disastro /dizˈastro/
+Ungemach, Unglück
+discendente /diʃendˈɛnte/
+Abkomme, Abkömmling, Epigone
+discendenza /diʃendˈɛntsa/
+Abkunft, Abstammung, Herkunft, Ursprung
+discendere /diʃˈɛndere/
+entspringen, entstehen, herkommen, stammen, abstammen
+discreto /diskrˈeto/
+diskret, verschwiegen
+discutere /diskˈutere/
+1. diskutieren, erörtern, verhandeln
+2. bereden, besprechen, sprechen über
+disegnare /dizeɲˈare/
+zeichnen, abzeichnen
+disegno /dizˈeɲɲo/
+Zeichnung
+disfatta /disfˈatːa/
+Niederlage
+disgrazia /dizɡrˈatsia/
+Unfall
+disonesto /dizonˈɛsto/
+unredlich
+disporre /dispˈɔrɾe/
+disponieren, verfügen, walten
+disposto /dispˈosto/
+geneigt zu
+dissoluto /dissolˈuto/
+unbändig, zügellos
+distante /distˈante/
+entlegen, fern, entfernt, weit
+distanza /distˈantsa/
+Abstand, Entfernung, Weite
+distillare /distillˈare/
+destillieren
+distinguere /distˈiŋɡwere/
+auszeichnen, hervorheben, unterscheiden
+distinto /distˈinto/
+anschaulich, bestimmt, deutlich, klar
+distretto /distrˈetːo/
+1. Amtsbezirk, Bezirk, Distrikt, Gau
+2. Quartier, Stadtviertel, Viertel
+distribuire /distribʊˈire/
+austeilen, verallgemeinern, verteilen
+distruggere /distrˈudʒːere/
+umreißen, vernichten, zerstören
+disturbare /distʊrbˈare/
+beengen, behindern, belästigen, genieren, lästig fallen, stören
+dito /dˈito/
+Finger
+dito /dˈito/
+Zehe
+ditta /dˈitːa/ <f>
+Firma <f>
+diversamente /diversamˈente/
+andernfalls, anders, sonst
+divertire /divertˈire/
+amüsieren, belustigen, ergötzen, unterhalten
+dividere /divˈidere/
+dividieren, teilen, einteilen, gliedern, verteilen, zerlegen
+divisione /diviziˈone/
+Sektion
+divorzio /divˈɔrtsio/
+Scheidung
+dizionario /ditsionˈario/
+Wörterbuch
+di /dˈi/
+früh, zeitig
+di /dˈi/
+hinten
+di /dˈi/
+freilich, tatsächlich
+di /dˈi/
+ihre
+di /dˈi/
+daher
+di /dˈi/
+insgeheim, verstohlen
+di /dˈi/
+1. abermalig, abermals, von neuem, wieder
+2. wiederholt, zurück
+di /dˈi/
+allerlei
+di /dˈi/
+dann und wann, von Zeit zu Zeit, zeitweilig
+di /dˈi/
+abends
+di /dˈi/
+oben
+doccia /dˈotʃːa/
+Brause, Dusche, Sturzbad
+documento /dokʊmˈento/
+Dokument, Urkunde
+dodici /dˈoditʃɪ/
+zwölf
+dogana /doɡˈana/
+Zollamt
+dolce /dˈoltʃe/
+süß
+dolore /dolˈore/
+Schmerz, Weh
+domanda /domˈanda/ <f>
+1. Gesuch <m>
+2. Frage <f>
+domandare /domandˈare/
+fragen, anfragen
+domani /domˈanɪ/
+morgen
+domenica /domˈenika/ <f>
+Sonntag <m>
+domestica /domˈɛstika/ <f>
+Dienstmädchen <n>
+domestico /domˈɛstiko/
+Hausdiener
+dominare /dominˈare/
+herrschen, beherrschen, regieren
+donna /dˈɔnna/
+Frau, Weib
+dono /dˈono/
+Angebinde, Gabe, Geschenk, Spende, Vermächtnis
+dopo /dˈopo/
+1. hinter
+2. nach
+3. dann, darauf, hernach, hierauf, hinten, hinterher, nachher, später
+4. danach
+dopodomani /dopodomˈanɪ/
+übermorgen
+doppio /dˈopːio/
+doppelt, zweifach
+dormire /dormˈire/
+schlafen
+dorso /dˈɔrso/
+Rücken
+dose /dˈɔze/
+Dosis
+dotato /dotˈato/
+begabt
+dote /dˈɔte/
+Dotation, Mitgift
+dottore /dotːˈore/
+1. Doktor
+2. Arzt
+dovere /dovˈere/
+1. Gebühr
+2. schulden, schuldig sein
+drago /drˈaɡo/
+Drache
+dragone /draɡˈone/
+Drache
+dubbioso /dʊbːiˈozo/
+fraglich
+dubitare /dʊbitˈare/
+zweifeln, bezweifeln
+due /dˈue/
+zwei
+duellare /dʊellˈare/
+sich duellieren
+duetto /dʊˈetːo/
+Duett
+duna /dˈuna/
+Düne
+duomo /dʊˈɔmo/
+Dom, Kathedrale, Münster
+dura /dˈura/
+hart
+durante /dʊrˈante/
+während
+durare /dʊrˈare/
+dauern, währen
+durata /dʊrˈata/
+Dauer, Weile
+durevole /dʊrˈevole/
+fest
+duro /dˈuro/
+hart
+d /d̪ˈiː/
+1. andernteils
+2. außerdem, übrigens, zudem
+ecc /ˈekː/
+u. s. w.
+eccetto /etʃːˈɛtːo/
+ausgenommen
+ecclesiastico /ekːlezjˈastiko/
+Geistlicher
+economia /ekonomˈia/ <f>
+Wirtschaft <f>
+edificio /edifˈitʃo/
+Bau, Bauwerk, Gebäude
+edizione /editsiˈone/
+Abendzeitung
+efficace /effikˈatʃe/
+drastisch, zweckdienlich
+eguaglianza /eɡwaʎˈantsa/
+Gleichheit
+eguale /eɡwˈale/
+egal, gleich
+elefante /elefˈante/ <m>
+Elefant <m>
+elegante /eleɡˈante/
+elegant, geschmackvoll
+eleggere /elˈedʒːere/
+auslesen, wählen, auswählen, erwählen
+elemento /elemˈento/
+Element
+elemosina /elemˈɔzina/
+Almosen
+elettricit /eletːrˈitʃit/
+Elektrizität
+elica /ˈɛlika/
+Schneckenlinie, Schraube
+energico /enˈɛrdʒiko/
+forsch, tüchtig
+entrare /entrˈare/
+eintreten
+entrata /entrˈata/
+Eingang
+entusiasmo /entʊzjˈazmo/
+Begeisterung, Enthusiasmus
+epopea /epopˈɛa/
+Epik, Epopöe, Heldengedicht
+equatore /ekwatˈore/
+Äquator
+equilibrio /ekwilˈibrio/
+Gleichgewicht
+equipaggio /ekwipˈadʒːo/
+Mannschaft
+erba /ˈɛrba/
+Gras
+ereditare /ereditˈare/
+erben, beerben
+erpice /ˈɛrpitʃe/
+Egge
+errare /erɾˈare/
+sich irren
+errore /erɾˈore/
+Fehler, Irrtum, Versehen
+esame /ezˈame/
+Examen
+esaminare /ezaminˈare/
+examinieren, inspizieren, nachsehen, prüfen, untersuchen
+esatto /ezˈatːo/
+1. akkurat, genau
+2. exakt
+esca /ˈeska/
+Köder
+eseguire /ezeɡwˈire/
+ausführen, bestellen, erfüllen, leisten
+esempio /ezˈɛmpio/
+Beispiel, Exempel
+esercito /ezˈɛrtʃito/
+1. Armee, Heer
+2. Armee
+esercizio /ezertʃˈitsio/
+Exerzitium, Übung
+esiliare /eziliˈare/
+bannen, ins Exil schicken, verbannen
+esilio /ezˈilio/
+Acht, Exil, Verbannung
+esistenza /ezistˈɛntsa/
+Bestehen, Dasein, Existenz
+esistere /ezˈistere/
+bestehen, da sein, existieren, vorhanden sein
+esitare /ezitˈare/
+1. schwanken, zaudern, zögern
+2. taumeln, wackeln, zagen
+esito /ˈɛzito/
+Erfolg, Ergebnis, Resultat
+esortazione /ezortatsiˈone/
+Ermahnung, Zuspruch
+esportazione /esportatsiˈone/
+Ausfuhr, Export
+esposizione /espozitsiˈone/
+Ausstellung
+esserer /esserˈɛr/
+beipflichten, beistimmen, einwilligen, zustimmen, zuwilligen
+essere /ˈɛssere/
+sitzen
+essere /ˈɛssere/
+dienen, frommen, nützen
+est /ˈest/
+Orient, Osten
+estate /estˈate/ <f>
+Sommer <m>
+esteriore /esteriˈore/
+Äußeres, Habitus
+estero /ˈɛstero/
+Ausland
+estivo /estˈivo/
+Sommer-, sommerlich
+estorcere /estˈɔrtʃere/
+erzwingen
+estremamente /estremamˈente/
+meist, am meisten
+estremo /estrˈɛmo/
+äußerster, extrem
+eterno /etˈɛrno/
+ewig
+etichetta /etikˈetːa/
+Etikette
+et /ˈɛt/
+Alter
+europeo /eʊropˈɛo/
+Europäer
+evidente /evidˈɛnte/
+anschaulich, augenscheinlich, ersichtlich, evident, offenbar
+evidentemente /evidentemˈente/
+offenbar
+evitare /evitˈare/
+ausweichen, entgegen, entweichen, meiden, vermeiden
+fabbisogno /fabːizˈoɲɲo/
+Bedarf, Bedürfnis
+fabbrica /fˈabːrika/
+Fabrik
+fabbricare /fabːrikˈare/
+anfertigen, fabrizieren, herstellen, verfertigen
+faccenda /fatʃːˈɛnda/
+Angelegenheit, Ding, Sache, Werk
+facchino /fakːˈino/
+Dienstmann, Gepäckträger, Träger
+faccia /fˈatʃːa/
+Angesicht, Antlitz, Gesicht
+facile /fˈatʃile/
+geläufig, leicht, mühelos, nicht schwierig
+faggio /fˈadʒːo/
+Buche
+fagiano /fadʒˈano/
+Fasan
+fagiolo /fadʒˈɔlo/
+Faseole
+fagiuolo /fadʒʊˈɔlo/
+Faseole
+falce /fˈaltʃe/
+Hippe, Sense
+fallimento /fallimˈento/
+Bankrott, Fallissement, Fallit
+falso /fˈalso/
+falsch
+famiglia /famˈiʎa/
+Familie
+famoso /famˈozo/
+berühmt
+fanatico /fanˈatiko/
+fanatisch, leidenschaftlich
+fango /fˈaŋɡo/
+Dreck, Kot, Schlamm, Schmutz
+fantasia /fantazˈia/
+Einbildungskraft, Phantasie
+farafalla /faɾafˈalla/ <f>
+Schmetterling <m>
+fare /fˈare/
+anfertigen, herstellen, leiten, machen, tun, zurücklegen
+fare /fˈare/
+boxen
+fare /fˈare/
+streiken
+farfalla /farfˈalla/
+Falter, Schmetterling
+farmacia /farmatʃˈiːa/
+Apotheke
+farmacista /farmatʃˈista/
+Apotheker
+faro /fˈaro/
+Leuchtturm
+far /fˈar/
+barbieren, rasieren
+far /fˈar/
+Schmerz verursachen, schmerzen, wehtun
+fascicolo /faʃˈikolo/
+Heft
+fascino /fˈaʃino/
+Anmut
+fata /fˈata/
+Fee
+fatto /fˈatːo/
+Tatsache
+fattoria /fatːorˈia/
+Bauernhof, Besitzung, Gut, Landgut
+fattura /fatːˈura/
+Faktura, Rechnung, Warenrechnung
+fava /fˈava/
+Bohne
+favola /fˈavola/
+Märchen
+favorire /favorˈire/
+begünstigen
+febbraio /febːrˈaio/ <m>
+Februar <m>
+febbre /fˈɛbːre/
+Fieber
+fecondo /fekˈondo/
+1. fruchtbar
+2. ergiebig
+fedele /fedˈele/
+1. gläubig, treu
+2. bieder, loyal
+fegato /fˈeɡato/
+Leber
+felice /felˈitʃe/
+glücklich
+felicitare /felitʃitˈare/
+beglückwünschen, gratulieren
+fendere /fˈɛndere/
+spalten
+ferire /ferˈire/
+verletzen, verwunden
+ferita /ferˈita/
+Verwundung, Verletzung, Wunde
+fermare /fermˈare/
+anhalten, bremsen, sperren
+fermarsi /fermˈarsɪ/
+halten, anhalten, Halt machen, stocken, stoppen
+fermata /fermˈata/
+1. Haltestelle
+2. Stillstand
+fermo /fˈermo/
+fest, fix
+ferro /fˈɛrɾo/
+Eisen
+ferrovia /ferɾovˈia/
+Bahn, Eisenbahn
+ferro /fˈɛrɾo/
+Bügeleisen
+fessura /fessˈura/
+Spalte
+festa /fˈɛsta/
+Feier, Fest
+fiaba /fjˈaba/
+Märchen
+fiaccola /fjˈakːola/
+Fackel
+fiamma /fjˈamma/
+Flamme
+fiammifero /fjammˈifero/
+Streichholz, Zündholz
+fianciullo /fjantʃˈullo/
+Kind
+fianco /fjˈanko/
+Flanke, Seite
+fico /fˈiko/
+1. Feige
+2. Feigenbaum
+fidanzata /fidantsˈata/
+Braut
+fiducia /fidˈutʃa/
+1. Zuversicht
+2. Vertrauen
+fieno /fjˈɛno/
+Heu
+fiero /fjˈɛro/
+hochfahrend, hochmütig, stolz
+figlia /fˈiʎa/
+Tochter
+figlio /fˈiʎo/
+Sohn
+figliola /fiʎˈɔla/
+Tochter
+figliolo /fiʎˈɔlo/
+Sohn
+figliuola /fiʎʊˈɔla/
+Tochter
+figura /fiɡˈura/
+Abbild, Figur, Gestalt
+figurarsi /fiɡʊrˈarsɪ/
+erdichten, sich einbilden, sich vorstellen
+film /fˈilm/
+Film
+filo /fˈilo/
+1. Draht
+2. Faden, Garn, Senkel, Zwirn
+filosofo /filˈɔzofo/
+Denker, Philosoph, Vernunftforscher
+finalmente /finalmˈente/
+endlich
+fine /fˈine/
+Ende
+finestra /finˈɛstra/
+Fenster
+finire /finˈire/
+beschließen, enden, beenden, endigen, beendigen, erledigen
+finito /finˈito/
+fertig
+fiore /fiˈore/
+Blume
+fiore /fiˈore/
+Mehl
+fiorire /fiorˈire/
+blühen
+firma /fˈirma/
+Unterschrift
+firmare /firmˈare/
+subskribieren
+fisarmonica /fizarmˈɔnika/
+Ziehharmonika
+fischiare /fiskjˈare/
+pfeifen
+fissare /fissˈare/
+1. befestigen, festsetzen, fixieren
+2. starren, anstarren
+fiume /fjˈume/
+Fluss
+flanella /flanˈɛlla/
+Flanell
+flauto /flˈaʊto/
+Flöte
+fluire /flʊˈire/
+fließen, rinnen, strömen
+foca /fˈɔka/ <f>
+Seehund <m>
+foco /fˈɔko/
+Brennpunkt, Fokus
+foglia /fˈɔʎa/
+Blatt
+foglio /fˈɔʎo/
+Blatt
+folla /fˈɔlla/
+Haufen, Menge, Stapel
+follia /follˈia/
+Torheit
+fondamento /fondamˈento/
+Fundament, Grundlage
+fondere /fˈondere/
+fundieren, gründen, begründen
+fondo /fˈondo/
+1. Boden, Grund
+2. tief
+fontana /fontˈana/
+Brunnen, Fontäne, Springbrunnen
+fonte /fˈonte/
+Born, Quelle
+forbici /fˈɔrbitʃɪ/
+Schere
+forca /fˈorka/
+Galgen
+forchetta /forkˈetːa/
+Gabel
+forestiere /forestiˈɛre/
+Ausländer
+formaggio /formˈadʒːo/
+Käse
+formato /formˈato/
+Format
+formica /formˈika/ <f>
+Ameise <f>
+formula /fˈɔrmʊla/
+Formel
+fornaio /fornˈaio/
+Bäcker
+forse /fˈorse/
+eventuell, möglicherweise, vielleicht, wohl
+forte /fˈɔrte/
+1. kräftig, stark
+2. laut
+forza /fˈɔrtsa/
+Gewalt, Kraft
+forzare /fortsˈare/
+zwingen
+forza /fˈɔrtsa/
+Anziehungskraft
+fragola /frˈaɡola/
+Erdbeere
+francese /frantʃˈeze/
+1. französisch
+2. Franzose
+francobollo /frankobˈollo/
+Briefmarke
+frangia /frˈandʒa/
+Frange, Franse
+frase /frˈaze/
+Phrase, Redensart, Satz
+frassino /frˈassino/
+Esche
+fratello /fratˈɛllo/
+Bruder
+fraternit /fratˈɛrnit/
+Brüderlichkeit
+fra /frˈa/
+1. bald, alsbald, baldig
+2. flugs, gleich, sofort, sogleich, umgehend
+freccia /frˈetʃːa/
+Weisheit, Klugheit
+fregata /freɡˈata/
+Fregatte
+freno /frˈeno/
+Bremse
+frequentemente /frekwentemˈente/
+häufig, oft
+fresco /frˈesko/
+1. frisch, neu, unberührt
+2. kühl
+friggere /frˈidʒːere/
+backen, braten
+frizione /fritsiˈone/
+Kupplung
+fronte /frˈonte/
+Stirn
+frontiera /frontiˈɛra/
+Grenze, Schranke
+frumento /frʊmˈento/
+Weizen
+frutta /frˈutːa/
+Frucht
+fucilare /fʊtʃilˈare/
+erschießen, füsilieren
+fucile /fʊtʃˈile/
+Gewehr
+fuga /fˈuɡa/
+Flucht
+fuggire /fʊdʒːˈire/
+ausreißen, entfliehen, entlaufen, fortlaufen, sich verlaufen
+fumaiuolo /fʊmajʊˈɔlo/
+Schornstein
+fumare /fʊmˈare/
+rauchen
+fumatori /fʊmatˈorɪ/
+Raucherabteil
+fumo /fˈumo/
+Rauch
+fungo /fˈuŋɡo/
+Erdschwamm, Pilz
+funzionario /fʊntsionˈario/
+Beamter
+funzione /fʊntsiˈone/
+1. Funktion, Tätigkeit, Wirksamkeit
+2. Amt, Anstellung, Dienst
+fuoco /fʊˈɔko/
+Feuer
+fuori /fʊˈorɪ/
+äußerlich, draußen
+furibondo /fʊribˈondo/
+rasend, stürmisch, toll, wütend
+furioso /fʊriˈozo/
+rasend, stürmisch, toll, wütend
+furto /fˈurto/
+Diebstahl
+gabbiano /ɡabːjˈano/
+Möwe
+gabinetto /ɡabinˈetːo/
+Abort, Abtritt
+galera /ɡalˈɛra/
+Galeere
+galleria /ɡallerˈia/
+Galerie, Stollen, Wandelgang
+gallina /ɡallˈina/
+Henne
+gallo /ɡˈallo/
+Hahn
+gamba /ɡˈamba/
+1. Bein
+2. Pfote, Unterschenkel
+gambero /ɡˈambero/
+Krebs
+garanzia /ɡaɾantsˈia/
+Garantie, Gewähr
+garofano /ɡarˈɔfano/
+Nelke
+gas /ɡˈas/
+Gas
+gatto /ɡˈatːo/ <m>
+1. Katze <f>
+2. Kater <m>
+gazza /ɡˈaːdzːa/
+Elster
+gelarsi /dʒelˈarsɪ/
+erfrieren
+gelo /dʒˈɛlo/
+1. Frost
+gelosia /dʒelozˈia/
+Eifersucht
+gelso /dʒˈɛlso/
+Maulbeerbaum
+gemere /dʒˈemere/
+ächzen, jammern, seufzen, stöhnen, wehklagen, wimmern
+generale /dʒenerˈale/
+allgemein
+generalmente /dʒeneralmˈente/
+generell, überhaupt
+generazione /dʒeneratsiˈone/
+1. Generation, Geschlecht
+2. Nachkommenschaft, Nachwuchs
+genere /dʒˈɛnere/
+Abart, Art, Gattung, Schlag, Sorte
+genero /dʒˈɛnero/
+Eidam, Schwiegersohn
+gengiva /dʒendʒˈiva/
+Zahnfleisch
+genitori /dʒenitˈorɪ/
+Eltern
+gennaio /dʒennˈaio/ <m>
+Januar <m>
+gente /dʒˈɛnte/
+Leute
+gentiluomo /dʒentilʊˈɔmo/ <m>
+Adlige(r) <f(m)>, Gentleman <m>
+geografia /dʒeoɡrafˈia/
+Erdbeschreibung, Erdkunde, Geographie
+gergo /dʒˈɛrɡo/
+Gaunersprache, Slang
+gestione /dʒestiˈone/
+Verwaltung
+gesto /dʒˈɛsto/
+Gebärde, Geste
+gettare /dʒetːˈare/
+schleudern, werfen
+ghiaccio /ɡjˈatʃːo/
+Eis
+ghianda /ɡjˈanda/
+Eichel
+giallo /dʒˈallo/
+gelb
+giapponese /dʒapːonˈeze/
+Japaner
+giardiniere /dʒardiniˈɛre/
+Gärtner
+giardino /dʒardˈino/
+Anlage, Garten
+ginocchio /dʒinˈɔkːio/
+Knie
+giocare /dʒokˈare/
+spielen
+gioia /dʒˈɔia/
+Freude
+gioielliere /dʒoielliˈɛre/
+Juwelier
+giornale /dʒornˈale/
+Journal, Zeitung
+giornale /dʒornˈale/
+Abendzeitung
+giornaliero /dʒornaliˈɛro/
+täglich
+giornalista /dʒornalˈista/
+Journalist
+giorno /dʒˈorno/ <m>
+Tag <m>
+giostra /dʒˈɔstra/ <f>
+Karussell <n>
+giovamento /dʒovamˈento/ <m>
+Nutzen, Vorteil <m>
+giovane /dʒˈovane/
+1. jung <adj>
+2. jugendlich <adv>
+3. Jugendliche(r) <f(m)>, junger Mann <m>, (junges) Mädchen <n>, junge Frau <f> <mf>
+giovare /dʒovˈare/
+dienen, frommen, nützen
+gioved /dʒˈɔved/ <m>
+Donnerstag <m>
+giraffa /dʒirˈaffa/
+Giraffe
+giudice /dʒˈuditʃe/
+Richter
+giudizio /dʒʊdˈitsio/
+Gericht, Gutachten, Spruch, Urteil
+giugno /dʒˈuɲɲo/ <m>
+Juni <m>
+giuocattolo /dʒʊokˈatːolo/
+Spielzeug
+giuoco /dʒʊˈɔko/
+Aufführung, Spiel
+giuramento /dʒʊramˈento/
+Eid
+giurare /dʒʊrˈare/
+beeidigen, schwören, beschwören
+giustamente /dʒʊstamˈente/
+bündig
+giusto /dʒˈusto/
+bündig
+gi /dʒˈi/
+unten, unterhalb
+gi /dʒˈi/
+bereits, schon
+gli /ʎˈɪ/
+das, der, die
+globo /ɡlˈɔbo/
+Globus, Kugel
+goccia /ɡˈotʃːa/
+Tropfen
+gola /ɡˈola/
+Gurgel, Kehle
+gomito /ɡˈomito/
+Ellbogen
+gomma /ɡˈomma/
+1. Gummi, Kautschuck
+2. Pneumatik, Reifen
+3. Radiergummi
+gorga /ɡˈorɡa/
+Gurgel, Kehle
+governare /ɡovernˈare/
+herrschen, beherrschen, regieren
+gradevole /ɡradˈevole/
+1. freundlich
+2. behaglich, herrlich, genehm, angenehm
+grado /ɡrˈado/
+Grad, Staffel, Stufe
+granaio /ɡranˈaio/
+Baracke, Bude, Hütte, Scheune
+granata /ɡranˈata/
+Besen
+grande /ɡrˈande/
+groß
+grandezza /ɡrandˈetsːa/
+Größe
+grandine /ɡrˈandine/
+Hagel
+granturco /ɡrantˈurko/
+Mais
+grasso /ɡrˈasso/
+1. feist, fett, fettig, geil
+2. Fett
+grato /ɡrˈato/
+dankbar, erkenntlich
+grave /ɡrˈave/
+arg, bedeutend, bedeutsam, beträchtlich, erheblich, ernst, wichtig
+grazie /ɡrˈatsje/
+Dank
+grazioso /ɡratsiˈozo/
+1. freundlich
+2. hübsch
+3. allerliebst, anmutig, hold, lieblich, reizend
+greco /ɡrˈɛko/
+1. griechisch
+2. Grieche
+gridare /ɡridˈare/
+schreien
+grigio /ɡrˈidʒo/
+grau
+grosso /ɡrˈɔsso/
+dick
+gruppo /ɡrˈupːo/
+1. Ar
+2. Gruppe
+guadagnare /ɡwadaɲˈare/
+erringen, gewinnen
+guadagno /ɡwadˈaɲɲo/
+1. Errungenschaft
+2. Ertrag, Gewinn, Interesse, Nutzen, Überschuss, Verdienst, Vorteil
+guancia /ɡwˈantʃa/
+Backe, Wange
+guanciale /ɡwantʃˈale/
+Kissen, Kopfkissen
+guardaroba /ɡwardarˈɔba/
+1. Garderobe, Kleidung, Zeug
+guardia /ɡwˈardia/
+1. Polizist, Schutzmann
+2. Häscher
+guarire /ɡwarˈire/
+behandeln, heilen, kurieren
+guarnigione /ɡwarnidʒˈone/
+Besatzung, Garnison
+guerra /ɡwˈɛrɾa/
+Krieg
+gufo /ɡˈufo/
+Eule
+guidare /ɡwidˈare/
+führen, leiten, lenken
+gustare /ɡʊstˈare/
+schmecken
+gusto /ɡˈusto/ <m>
+Geschmack <m>
+i /ˈi/
+das, der, die
+idea /idˈɛa/
+Gedanke, Idee, Vorstellung
+idolo /ˈidolo/
+Abgott, Götze, Idol
+idoneo /idˈoneo/
+1. begabt, fähig, imstande, tüchtig
+2. tauglich
+ieri /jˈɛrɪ/
+gestern
+ignorante /iɲorˈante/
+albern, dumm
+il /ˈiːl/
+das, der, die
+illuminare /illʊminˈare/
+illuminieren
+illustrazione /illʊstratsiˈone/
+Ansicht, Bild
+il /ˈiːl/
+Allerseelen
+imboccatura /imbokːatˈura/
+Mündung
+imitare /imitˈare/
+imitieren, nachahmen, nachbilden
+immagine /immˈadʒine/
+Ansicht, Bild
+immediatamente /immedjatamˈente/
+alsbald, flugs, gleich, sofort, sogleich, umgehend
+imparare /impaɾˈare/
+lernen
+impaurire /impaʊrˈire/
+zurückschrecken
+impedire /impedˈire/
+behelligen, hindern, behindern, inhibieren, stören, verhindern
+impiego /impjˈɛɡo/ <m>
+Beschäftigung, Stelle <f>, Gebrauch <m>, Verwendung, Anwendung <f>
+impero /impˈɛro/
+Kaiserreich, Kaisertum
+impertinente /impertinˈɛnte/
+frecht, impertinent, unverschämt
+impiegare /impjeɡˈare/
+anwenden, benutzen, brauchen, gebrauchen, verwenden, verwerten
+impiegato /impjeɡˈato/
+Beamter
+impiego /impjˈɛɡo/
+1. Amt, Anstellung, Dienst
+2. Benutzung, Gebrauch
+implorare /implorˈare/
+abbetteln
+importante /importˈante/
+arg, bedeutend, bedeutsam, beträchtlich, erheblich, ernst, wichtig
+importanza /importˈantsa/
+Tragweite
+importo /impˈɔrto/
+Betrag, Summe
+imposta /impˈɔsta/
+Abgabe, Steuer, Steuerabgabe
+impresa /imprˈeza/
+Unternehmung
+improvvisamente /improvvizamˈente/
+jäh
+incanto /inkˈanto/
+Anmut
+inchiostro /inkiˈɔstro/
+Tinte
+incidente /intʃidˈɛnte/
+Unfall
+incitare /intʃitˈare/
+anreizen, aufhetzen, reizen, aufreizen
+incontrare /inkontrˈare/
+antreffen, begegnen
+incontro /inkˈontro/
+Begegnung
+indiano /indjˈano/
+Indianer
+indiano /indjˈano/
+Indianer
+indicare /indikˈare/
+andeuten, weisen, anweisen, zeigen
+indietro /indjˈɛtro/
+zurück
+indirizzare /indirɪtsˈare/
+adressieren
+indirizzo /indirˈitsːo/
+Adresse
+indivia /indˈivia/
+Endivie
+indole /ˈindole/
+Natur
+indulgenza /indʊldʒˈɛntsa/
+Ablass
+inezia /inˈɛtsia/
+Bagatelle, Kleinigkeit
+infame /infˈame/
+ehrlos
+infatti /infˈatːɪ/
+fürwahr, wahrhaftig, wahrlich, wirklich
+infedele /infedˈele/
+treulos
+infelice /infelˈitʃe/
+unglücklich
+infermiera /infermiˈɛra/
+Krankenschwester
+infettare /infetːˈare/
+anstecken, infizieren
+infezione /infetsiˈone/
+Ansteckung, Infektion
+informare /informˈare/
+Auskunft geben, benachrichtigen, informieren, mitteilen
+informarsi /informˈarsɪ/
+sich erkundigen
+ingaggiare /iŋɡadʒːˈare/
+werben, anwerben
+ingannare /iŋɡannˈare/
+äffen, betrügen, hintergehen, täuschen
+ingegnere /indʒeɲˈɛre/
+Ingenieur
+ingegno /indʒˈeɲɲo/
+Talent
+inglese /iŋɡlˈeze/
+1. englisch
+2. Engländer
+ingrato /iŋɡrˈato/
+undankbar
+iniziatore /initsjatˈore/
+Bahnbrecher, Pionier
+inizio /inˈitsio/
+Anfang, Beginn
+innamorarsi /innamorˈarsɪ/
+sich verlieben
+inoltre /inˈoltre/
+1. andernteils
+2. außerdem, übrigens, zudem
+3. fort, weiter
+inquieto /inkwjˈɛto/
+bang
+insalata /insalˈata/
+Salat
+insegnare /inseɲˈare/
+1. Auskunft geben, benachrichtigen, informieren, mitteilen
+2. lehren, belehren, instruieren, unterrichten, unterweisen
+3. angeben, ankündigen, melden, verkünden
+inseguimento /inseɡwimˈento/
+Verfolgung
+inserzione /insertsiˈone/
+Annonce, Anzeige, Inserat
+insetto /insˈɛtːo/ <m>
+Insekt <n>
+insieme /insɪˈɛme/
+aneinander, beisammen, gesamt, insgesamt, zugleich, zusammen
+insistere /insˈistere/
+andringen, beharren auf, drängen, trotzen
+insolente /insolˈɛnte/
+frech, impertinent, unverschämt
+instruire /instrʊˈire/
+lehren, belehren, instruieren, unterrichten, unterweisen
+insudiciare /insʊditʃˈare/
+beschmutzen, einschmutzen, sudeln
+insultare /insʊltˈare/
+1. beleidigen, schelten, schimpfen, beschimpfen
+2. kränken, verletzen
+intendere /intˈɛndere/
+beabsichtigen, die Absicht haben, vorhaben
+intenzione /intentsiˈone/
+Absicht, Plan
+interessare /interessˈare/
+interessieren
+interesse /interˈɛsse/
+1. Interesse, Zins
+interno /intˈɛrno/
+innerlich, intern, inwendig
+intero /intˈɛro/
+ganz, total
+intestino /intestˈino/
+Darm
+intorno /intˈorno/
+um, um ... herum
+intravedere /intravedˈɛre/
+erblicken, gewahr werden
+invano /invˈano/
+umsonst, vergebens, vergeblich
+inventare /inventˈare/
+entdecken, erfinden
+invernale /invernˈale/ <adj>
+Winter-, winterlich
+inverno /invˈɛrno/ <m>
+Winter <m>
+investire /investˈire/
+einkleiden, investieren
+invidiare /invidjˈare/
+beneiden
+invitare /invitˈare/
+einladen
+in /ˈiːn/
+heim, daheim, zu Hause
+in /ˈiːn/
+hinten
+in /ˈiːn/
+andernfalls, anders, sonst
+in /ˈiːn/
+nirgends
+in /ˈiːn/
+auf keiner Weise, gar nicht, in keiner Weise, keineswegs
+in /ˈiːn/
+teils
+in /ˈiːn/
+erst, erstens, zuerst
+in /ˈiːn/
+irgendwo
+in /ˈiːn/
+danach
+in /ˈiːn/
+beizeiten, zeitig, zur rechten Zeit
+ippopotamo /ipːopˈɔtamo/
+Flusspferd
+irato /irˈato/
+arg, böse
+irlandese /irlandˈeze/
+Ire
+irritare /irɾitˈare/
+abstumpfen, angreifen
+isola /ˈizola/
+Eiland, Insel
+isolato /izolˈato/
+vereinsamt
+italiano /italiˈano/
+Italiener
+la /lˈa/
+das, der, die
+labbro /lˈabːro/
+Lippe
+labirinto /labirˈinto/
+Labyrinth
+laborioso /laboriˈozo/
+arbeitsam, geschäftig
+ladro /lˈadro/
+Dieb
+laggi /lˈadʒːɪ/
+da, dort
+lagnarsi /laɲˈarsɪ/
+klagen, sich beklagen, verklagen
+lago /lˈaɡo/
+See
+lagrima /lˈaɡrima/
+Träne
+lampadina /lampadˈina/
+Birne
+lampone /lampˈone/
+Himbeere
+lapis /lˈapis/
+Bleistift, Crayon
+lardo /lˈardo/
+Speck
+larghezza /larɡˈetsːa/
+Breite
+largo /lˈarɡo/
+breit, weit
+lasciare /laʃˈare/
+hinterlassen
+lato /lˈato/
+Flanke, Seite
+latta /lˈatːa/
+Blech
+latte /lˈatːe/
+Milch
+lattuga /latːˈuɡa/
+Kopfsalat, Lattich, Salat
+lavanderia /lavanderˈia/
+Beuchhaus, Waschanstalt
+lavare /lavˈare/
+1. spülen, waschen
+2. abbeuchen
+lavorare /lavorˈare/
+arbeiten
+lavoro /lavˈɔro/
+Arbeit
+le /lˈe/
+das, der, die
+legame /leɡˈame/
+Band
+legare /leɡˈare/
+binden, verbinden
+leggere /lˈɛdʒːere/
+lesen
+legno /lˈeɲɲo/
+Holz
+legume /leɡˈume/
+Gemüse
+lei /lˈɛi/
+die, ihr, ihrer, sie
+lenticchia /lentˈikːia/
+Linse
+lenza /lˈɛntsa/
+Angelleine
+lenzuolo /lentsʊˈɔlo/ <m>
+Bettuch, Betttuch <n>, Bettlaken, Laken
+leone /leˈone/ <m>
+Löwe <m>
+lepre /lˈɛpre/
+Hase
+lesto /lˈɛsto/
+anstellig, behände, fix, geschickt, geübt, gewandt
+lettera /lˈɛtːera/
+Brief
+letto /lˈɛtːo/
+Bett, Bettstelle
+lezione /letsiˈone/
+Lehraufgabe, Lektion, Unterrichtsstunde
+li /lˈi/
+da, dort
+liberare /liberˈare/
+befreien, entledigen, erledigen, freilassen, frei machen
+libert /lˈibert/ <f>
+Freiheit <f>
+librario /librˈario/
+Buchhändler
+libreria /librerˈia/
+1. Buchhandlung
+2. Bücherschrank
+libro /lˈibro/
+Buch
+licenzioso /litʃentsiˈozo/
+unbändig, zügellos
+lima /lˈima/
+Feile
+limitare /limitˈare/
+begrenzen, beschränken, einschränken
+limone /limˈone/
+Zitrone
+linea /lˈinea/
+Linie, Strich, Zeile
+lingua /lˈiŋɡwa/
+1. Zunge
+2. Sprache
+lisca /lˈiska/
+Gräte
+liscio /lˈiʃo/
+geläufig, glatt
+lista /lˈista/
+1. Liste, Verzeichnis
+2. Menü, Speisekarte
+livello /livˈɛllo/
+Niveau
+lo /lˈo/
+das, der, die
+locomotiva /lokomotˈiva/
+Lokomotive
+lodare /lodˈare/
+loben, preisen, anpreisen
+lontano /lontˈano/
+1. ab, dahin, fort, heraus, weg, hinweg
+2. entlegen, fern, entfernt, weit
+luccio /lˈutʃːo/
+Hecht
+luce /lˈutʃe/
+Licht
+luglio /lˈuʎo/ <m>
+Juli <m>
+lui /lˈui/
+er, ihm, ihn, seiner
+lumaca /lʊmˈaka/
+Schnecke
+luna /lˈuna/
+Mond
+luned /lˈuned/ <m>
+Montag <m>
+lungo /lˈuŋɡo/
+lang
+luogo /lʊˈɔɡo/
+1. Anstalt, Gelass, Ort, Platz, Stelle
+2. Fleck, Stätte, Terrain
+lupo /lˈupo/ <m>
+Wolf <m>
+lusingare /lʊziŋɡˈare/
+schmeicheln
+lusso /lˈusso/
+Aufwand, Luxus
+l /ˈɛlle/
+1. dahin, dorthin, hierhin, nach dort
+2. da, dort
+l /ˈɛlle/
+dahin, dorthin, hierhin, nach dort
+macchina /mˈakːina/
+Maschine
+macchina /mˈakːina/
+Schreibmaschine
+macellaio /matʃellˈaio/
+Fleischer
+macinare /matʃinˈare/
+mahlen
+madre /mˈadre/
+Mutter
+madrevite /madrevˈite/
+Mutter
+maestra /maˈɛstra/
+Lehrerin
+maestro /maˈɛstro/
+1. Lehrer
+2. Wirt
+maggio /mˈadʒːo/ <m>
+Mai <m>
+magro /mˈaɡro/
+mager
+mai /mˈaj/
+nie, niemals, nimmer
+maiale /majˈale/
+Schweinefleisch
+malato /malˈato/
+krank
+mal /mˈal/
+Seekrankheit
+mal /mˈal/
+Bauchweh
+mammifero /mammˈifero/ <m>
+Säugetier <n>
+mancanza /mankˈantsa/
+Fehlen, Fehler, Manko
+mancia /mˈantʃa/
+Trinkgeld
+mandare /mandˈare/
+schicken, senden, einsenden
+mandorla /mˈandorla/
+Mandel
+mangiabile /mandʒˈabile/
+essbar, genießbar
+maniera /maniˈɛra/
+Art, Manier, Weise
+mano /mˈano/
+Hand
+manzo /mˈandzo/
+Rindfleisch
+marcia /mˈartʃa/
+Gang
+mare /mˈare/
+Meer, See
+marinaio /marinˈaio/
+Seemann
+maritarsi /maritˈarsɪ/
+sich verehelichen, sich verheiraten
+marito /marˈito/
+Ehemann, Gatte, Gemahl, Gespons
+marmelata /marmelˈata/
+Konfitüre, Marmelade
+marmo /mˈarmo/ <m>
+Marmor <m>
+marrone /marɾˈone/
+braun
+marted /mˈarted/ <m>
+Dienstag <m>
+martello /martˈɛllo/
+Hammer
+marzo /mˈartso/ <m>
+März <m>
+mascella /maʃˈɛlla/
+Kiefer, Kinnlade
+massa /mˈassa/
+Masse
+masticare /mastikˈare/
+kauen
+matematica /matemˈatika/ <f>
+Mathematik <f>
+materasso /materˈasso/ <m>
+Matratze <f>
+materia /matˈɛria/
+Materie
+materiale /materiˈale/
+Material, Zutat
+matita /matˈita/ <f>
+1. Stift <m>
+2. Bleistift <m>, Crayon
+matrimonio /matrimˈɔnio/
+Ehe
+mattina /matːˈina/
+Frühe, Morgen
+matto /mˈatːo/
+irre, toll, verrückt, wahnsinnig
+mattone /matːˈone/
+Backstein, Ziegel, Ziegelstein
+maturo /matˈuro/
+reif
+meccanico /mekːˈaniko/
+Mechaniker
+mediante /mediˈante/
+durch, kraft, mit, mittelst, vermittels
+medico /mˈɛdiko/
+Arzt, Doktor
+medio /mˈɛdio/
+mittlere, mittlerer, mittleres, Mittel‐
+megera /medʒˈɛra/
+Megäre, Weib
+mela /mˈɛla/
+Apfel
+melo /mˈɛlo/
+Apfelbaum
+melone /melˈone/
+Melone
+membro /mˈɛmbro/
+1. Anhänger, Glied
+2. Mitglied
+memoria /memˈɔria/
+1. Andenken
+2. Erinnerung, Gedächtnis
+mendicante /mendikˈante/
+Bettler
+mensile /mensˈile/
+1.  <adj>monatlich, Monat-
+2.  <m>Monatsschrift <f>, Monatsgehalt <m>
+menta /mˈenta/
+Minze
+mentire /mentˈire/
+flunkern, lügen, belügen
+mento /mˈento/
+Kinn
+menzionare /mentsionˈare/
+nennen
+mercanteggiare /merkantedʒːˈare/
+dingen, feilschen, markten
+mercato /merkˈato/
+Marktplatz
+merce /mˈɛrtʃe/
+Artikel
+mercoled /merkˈoled/ <m>
+Mittwoch <m>
+meritare /meritˈare/
+verdienen
+merlo /mˈɛrlo/
+Amsel
+merluzzo /merlˈutsːo/
+Dorsch, Kabeljau
+mese /mˈɛze/ <m>
+Monat <m>
+mestiere /mestiˈɛre/
+Beruf, Gewerbe, Handwerk
+metallo /metˈallo/
+Metall
+metodo /mˈɛtodo/
+Methode
+mettere /mˈetːere/
+legen, setzen, stecken, stellen
+met /mˈɛt/
+Hälfte
+mezzo /mˈɛdzːo/
+1. halb
+2. Mitte, Mittel
+miele /mjˈɛle/
+Honig
+migliaio /miʎˈaio/
+Tausend
+migliorare /miʎorˈare/
+bessern, ausbessern, verbessern, veredeln
+migliore /miʎˈore/
+1. best
+2. besser
+milione /miliˈone/
+Million
+mille /mˈille/
+tausend
+minaccia /minˈatʃːa/
+Bedrohung, Drohung
+minacciare /minatʃːˈare/
+bevorstehen, dräuen, drohen, bedrohen
+minerale /minerˈale/
+Mineral
+minestra /minˈɛstra/
+Suppe
+ministero /ministˈɛro/
+Ministerium
+mio /mˈio/
+mein
+miope /mˈiope/
+kurzsichtig
+miserabile /mizerˈabile/
+elend, erbärmlich, jämmerlich
+miseria /mizˈɛria/
+Elend, Not
+misero /mˈizero/
+elend, erbärmlich, jämmerlich
+misterioso /misteriˈozo/
+geheimnisvoll, mysteriös
+mistura /mistˈura/
+Gemisch
+misura /mizˈura/
+Maß
+misurare /mizʊrˈare/
+messen, abmessen, aufmessen
+misurato /mizʊrˈato/
+gemessen
+mite /mˈite/
+mild
+mobile /mˈɔbile/
+beweglich
+mobili /mˈɔbilɪ/
+Hausgerät, Mobilär
+modesto /modˈɛsto/
+anspruchslos, bescheiden
+modista /modˈista/
+1. Modistin
+modo /mˈɔdo/
+Art, Manier, Weise
+moglie /mˈoʎe/
+Frau, Gemahlin
+molla /mˈɔlla/
+Feder, Triebfeder
+molle /mˈɔlle/
+weich
+moltiplicare /moltiplikˈare/
+1. multiplizieren
+2. vervielfältigen
+molto /mˈolto/
+1. viel, zahlreich
+2. sehr
+mondano /mondˈano/
+weltlich
+mondo /mˈondo/
+Welt
+moneta /monˈeta/
+Geldstück, Münze
+monologo /monˈɔloɡo/
+Monolog
+monotono /monˈɔtono/
+1. eintönig, monoton
+montagna /montˈaɲɲa/
+Berg
+montagne /montˈaɲɲe/
+Gebirge
+monte /mˈonte/
+Berg
+monumento /monʊmˈento/
+Denkmal, Monument
+mordere /mˈɔrdere/
+beißen
+morire /morˈire/
+sterben
+mortale /mortˈale/
+tödlich
+morte /mˈɔrte/
+Tod
+morto /mˈɔrto/
+gestorben, tot, verstorben
+mosca /mˈoska/ <f>
+Fliege <f>
+mostarda /mostˈarda/
+Mostrich, Senf
+mostrare /mostrˈare/
+1. andeuten, weisen, anweisen, zeigen
+2. angeben, hinweisen
+mostro /mˈostro/
+Monstrum, Ungeheuer, Ungetüm, Unhold
+motocicletto /mototʃiklˈetːo/
+Kraftfahrrad, Motorrad
+motore /motˈore/
+Motor
+movimento /movimˈento/
+Bewegung
+muggire /mʊdʒːˈire/
+brausen, sausen, zischen
+mulo /mˈulo/
+Maulesel, Maultier
+multa /mˈulta/
+Geldstrafe
+municipio /mʊnitʃˈipio/
+Rathaus
+muovere /mʊˈɔvere/
+bewegen, erregen
+muoversi /mʊˈoversɪ/
+sich bewegen
+muro /mˈuro/
+Mauer, Wand
+muscolo /mˈuskolo/
+Muskel
+museo /mʊzˈɛo/
+Museum
+musicista /mʊzitʃˈista/
+Musiker
+mutande /mʊtˈande/
+Unterhose
+muto /mˈuto/
+sprachlos, stumm
+nano /nˈano/
+Zwerg
+nascere /nˈaʃere/
+entstehen
+nascita /nˈaʃita/
+1. Abkunft, Abstammung, Herkunft, Ursprung
+2. Geburt
+nascondere /naskˈondere/
+bergen, hehlen, verbergen, verhehlen, verheimlichen, verstecken
+naso /nˈazo/
+Nase
+nastro /nˈastro/
+Band
+natura /natˈura/
+Natur
+naturalmente /natʊralmˈente/
+natürlich
+navata /navˈata/
+Schiff
+nazionale /natsionˈale/
+national
+nebbia /nˈebːia/
+Nebel
+necessario /netʃessˈario/
+erforderlich, nötig, notwendig
+negare /neɡˈare/
+leugnen, verneinen
+negligente /neɡlidʒˈente/
+achtlos, fahrlässig
+negozio /neɡˈɔtsio/
+Butique, Geschäft, Kramladen, Laden
+nero /nˈero/
+1. schwarz
+2. Schwarz
+nervo /nˈɛrvo/
+Nerv
+neutrale /neʊtrˈale/
+neutral, sächlich
+neutro /nˈɛʊtro/
+neutral, sächlich
+neve /nˈeve/
+Schnee
+nevicare /nevikˈare/
+schneien
+niente /njˈɛnte/
+durchaus nicht, ganz und gar nicht, gar nicht
+nipote /nipˈote/
+1. Enkelin
+2. Enkel
+3. Nichte
+4. Neffe
+no /nˈɔ/
+nein
+nobilt /nˈobilt/
+Adel
+nocciola /notʃːˈɔla/
+Haselnuss
+nocciuola /notʃːʊˈɔla/
+Haselnuss
+noce /nˈotʃe/
+1. Nussbaum
+2. Nuss
+nocivo /notʃˈivo/
+schädlich
+nodo /nˈɔdo/
+Knoten
+noi /nˈoi/
+uns, unser, wir
+nome /nˈome/
+Name
+non /nˈon/
+kein, nicht
+noncurante /nonkʊrˈante/
+achtlos, fahrlässig
+nonna /nˈɔnna/
+Großmutter
+nonni /nˈɔnnɪ/
+Großeltern
+nonno /nˈɔnno/
+Großvater
+non /nˈon/
+allein, bloß, erst, lediglich, nur
+non /nˈon/
+nie, niemals, nimmer
+non /nˈon/
+nicht mehr
+nord /nˈɔrd/
+Norden
+norvegese /norvedʒˈeze/
+Norweger
+notaio /notˈaio/
+Notar
+noto /nˈɔto/
+bekannt
+notte /nˈɔtːe/
+Nacht
+novanta /novˈanta/
+neunzig
+nove /nˈɔve/
+neun
+novella /novˈɛlla/
+Braut
+novembre /novˈɛmbre/ <m>
+November <m>
+nozione /notsiˈone/
+Gedanke, Idee, Vorstellung
+nube /nˈube/
+Wolke
+nudo /nˈudo/
+bloß, nackt
+numero /nˈumero/
+1. Anzahl, Zahl
+2. Nummer
+nuocere /nʊˈɔtʃere/
+beeinträchtigen
+nuotare /nʊotˈare/
+schwimmen
+nuovo /nʊˈɔvo/
+neu
+nuvola /nˈuvola/
+Wolke
+nuvolo /nˈuvolo/
+Wolke
+oca /ˈɔka/
+Gans
+occhiali /okːjˈalɪ/
+Augengläser, Brille
+occorrente /okːorɾˈɛnte/
+erforderlich, nötig, notwendig
+occupare /okːʊpˈare/
+bekleiden, besetzen, einnehmen, in Anspruch nehmen
+occupato /okːʊpˈato/
+besetzt
+occupazione /okːʊpatsiˈone/
+Beschäftigung
+odiare /odjˈare/
+hassen
+odio /ˈɔdio/
+Hass
+offendere /offˈɛndere/
+1. beleidigen, schelten, schimpfen, beschimpfen
+2. kränken, verletzen
+offerta /offˈɛrta/
+Anerbieten, Offerte
+ogetto /odʒˈetːo/
+Ding, Gegenstand, Objekt
+oggi /ˈɔdʒːɪ/
+heute
+ogni /ˈoɲɲɪ/
+täglich, alltäglich
+ogni /ˈoɲɲɪ/
+allerlei
+ogni /ˈoɲɲɪ/
+dann und wann, von Zeit zu Zeit, zeitweilig
+olandese /olandˈeze/
+Holländer
+olio /ˈɔlio/
+Öl
+oliva /olˈiva/
+Olive
+olivo /olˈivo/
+1. Olivenbaum
+2. Ölbaum
+olmo /ˈolmo/
+Rüster, Ulme
+ombra /ˈombra/
+Schatten
+omero /ˈɔmero/
+Oberarm
+onda /ˈonda/
+Welle, Woge
+onesto /onˈɛsto/
+anständig, bieder, ehrlich, honett, rechtschaffen
+onnisciente /onniʃˈɛnte/
+allwissend
+onore /onˈore/
+Ehre
+onorevole /onorˈevole/
+achtbar
+ontano /ontˈano/
+Erle
+opera /ˈopera/
+Werk
+operaio /opˌeɾˈaːjo/
+Arbeiter
+opprimere /opːrˈimere/
+erpressen, unterdrücken
+ordinare /ordinˈare/
+bestellen
+ordine /ˈɔrdine/
+1. Auftrag, Bestellung
+2. Anlass, Befehl, Edikt, Gebot, Weisung
+3. Aneinanderreihung, Reihenfolge, Verkettung
+orecchio /orˈekːio/
+Ohr
+orgoglioso /orɡoʎˈozo/
+hochfahrend, hochmütig, stolz
+origine /orˈidʒine/
+1. Abkunft, Abstammung, Herkunft, Ursprung
+origliare /oriʎˈare/
+belauschen
+orinare /orinˈare/
+harnen
+orizzonte /oridzːˈonte/
+Gesichtskreis, Horizont
+orlo /ˈorlo/
+Grat, Kante, Saum, Rand
+orlogiaio /orlodʒˈaio/
+Uhrmacher
+oro /ˈɔro/
+Gold
+orologio /orolˈodʒo/
+Uhr
+orrore /orɾˈore/
+Abscheu, Gräuel
+orso /ˈorso/
+Bär
+orso /ˈorso/
+Eisbär
+ortica /ortˈika/
+Brennnessel
+orzo /ˈɔɾdzo/
+Gerste
+oscurit /oskˈurit/
+Dunkelheit
+oscuro /oskˈuro/
+dunkel, finster
+ospedale /ospedˈale/
+Hospital, Hospiz, Krankenhaus
+ospitale /ospitˈale/
+gastlich
+ospite /ˈɔspite/
+Gast
+osservare /osservˈare/
+1. beaufsichtigen, beobachten, betrachten, verfolgen
+2. bemerken
+osservazione /osservatsiˈone/
+Bemerkung, Beobachtung, Vermerk
+osso /ˈɔsso/
+Gebein, Knochen
+ostinato /ostinˈato/
+eigensinnig, halsstarrig, hartnäckig, starrköpfig, trotzig
+ostrica /ˈɔstrika/
+Auster
+ottanta /otːˈanta/
+achtzig
+ottenere /otːenˈere/
+holen
+ottico /ˈɔtːiko/
+Optiker
+otto /ˈɔtːo/
+acht
+ottobre /ˌɔtːˈobre/ <m>
+Oktober <m>
+ottone /otːˈone/
+1. Messing
+2. Latun
+ovest /ˈɔvest/
+1. Abendland, Okzident, Westen
+pacco /pˈakːo/
+Bündel, Päckchen, Paket
+pace /pˈatʃe/
+Friede
+pacificare /patʃifikˈare/
+besänftigen, dämpfen, züchtigen
+padre /pˈadre/
+1. Vater
+2. Pater
+padre /pˈadre/
+Eltern
+padrone /padrˈone/
+Wirt
+paese /paˈeze/
+Land
+paga /pˈaɡa/
+Gage, Gehalt, Salär
+pagamento /paɡamˈento/
+Bezahlung, Zahlung
+pagare /paɡˈare/
+zahlen, abzahlen, auszahlen, bezahlen, einzahlen, entrichten
+pagina /pˈadʒina/
+Folio, Seite
+palato /palˈato/
+Gaumen
+palazzo /palˈatsːo/
+Palast, Schloss
+palese /palˈeze/
+anschaulich, augenscheinlich, ersichtlich, evident, offenbar
+palla /pˈalla/
+1. Kugel
+2. Ball
+pallido /pˈallido/
+blass, bleich, fahl
+pallone /pallˈone/
+Ballon
+pallottoliere /pallotːoliˈɛre/
+Abakus, Kugelmaschine, Rechenmaschine
+palma /pˈalma/
+Handfläche
+palpebra /pˈalpebra/
+Augenlid
+pane /pˈane/
+Brot
+panetteria /panetːerˈia/
+Bäckerei, Backstube
+panino /panˈino/
+Brötchen, Semmel
+panka /pˈaŋka/
+Bank
+pantaloni /pantalˈonɪ/
+Beinkleid, Hose
+pappagallo /papːaɡˈallo/
+Papagei
+parafango /paɾafˈaŋɡo/
+Kotflügel
+parallelo /paɾallˈɛlo/
+gleichlaufend, parallel
+parapetto /paɾapˈɛtːo/
+Balustrade, Geländer, Schranke
+parentado /parentˈado/
+Verwandtschaft
+parente /parˈɛnte/
+Verwandter
+parentela /parentˈɛla/
+Verwandtschaft
+parento /parˈɛnto/
+verwandt, anverwandt
+parere /parˈere/
+scheinen
+parete /parˈete/
+Wand
+parlare /parlˈare/
+reden, sprechen
+parola /paɾˈɔla/
+Vokabel, Wort
+parrucchiere /parɾʊkːiˈɛre/
+Friseur, Frisör
+parte /pˈarte/
+Anteil, Teil
+partenza /partˈɛntsa/
+1. Abgang, Abreise, Abzug
+2. Abfahrt
+participio /partitʃˈipio/
+Mittelwort, Partizip, Partizipium
+particulare /partikʊlˈare/
+privat
+partire /partˈire/
+abreisen, fortgehen
+partito /partˈito/
+1. Anhang
+2. Fraktion, Partei
+parzialmente /partsjalmˈente/
+teils
+passaggio /passˈadʒːo/
+Bahnübergang
+passagiere /passadʒˈɛre/
+Fahrgast, Passagier
+passaporto /passapˈɔrto/
+Pass, Reisepass
+passare /passˈare/
+angeben, herreichen, verbringen, zubringen
+passato /passˈato/
+1. Vergangenheit
+2. vorig
+passeggiata /passedʒːˈata/
+Foyer
+passero /pˈassero/ <m>
+Sperling <m>, Spatz <m>
+passo /pˈasso/
+Schritt, Tritt
+pasta /pˈasta/
+Pasta, Paste, Teig
+patata /patˈata/
+Erdapfel, Kartoffel
+patria /pˈatria/
+Heimat, Vaterland
+patto /pˈatːo/
+Einverständnis, Übereinkunft
+pattuire /patːʊˈire/
+sich verständigen, übereinkommen, verabreden, vereinbaren
+paura /paˈʊra/
+1. Angst
+2. Blödigkeit
+3. Furcht
+pauroso /paʊrˈozo/
+1. bang, feige
+2. zaghaft
+pavimento /pavimˈento/
+Boden, Diele, Dielung, Fußboden
+pazienza /patsjˈɛntsa/
+Geduld
+pazzo /pˈatsːo/
+Irre
+pecora /pˈɛkora/
+Hammel, Schaf
+pelegrinaggio /peleɡrinˈadʒːo/
+Wallfahrt
+pelle /pˈelle/ <f>
+1. Fell <n>, Balg, Pelz, Tierhaut
+2. Haut
+pellicola /pellˈikola/
+Film
+penna /pˈenna/ <f>
+Feder <f>
+pendere /pˈɛndere/
+hängen
+penetrare /penetrˈare/
+durchdringen, eindringen
+penisola /penˈizola/
+Halbinsel
+penna /pˈenna/
+Feder
+penna /pˈenna/
+Füller, Füllfeder
+pensare /pensˈare/
+denken
+pensiero /pensiˈɛro/
+Gedanke
+pensione /pensiˈone/
+Fremdenheim, Pension
+pentimento /pentimˈento/
+Buße
+pepe /pˈepe/
+Pfeffer
+pera /pˈɛra/
+Birne
+perci /pˈɛrtʃɪ/
+also, daher, darum, deshalb
+percorrere /perkˈɔrɾere/
+durchgehen, durchqueren, hindurchgehen
+perdere /pˈɛrdere/
+verlieren
+perdere /pˈɛrdere/
+abgewöhnen
+perdersi /pˈɛrdersɪ/
+sich verirren
+perdita /pˈɛrdita/
+Verlust
+perduto /perdˈuto/
+abhanden
+perfetto /perfˈɛtːo/
+perfekt, trefflich, vollendet, vollkommen
+perfino /perfˈino/
+gar, ja, selbst, sogar
+pericolo /perˈikolo/
+Gefahr
+pericoloso /perikolˈozo/
+besorglich, gefährlich
+perito /perˈito/
+Buchrevisor
+permanente /permanˈɛnte/
+fest
+permettere /permˈetːere/
+erlauben, gestatten
+pernice /pernˈitʃe/
+Rebhuhn
+perno /pˈɛrno/
+Achse
+pero /pˈɛro/
+Birnbaum
+perseguire /perseɡwˈire/
+fahnden, nachzusetzen, verfolgen
+perseguitare /perseɡwitˈare/
+fahnden, nachzusetzen, verfolgen
+persiana /persjˈana/
+Jalousie, Rollladen
+persona /persˈona/
+Person
+personale /personˈale/
+persönlich
+per /pˈer/
+gewissermaßen
+per /pˈer/
+zum Beispiel
+per /pˈer/
+wenigstens
+per /pˈer/
+durch, kraft, mit, mittelst, vermittels
+per /pˈer/
+lange
+per /pˈer/
+also, daher, darum, deshalb
+per /pˈer/
+Schwieger‐
+pesante /pezˈante/
+schwer
+pesare /pezˈare/
+1. wägen, abwägen, wiegen
+2. schwer sein
+pesce /pˈeʃe/ <m>
+Fisch <m>
+pescecane /peʃekˈane/
+Hai, Haifisch
+pesce /pˈeʃe/
+Barsch
+peso /pˈezo/
+Gewicht, Wucht
+pestare /pestˈare/
+frankieren
+petizione /petitsiˈone/
+Bittschrift
+petrolio /petrˈɔlio/
+Petroleum
+pettegolezzo /petːeɡolˈetsːo/
+Geplauder
+pettinare /petːinˈare/
+kämmen
+petto /pˈɛtːo/
+Brust, Busen
+pezzo /pˈɛtsːo/
+Fleck, Stück
+piacere /pjatʃˈere/
+1. behagen, belieben, gefallen, konvenieren
+2. Freude, Genuss, Vergnügen, Wohlgefallen
+piacevole /pjatʃˈevole/
+behaglich, herrlich, genehm, angenehm
+pialla /pjˈalla/
+Hobel
+piangere /pjˈandʒere/
+weinen
+piano /pjˈano/
+1. eben, glatt, flach
+2. Ebene
+3. Etage, Geschoss, Stock, Stockwerk
+pianola /pjanˈɔla/
+Klaviatur, Tastatur
+pianta /pjˈanta/
+1. Fußsohle, Sohle
+2. Anlage, Pflanzen, Anpflanzen, Pflanzung, Anpflanzung
+piantare /pjantˈare/
+legen, stecken, pflanzen, anpflanzen
+pianterreno /pjanterɾˈeno/
+Erdgeschoss
+piattaforma /pjatːafˈorma/
+Bahnsteig, Kai
+piattino /pjatːˈino/
+Untertasse
+piatto /pjˈatːo/
+Teller
+piazza /pjˈatsːa/
+Platz
+picchiare /pikːjˈare/
+klopfen, schlagen
+piccione /pitʃːˈone/
+Taube
+piccola /pˈikːola/
+Dirne, Mädchen
+piccolo /pˈikːolo/
+gering, klein
+pidocchio /pidˈɔkːio/
+Laus
+piegare /pjeɡˈare/
+falten, zusammenlegen
+pieno /pjˈɛno/
+voll
+pierra /pjˈɛrɾa/
+Stein
+pigro /pˈiɡro/
+faul
+pinna /pˈinna/
+Flosse
+pino /pˈino/
+Föhre, Kiefer
+pioggia /piˈɔdʒːa/
+Regen
+piombo /piˈɔmbo/
+Blei
+pioniere /pioniˈɛre/
+Bahnbrecher, Pionier
+pioppo /piˈɔpːo/
+Pappel
+piovere /piˈɔvere/
+regnen
+pisciare /piʃˈare/
+harnen
+pisello /pizˈɛllo/
+Erbse
+pista /pˈista/
+Bahn, Chaussee, Strecke, Weg
+pittore /pitːˈore/
+Maler
+pittura /pitːˈura/
+1. Ansicht, Bild
+2. Gemälde
+piuttosto /pjʊtːˈɔsto/
+1. lieber
+2. am liebsten
+placare /plakˈare/
+1. besänftigen, dämpfen, züchtigen
+2. beruhigen
+plenilunio /plenilˈunio/
+Vollmond
+poco /pˈɔko/
+allmählich, nach und nach, sukzessive
+poema /poˈɛma/
+Gedicht, Poem
+poema /poˈɛma/
+Epik, Epopöe, Heldengedicht
+poesia /poezˈia/
+Dichtkunst, Dichtung, Poesie
+poeta /poˈɛta/
+Dichter, Poet
+poggiare /podʒːˈare/
+stemmen, unterhalten, unterstützen
+poi /pˈɔi/
+danach
+polacco /polˈakːo/
+Pole
+politica /polˈitika/
+Politik
+politico /polˈitiko/
+politisch
+polizia /politsˈia/
+Polizei
+poliziotto /politsiˈɔtːo/
+1. Polizist, Schutzmann
+2. Häscher
+pollice /pˈɔllitʃe/
+Daumen
+pollo /pˈollo/
+Huhn
+polmone /polmˈone/
+Lunge
+polpaccio /polpˈatʃːo/
+Wade
+polso /pˈolso/
+1. Handgelenk
+2. Puls
+poltrona /poltrˈona/
+1. Fauteuil, Lehnstuhl
+polvere /pˈolvere/
+Staub
+pomeriggio /pomerˈidʒːo/
+Nachmittag
+pomodoro /pomodˈɔro/
+Tomate
+pompa /pˈompa/
+Pumpe
+pompare /pompˈare/
+pumpen
+ponere /pˈɔnere/
+legen, setzen, stecken, stellen
+ponte /pˈonte/
+1. Deck, Schiffsdeck, Verdeck
+2. Brücke
+popolo /pˈɔpolo/
+Volk
+poppa /pˈopːa/
+Heck
+populazione /popʊlatsiˈone/
+Bevölkerung
+porcellino /portʃellˈino/ <m>
+Meerschweinchen <m>
+porco /pˈɔrko/
+Schwein
+porta /pˈɔrta/
+Tür
+portacenere /portatʃˈenere/
+Aschenbecher
+portalettere /portalˈetːere/
+Briefträger
+portare /portˈare/
+1. bringen, anbringen, eintragen, heranbringen, überbringen
+2. tragen
+portiera /portiˈɛra/
+Wagentür
+porto /pˈɔrto/
+Hafen
+portoghese /portoɡˈeze/
+Portugiese
+porzione /portsiˈone/
+1. Anteil, Teil
+2. Portion, Ration
+posa /pˈɔza/
+Gezier
+posare /pozˈare/
+affektieren, künsteln, sich zieren
+posdomani /pozdomˈanɪ/
+übermorgen
+possedere /possedˈɛre/
+besitzen
+possesso /possˈɛsso/
+1. Besitz, Besitztum, Besitzung, Eigentum, Gut
+possibile /possˈibile/
+angängig, etwaige
+posta /pˈɔsta/
+Post
+postino /postˈino/
+Briefträger
+potabile /potˈabile/
+genießbar
+potere /potˈere/
+1. Gewalt, Macht, Potenz
+2. dürfen, können, vermögen
+povero /pˈɔvero/
+1. elend, erbärmlich, jämmerlich
+2. arm
+povert /pˈovert/
+Armut
+praticare /pratikˈare/
+praktizieren
+preciso /pretʃˈizo/
+1. akkurat, genau
+2. exakt
+predisporre /predispˈɔrɾe/
+arrangieren, einrichten, ordnen, anordnen, veranstalten
+pregare /preɡˈare/
+beten
+preghiera /preɡiˈɛra/
+Gebet
+pregiudizio /predʒʊdˈitsio/
+Vorurteil
+premere /prˈɛmere/
+beklemmen, drücken, bedrücken, pressen, zwängen
+premio /prˈɛmio/
+Prämie, Preis
+prendere /prˈɛndere/
+1. erbeuten, ergreifen, ertappen, erwischen, fangen, fassen
+2. nehmen
+prendere /prˈɛndere/
+versorgen
+prendere /prˈɛndere/
+mieten
+prenome /prenˈome/
+Vorname
+preparare /prepaɾˈare/
+1. bereiten, vorbereiten
+2. zurichten
+presente /prezˈɛnte/
+1. Angebinde, Gabe, Geschenk, Spende, Vermächtnis
+2. anwesend
+pressione /pressiˈone/
+Drang, Druck, Drücken, Pressen
+presto /prˈɛsto/
+flugs, geschwind, schnell
+prete /prˈɛte/
+Geistlicher, Pastor, Pfarrer, Priester
+prezzemolo /pretsːˈemolo/
+Petersilie
+prezzo /prˈɛtsːo/
+Preis
+primavera /primavˈɛra/ <f>
+Frühling <m>
+primaverile /primaverˈile/
+Frühlings-, frühlingshaft
+prigione /pridʒˈone/
+1. Gefängnis, Verlies
+prigioniero /pridʒoniˈɛro/
+Arrestant
+prima /prˈima/
+erst, erstens, zuerst
+primavera /primavˈɛra/
+Frühjahr, Frühling, Lenz
+prima /prˈima/
+Frühstück
+primo /prˈimo/
+erste, erster, erstes
+principale /printʃipˈale/
+Wirt
+principalmente /printʃipalmˈente/
+besonders, eigens, insbesondere, vornehmlich, vorzüglich, zumal
+principio /printʃˈipio/
+1. Anfang, Beginn
+2. Grundsatz, Prinzip
+privado /privˈado/
+privat
+probabile /probˈabile/
+wahrscheinlich
+probabilmente /probabilmˈente/
+wahrscheinlich, wohl
+problema /problˈɛma/
+Problem
+processo /protʃˈɛsso/
+Prozess
+proclamare /proklamˈare/
+ausrufen, proklamieren
+prodotto /prodˈotːo/
+1. Artikel
+2. Erzeugung, Produktion
+produrre /prodˈurɾe/
+erzeugen, hervorbringen, produzieren
+professione /professiˈone/
+Beruf, Gewerbe, Profession
+profitto /profˈitːo/
+1. Ertrag, Gewinn, Interesse, Nutzen, Überschuss, Verdienst, Vorteil
+profondit /profˈondit/
+Tiefe
+profondo /profˈondo/
+tief
+progettare /prodʒetːˈare/
+1. entwerfen, planen, projektieren
+2. skizzieren
+progetto /prodʒˈɛtːo/
+1. Abriss, Entwurf, Plan, Riss, Grundriss
+2. Projekt
+3. Skizze
+progresso /proɡrˈɛsso/
+Fortschritt
+promessa /promˈessa/
+Gelöbnis, Versprechen, Zusage
+promettere /promˈetːere/
+geloben, verheißen, versprechen, zusagen
+promozione /promotsiˈone/
+Promotion
+promuovere /promʊˈɔvere/
+promovieren
+pronipote /pronipˈote/
+1. Großenkel, Urenkel
+2. Großneffe
+pronto /prˈonto/
+bereit, erbötig, fertig
+pronunciare /pronʊntʃˈare/
+aussprechen, fällen
+proporzionale /proportsionˈale/
+proportional, verhältnismäßig
+proposito /propˈɔzito/
+Ziel, Zweck
+proprietario /proprietˈario/
+Eigentümer, Inhaber
+proprio /prˈɔprio/
+eigen
+prosciutto /proʃˈutːo/
+Schinken
+prosperare /prosperˈare/
+gedeihen, gelingen, geraten, glücken, prosperieren
+prossimo /prˈɔssimo/
+bevorstehend, kommend, künftig, nächst, nahe
+proteggere /protˈedʒːere/
+begünstigen, beschirmen, protektieren, schützen, beschützen
+protesta /protˈɛsta/
+Einspruch
+protestare /protestˈare/
+anfechten, beanstanden, Einspruch erheben, protestieren
+protezione /protetsiˈone/
+Begünstigung, Protektion, Schirm, Schutz
+prova /prˈɔva/
+Ausweis, Beweis, Beleg
+provare /provˈare/
+1. erproben, probieren, prüfen, versuchen
+2. begründen, beweisen, erhärten
+prua /prˈua/
+Bug
+pubblicare /pʊbːlikˈare/
+1. ankündigen, anzeigen, avisieren, melden, anmelden, verkünden
+2. ausrufen, proklamieren
+3. aufbieten, veröffentlichen
+pubblicazione /pʊbːlikatsiˈone/
+Proklamation
+pubblico /pˈubːliko/
+öffentlich
+pugnale /pʊɲˈale/
+Dolch
+pugno /pˈuɲɲo/
+Faust
+pulce /pˈultʃe/ <f>
+Floh <m>
+pulizia /pʊlitsˈia/ <f>
+Sauberkeit <f>, Saubermachen <n>, Reinheit, Reinlichkeit
+pulire /pʊlˈire/
+reinigen, säubern
+pulsante /pʊlsˈante/
+Knopf
+pungere /pˈundʒere/
+stacheln, stechen, stecken, sticheln
+pungiglione /pʊndʒiʎˈone/
+Stachel
+punire /pʊnˈire/
+ahnden, strafen, bestrafen, züchtigen
+punizione /pʊnitsiˈone/
+Bestrafung, Strafe
+punta /pˈunta/
+Kulm, Spitze, Stift, Zacke, Zinke, Zipfel
+punteruolo /pʊnterʊˈɔlo/
+Ahle, Pfrieme
+punto /pˈunto/
+Punkt
+puro /pˈuro/
+1. rein
+2. blank, reinlich, sauber
+qualche /kwˈalke/
+manchmal
+quaranta /kwaɾˈanta/
+vierzig
+quarto /kwˈarto/
+Viertel, Viertelstunde
+quasi /kwˈazɪ/
+beinahe, fast, nahezu, schier, ungefähr
+quattordici /kwatːˈorditʃɪ/
+vierzehn
+quattro /kwˈatːro/
+vier
+quercia /kwˈɛrtʃa/
+Eiche
+questura /kwestˈura/
+Polizeiamt, Polizeiwache
+qui /kwˈi/
+hierher, hierhin, nach hier
+quindici /kwˈinditʃɪ/
+fünfzehn
+quotidianamente /kwotidjanamˈente/
+täglich, alltäglich
+quotidiano /kwotidjˈano/
+täglich
+qu /kˈu/
+hierher, hierhin, nach hier
+raccogliere /rakːˈɔʎere/
+sammeln, einsammeln
+raccomandabile /rakːomandˈabile/
+empfehlungswert
+raccomandare /rakːomandˈare/
+raten, beraten, einen Rat geben
+raccomandazione /rakːomandatsiˈone/
+Empfehlung
+raccontare /rakːontˈare/
+erzählen
+radio /rˈadio/
+Radio
+raffredarsi /raffredˈarsɪ/
+sich erkälten
+raffreddore /raffredːˈore/
+Erkältung
+ragazza /raɡˈatsːa/
+Dirne, Mädchen
+ragazzo /raɡˈatsːo/
+Junge, Knabe
+ragione /radʒˈoːne/
+Rationalität, Vernunftgemäßheit
+ragnatela /raɲatˈela/ <f>
+Spinnennetz <n>
+ragno /rˈaɲɲo/ <m>
+Spinne <f>
+rame /rˈame/
+Kupfer
+ramo /rˈamo/
+Ast, Zweig
+rana /rˈana/ <f>
+Frosch <m>
+ranocchio /ranˈɔkːio/
+Frosch
+rapa /rˈapa/
+Rübe
+rappresentare /rapːrezentˈare/
+repräsentieren, vertreten, vorstellen
+raramente /raɾamˈente/
+selten
+raschiare /raskjˈare/
+kratzen, ritzen
+rassomiglare /rassomiɡlˈare/
+ähneln, gleichen
+ratto /rˈatːo/ <m>
+Ratte <f>
+ravanello /ravanˈɛllo/
+Radieschen
+razza /rˈatsːa/
+Rasse
+reale /reˈale/
+real, wirklich
+recitare /retʃitˈare/
+rezitieren, vortragen
+regalo /reɡˈalo/
+Angebinde, Gabe, Geschenk, Spende, Vermächtnis
+regime /redʒˈime/
+Diät
+regno /rˈeɲɲo/
+Königreich
+regola /rˈɛɡola/
+Regel
+relazione /relatsiˈone/
+Beziehung, Hinsicht, Verbindung, Verhältnis
+remo /rˈɛmo/
+Lenkrad, Ruder, Steuer
+rendere /rˈɛndere/
+erschweren
+rene /rˈene/
+Niere
+replicare /replikˈare/
+antworten, beantworten, entgegnen, erwidern
+repubblica /repˈubːlika/
+Freistaat, Republik
+residenza /rezidˈɛntsa/
+1. Wohnort, Wohnsitz
+respirare /respirˈare/
+atmen
+respirazione /respiratsiˈone/
+Atmen, Atmung
+responsabile /responsˈabile/
+verantwortlich
+restare /restˈare/
+bleiben, übrigbleiben
+restituire /restitʊˈire/
+vergelten, wiedergeben, zurückgeben
+resti /rˈɛstɪ/
+zurückbleiben
+restringere /restrˈindʒere/
+begrenzen, beschränken, einschränken
+rete /rˈete/
+Garn, Netz
+retroguardia /retroɡwˈardia/
+Nachhut
+ribes /rˈibes/
+1. Stachelbeere
+2. Johannisbeere
+ribes /rˈibes/
+Aalbeere
+ribrezzo /ribrˈetsːo/
+Abscheu, Gräuel
+ricchezza /rikːˈetsːa/
+Reichtum
+riccio /rˈitʃːo/
+Igel
+ricco /rˈikːo/
+ausgiebig, reich, vermögend
+ricevere /ritʃˈevere/
+bekommen, empfangen, erhalten
+ricevuta /ritʃevˈuta/
+Quittung
+ricompensa /rikompˈɛnsa/
+Belohnung, Lohn
+ricompensare /rikompensˈare/
+lohnen, belohnen, vergelten
+riconoscente /rikonoʃˈɛnte/
+dankbar, erkenntlich
+ricovero /rikˈɔvero/
+Asyl, Zufluchtsstätte
+ridere /rˈidere/
+lachen
+ridicolo /ridˈikolo/
+lächerlich
+rifiutare /rifjʊtˈare/
+ausmerzen
+rifiutarsi /rifjʊtˈarsɪ/
+ablehnen, abschlagen, ausschlagen, versagen, weigern, verweigern
+rifiuto /rifjˈuto/
+Verweigerung, Weigerung
+rigido /rˈidʒido/
+starr, steif, spröde
+riguardare /riɡwardˈare/
+angehen, anlangen, betreffen
+riguardo /riɡwˈardo/
+Achtung, Verehrung
+rilegare /rileɡˈare/
+binden, einbinden
+rilevare /rilevˈare/
+ablösen, ersetzen
+rimanere /rimanˈɛre/
+bleiben, übrigbleiben
+rimorchiatore /rimorkjatˈore/
+Schlepper
+rimpianto /rimpjˈanto/
+Buße
+rincrescere /rinkrˈeʃere/
+bedauern
+ringraziare /riŋɡratsjˈare/
+danken, sich bedanken, verdanken
+rinoceronte /rinotʃerˈonte/
+Nashorn
+rinomato /rinomˈato/
+berühmt
+rinviare /rinviˈare/
+zurücksenden
+riparare /ripaɾˈare/
+1. reparieren
+2. bergen, schirmen, beschirmen, beschützen
+ripetere /ripˈetere/
+wiederholen
+ripido /rˈipido/
+abschüssig, steil
+riposarsi /ripozˈarsɪ/
+ruhen, sich ausruhen
+riposo /ripˈɔzo/
+Ruhe
+riprendere /riprˈɛndere/
+schelten, vorwerfen, Vorwürfe machen
+ripugnanza /ripʊɲˈantsa/
+1. Abneigung, Antipathie, Widerwillen
+2. Ekel, Übelkeit
+risa /rˈiza/
+Gelächter, Lache
+riscaldamento /riskaldamˈento/ <m>
+Heizung <f>
+riscaldare /riskaldˈare/
+heizen, (er)wärmen
+rischio /rˈiskio/
+Risiko, Wagnis
+riservare /rizervˈare/
+reservieren, vorbehalten, zurückbehalten
+riso /rˈizo/
+1. Lachen
+2. Reis
+rispettabile /rispetːˈabile/
+achtbar
+rispettare /rispetːˈare/
+1. achten, hochschätzen
+2. Achtung erweisen, respektieren
+rispetto /rispˈɛtːo/
+1. Achtung, Verehrung
+2. Ehrfurcht, Respekt
+risplendere /risplˈɛndere/
+blinken, glänzen, scheinen, schimmern, strahlen
+rispondere /rispˈondere/
+antworten, beantworten, entgegnen, erwidern
+risposta /rispˈosta/
+Antwort
+ristorante /ristorˈante/
+Restaurant, Restauration
+risultato /rizʊltˈato/
+Erfolg, Ergebnis, Resultat
+ritenere /ritenˈɛre/
+zurückhalten
+ritirare /ritirˈare/
+abräumen, fortnehmen, entziehen, wegnehmen
+ritirata /ritirˈata/
+Abort, Abtritt
+ritornare /ritornˈare/
+zurückkehren
+riuscire /riʊʃˈire/
+Erfolg haben, gelingen
+rivista /rivˈista/
+1. Zeitschrift
+2. Revue
+roccia /rˈɔtʃːa/
+Fels, Felsen, Steinmasse
+romanzo /romˈandzo/
+Roman
+rompere /rˈompere/
+1. abreißen, losreißen, pflücken, abpflügen
+2. brechen, abbrechen, aufbrechen
+rompersi /rˈompersɪ/
+brechen
+rondine /rˈondine/
+Schwalbe
+rospo /rˈɔspo/ <m>
+Kröte <f>
+rosso /rˈosso/
+1. rot
+2. Rot
+rotondo /rotˈondo/
+rund
+rovesciare /roveʃˈare/
+kappen, umstoßen, umstürzen, umwerfen
+rovinare /rovinˈare/
+verheeren
+rozzo /rˈɔdzːo/
+barsch, ungezogen, unverfroren
+rubare /rʊbˈare/
+entwenden, stehlen
+rude /rˈude/
+brummig, unwirsch
+rugiada /rʊdʒˈada/
+Tau
+rumore /rʊmˈore/
+Aufsehen, Braus
+ruota /rʊˈɔta/
+Rad
+ruscello /rʊʃˈɛllo/
+Bach
+russare /rʊssˈare/
+schnarchen
+russo /rˈusso/
+Russe
+sabato /sˈabato/ <m>
+Samstag, Sonnabend <m>
+sabbia /sˈabːia/
+Sand
+sacerdate /satʃerdˈate/
+Geistlicher, Pastor, Pfarrer, Priester
+saggio /sˈadʒːo/
+gescheit, klug, weise
+salario /salˈario/
+Gage, Gehalt, Salär
+sala /sˈala/
+Badestube
+sala /sˈala/
+Speisesaal, Speisezimmer
+sala /sˈala/
+Warteraum, Wartesaal
+salcio /sˈaltʃo/
+Weide
+saldare /saldˈare/
+saldieren
+sale /sˈale/
+Salz
+salice /sˈalitʃe/
+Weide
+salire /salˈire/
+1. aufgehen, sich erheben, steigen
+2. ersteigen
+salmone /salmˈone/
+Lachs, Salm
+salotto /salˈɔtːo/
+Aula, Salon
+salsa /sˈalsa/
+Brühe, Sauce, Soße, Tunke
+salsiccia /salsˈitʃːa/
+Wurst
+saltare /saltˈare/
+springen
+salto /sˈalto/
+Sprung
+salutare /salʊtˈare/
+grüßen, begrüßen, bewillkommnen
+salute /salˈute/
+Gesundheit
+saluto /salˈuto/
+Gruß
+salvare /salvˈare/
+retten, erlösen, erretten
+salvia /sˈalvia/
+Salbei
+salvo /sˈalvo/
+ausgenommen
+sangue /sˈaŋɡwe/
+Blut
+sanguinare /saŋɡwinˈare/
+bluten
+sapere /sapˈere/
+wissen
+sarto /sˈarto/
+Schneider
+sbadato /zbadˈato/
+achtlos, fahrlässig
+sbadigliare /zbadiʎˈare/
+gähnen
+sbadiglio /zbadˈiʎo/
+Gähnen
+sbagliarsi /zbaʎˈarsɪ/
+sich irren
+sbaglio /zbˈaʎo/
+Fehler, Irrtum, Versehen
+sbalordire /zbalordˈire/
+in Verwunderung setzen, verwundern
+sbarrare /zbarɾˈare/
+hindern, sperren, versperren
+sbocco /zbˈokːo/
+Markt
+scala /skˈala/
+1. Stiege, Treppe
+2. Leiter
+scalpello /skalpˈɛllo/
+Meißel, Stemmeisen
+scandalo /skˈandalo/
+Ärgernis, Skandal
+scarpa /skˈarpa/
+Schuh
+scatola /skˈatola/
+Büchse, Schachtel
+scegliere /ʃˈeʎere/
+auslesen, wählen, auswählen, erwählen
+scelta /ʃˈelta/
+Auslese, Wahl
+scheletro /skˈɛletro/
+1. Gebein, Gerippe, Knochengerüst, Skelett
+scherzare /skertsˈare/
+scherzen
+scherzo /skˈertso/
+Jux, Scherz, Spaß
+schiuma /skjˈuma/
+Gischt, Schaum
+scienza /ʃˈɛntsa/
+Wissenschaft
+scimmia /ʃˈimmia/ <f>
+Affe <m>
+scimpanz /ʃˈimpants/ <m>
+Schimpanse <m>
+scintilla /ʃintˈilla/
+Funke
+sciocchezza /ʃokːˈetsːa/
+Torheit
+sciocco /ʃˈɔkːo/
+albern, dumm
+sciopero /ʃˈɔpero/
+Strahl
+scoiattolo /skoiˈatːolo/ <m>
+Eichhorn, Eichhörnchen <n>
+scolaro /skolˈaro/
+Schüler
+scommettere /skommˈetːere/
+wetten
+scompartimento /skompartimˈento/
+Abteil, Coupé
+sconsigliare /skonsiʎˈare/
+entraten
+scopa /skˈopa/
+Besen
+scopo /skˈɔpo/
+Ziel, Zweck
+scoprire /skoprˈire/
+abdecken, entdecken, enthüllen
+scorgere /skˈɔrdʒere/
+erblicken, gewahr werden
+scorrere /skˈɔrɾere/
+fließen, rinnen, strömen
+scorso /skˈorso/
+letzte, letzter, letztes
+scortese /skortˈeze/
+barsch, ungezogen, unverfroren
+scorza /skˈɔrtsa/
+Bast
+scozzese /skotsːˈeze/
+Schotte
+screpolatura /skrepolatˈura/
+Spalte
+scrivere /skrˈivere/
+schreiben
+scrivere /skrˈivere/
+tippen
+scultura /skʊltˈura/
+Bildhauerwerk, Bildwerk
+scuola /skʊˈɔla/
+Schule
+scure /skˈure/
+Axt, Beil, Hacke
+scuro /skˈuro/
+1. dunkel, düster, trübe
+2. finster
+se /sˈe/
+falls, insofern, wenn, wofern
+sebbene /sebːˈɛne/
+obgleich, obschon, wenn auch, zwar
+seccare /sekːˈare/
+1. dörren, trocknen, austrocknen
+2. dorren, verdorren
+secchia /sˈekːia/
+Eimer
+secchio /sˈekːio/
+Eimer
+secco /sˈekːo/
+trocken
+secondo /sekˈondo/
+Sekunde
+sedano /sˈɛdano/
+Sellerie
+sedere /sedˈere/ <m>
+Hintern <m>, Gesäß <n>, After, Arsch
+sedersi /sedˈersɪ/
+sich setzen
+sedia /sˈɛdia/
+Stuhl
+sedici /sˈeditʃɪ/
+sechzehn
+sega /sˈeɡa/
+Säge
+segale /seɡˈale/
+Roggen
+segno /sˈeɲɲo/
+Abzeichen, Anzeichen, Kennzeichen, Merkzeichen, Wink, Zeichen
+segreto /seɡrˈeto/
+1. geheim, heimlich, verborgen, verstohlen
+2. Geheimnis, Hehl
+seguente /seɡwˈɛnte/
+1. folgend, nächst, umgehend
+seguire /seɡwˈire/
+folgen
+seguito /seɡwˈito/
+Anhang
+sei /sˈɛi/
+sechs
+selvaggina /selvadʒːˈina/ <f>
+Wild <n>
+selvaggio /selvˈadʒːo/
+wild
+seminare /seminˈare/
+säen
+semplice /sˈemplitʃe/
+einfach, einfältig
+sempre /sˈɛmpre/
+allemal, allzeit, fortwährend, immer, jederzeit, stets
+sensato /sensˈato/
+gescheit, klug, vernünftig, verständig
+sentiero /sentiˈɛro/
+Fußweg, Pfad, Steg, Steig
+sentire /sentˈire/
+duften, riechen
+senza /sˈɛntsa/
+grundlos
+separare /sepaɾˈare/
+absondern, abteilen, abtrennen, scheiden
+separato /sepaɾˈato/
+abgesondert, besonder, einzeln, separat
+seppellire /sepːellˈire/
+beerdigen
+sera /sˈera/
+Abend
+serio /sˈɛrio/
+ernst, ernsthaft, gesetzt
+serpente /serpˈɛnte/ <m>
+Schlange <f>
+serrare /serɾˈare/
+beklemmen, drücken, bedrücken, pressen, zwängen
+serrare /serɾˈare/
+schließen, verschließen, zuschließen
+serratura /serɾatˈura/
+Schloss, Verschluss
+servire /servˈire/
+1. dienen, bedienen
+2. Bursche, Diener, Gehilfe
+3. frommen, nützen
+servizio /servˈitsio/
+1. Bedienung, Dienst
+sessanta /sessˈanta/
+sechzig
+sesso /sˈɛsso/
+Geschlecht, Sex
+sete /sˈete/
+Durst
+settanta /setːˈanta/
+siebzig
+sette /sˈɛtːe/
+sieben
+settembre /setːˈɛmbre/ <m>
+September <m>
+settimana /setːimˈana/
+Woche
+severo /sevˈɛro/
+streng
+sfera /sfˈɛra/
+Sphäre
+sferico /sfˈɛriko/
+sphärisch
+sfruttare /sfrʊtːˈare/
+ausbeuten, ausnutzen, exploitieren
+sgelare /zdʒelˈare/
+tauen, auftauen
+sgombro /zɡˈombro/
+Makrele
+sgradevole /zɡradˈevole/
+widerwärtig
+sgretolarsi /zɡretolˈarsɪ/
+bröckeln
+sguardo /zɡwˈardo/
+Überblick
+sicurezza /sikʊrˈetsːa/
+Sicherheit
+sidro /sˈidro/
+Apfelwein, Obstwein, Zider
+significare /siɲifikˈare/
+bedeuten, bezeichnen
+significato /siɲifikˈato/
+Bedeutung, Bezeichnung, Meinung
+silenzioso /silentsiˈozo/
+schweigend, verschwiegen
+simile /sˈimile/
+ähnlich
+sincero /sintʃˈero/
+aufrichtig
+sindaco /sˈindako/
+Bürgermeister
+sistema /sistˈɛma/
+System
+sistemare /sistemˈare/
+arrangieren, einrichten, ordnen, anordnen, veranstalten
+si /sˈi/
+zweifelsohne
+smarrirsi /zmarɾˈirsɪ/
+sich verirren
+smercio /zmˈɛrtʃo/
+Absatz, Debit, Vertrieb
+smussato /zmʊssˈato/
+stumpf
+snello /znˈɛllo/
+behände, gewandt
+sociale /sotʃˈale/
+sozial
+soffiare /soffjˈare/
+blasen, wehen
+soffitto /soffˈitːo/
+Decke, Zimmerdecke
+soffocare /soffokˈare/
+erdrosseln, ersticken, erwürgen
+sofisma /sofˈizma/
+Sophisma
+soglia /sˈɔʎa/
+Schwelle
+sogliola /sˈɔʎola/
+Seezunge
+sognare /soɲˈare/
+träumen
+sogno /sˈoɲɲo/
+Traum
+soldi /sˈɔldɪ/
+Geld
+sole /sˈole/
+Sonne
+solere /sˈɔlere/
+sich gewöhnen
+solo /sˈolo/
+1. allein, alleinig, bloß, einzig
+soltanto /soltˈanto/
+allein, bloß, erst, lediglich, nur
+somaro /somˈaro/ <m>
+Esel <m>
+somma /sˈomma/
+Betrag, Summe
+sommario /sommˈario/
+Übersicht
+sonare /sonˈare/
+gellen, klingen, läuten, tönen
+sonno /sˈonno/
+Schlaf
+sopportare /sopːortˈare/
+dulden
+sopra /sˈopra/
+oberhalb, über
+sopracciglio /sopratʃːˈiʎo/
+Augenbraue
+soprattutto /sopratːˈutːo/
+1. besonders, zunächst, zuvörderst
+2. eigens, insbesondere, vornehmlich, vorzüglich, zumal
+sorcio /sˈortʃo/
+Maus
+sordo /sˈordo/
+taub
+sordomuto /sordomˈuto/
+taubstumm
+sorella /sorˈɛlla/
+Schwester
+sorgente /sordʒˈɛnte/
+Born, Quelle
+sorprendere /sorprˈɛndere/
+befremden, überfallen, überraschen
+sorpresa /sorprˈeza/
+Überraschung
+sorpreso /sorprˈezo/
+verwundert
+sorridere /sorɾˈidere/
+lächeln
+sospendere /sospˈɛndere/
+anhängen, aufhängen, erhängen, henken
+sospettare /sospetːˈare/
+argwöhnen, verdächtigen
+sospetto /sospˈɛtːo/
+Argwohn, Verdacht
+sostegno /sostˈeɲɲo/
+Stütze
+sostenere /sostenˈɛre/
+1. anlegen, lehnen, anlehnen, stemmen, stützen, unterstützen
+2. behaupten
+3. unterhalten
+sotto /sˈotːo/
+unter, unterhalb
+sovente /sovˈɛnte/
+häufig, oft
+spada /spˈada/
+Degen
+spagnolo /spaɲˈɔlo/
+Spanier
+spagnuolo /spaɲʊˈɔlo/
+Spanier
+spalla /spˈalla/ <f>
+Schulter <f>, Achsel <f>
+spartire /spartˈire/
+mitmachen, teilnehmen
+spaventare /spaventˈare/
+zurückschrecken
+spazio /spˈatsio/
+Gelass, Raum
+spazzola /spˈatsːola/
+Bürste
+specchio /spˈɛkːio/
+Spiegel
+speciale /spetʃˈale/
+spezial, speziell
+specie /spˈɛtʃe/
+Abart, Art, Gattung, Schlag, Sorte
+spegnere /spˈeɲere/
+auslöschen, dämpfen
+spendere /spˈɛndere/
+auslegen, verausgaben
+spengere /spˈendʒere/
+auslöschen, dämpfen
+speranza /sperˈantsa/
+Hoffnung
+sperare /sperˈare/
+hoffen
+spesso /spˈesso/
+1. dick
+2. häufig, oft
+spezzare /spetsːˈare/
+brechen, abbrechen, aufbrechen
+spiacevole /spjatʃˈevole/
+widerwärtig
+spiaggia /spjˈadʒːa/
+Strand
+spiare /spjˈare/
+belauschen, spionieren
+spicciole /spˈitʃːole/
+Kleingeld
+spiegare /spjeɡˈare/
+darlegen, einleuchten, erklären, erläutern
+spiegazione /spjeɡatsiˈone/
+Aufklärung, Aufschluss, Erläuterung
+spiga /spˈiɡa/
+Ähre
+spina /spˈina/
+Dorn, Grat, Stachel
+spinaci /spinˈatʃɪ/
+Spinat
+spina /spˈina/
+Rückgrat
+spingere /spˈindʒere/
+dringen, rücken, stoßen, treiben
+spinta /spˈinta/
+Stoß, Trieb
+spirito /spˈirito/
+Geist, Genius
+spiritoso /spiritˈozo/
+geistreich, sinnreich, witzig
+spirituale /spiritʊˈale/
+Geistes‐, geistig, intellektuell
+sporcare /sporkˈare/
+beschmutzen, einschmutzen, sudeln
+sport /spˈɔrt/
+Sport
+sportello /sportˈɛllo/
+Schalter, Schalterfenster, Schiebefenster
+sposa /spˈoza/
+Braut
+sposato /spozˈato/
+verheiratet
+sposo /spˈozo/
+Ehemann, Gatte, Gemahl, Gespons
+spossare /spossˈare/
+strapazieren
+sprezzo /sprˈetsːo/
+Verachtung
+spronare /spronˈare/
+anreizen, aufhetzen, reizen, aufreizen
+spuntato /spʊntˈato/
+stumpf
+sputare /spʊtˈare/
+speien, spucken
+squama /skwˈama/
+Schuppe
+staccare /stakːˈare/
+abreißen, losreißen, pflücken, abpflügen
+stagione /stadʒˈone/ <f>
+Jahreszeit, Saison <f>
+stagno /stˈaɲɲo/
+1. Teich, Tümpel, Weiher
+2. Zinn
+stalla /stˈalla/
+Stall
+stampare /stampˈare/
+drucken, prägen
+stancare /stankˈare/
+strapazieren
+stanco /stˈanko/
+matt, müde
+stanza /stˈantsa/
+Wohnzimmer
+stanza /stˈantsa/
+Badestube
+stare /stˈare/
+1. hausen, wohnen
+2. bleiben, übrigbleiben
+stare /stˈare/
+stehen
+stasera /stˌa sˈera/
+heute Abend
+stato /stˈato/
+Staat
+statua /stˈatʊa/
+Bildsäule, Standbild, Statue
+stazione /statsiˈone/
+Bahnhof
+stazione /statsiˈone/
+Badeort
+stella /stˈella/
+Stern
+stendardo /stendˈardo/
+Banner, Fahne, Standarte
+sterile /stˈɛrile/
+fruchtlos, steril
+stesso /stˈesso/
+selber, selbst
+stima /stˈima/
+Achtung, Verehrung
+stimare /stimˈare/
+1. achten, hochschätzen
+2. abschätzen, bewerten, schätzen, einschätzen
+stimolare /stimolˈare/
+anregen, reizen, anreizen, stimulieren
+stomaco /stˈɔmako/
+Magen
+storia /stˈɔria/
+Geschichte, Historie
+strada /strˈada/
+Bahn, Chaussee, Strecke, Weg
+strano /strˈano/
+befremdend, kurios, seltsam, sonderbar, wunderlich
+straordinario /straordinˈario/
+außerordentlich
+strappare /strapːˈare/
+entreißen
+stretto /strˈetːo/
+schmal
+stringere /strˈindʒere/
+beklemmen, drücken, bedrücken, pressen, zwängen
+strumento /strʊmˈento/
+1. Mittel, Werkzeug
+2. Instrument
+studente /stʊdˈɛnte/
+Student
+studiare /stʊdjˈare/
+studieren
+stupido /stˈupido/
+albern, dumm
+stupirsi /stʊpˈirsɪ/
+sich wundern, staunen, erstaunen
+su /sˈu/
+an, bei, zu
+subaffitto /sʊbaffˈitːo/ <m>
+Untermiete <f>
+subitaneo /sʊbitˈaneo/
+plötzlich
+subito /sˈubito/
+alsbald, flugs, gleich, sofort, sogleich, umgehend
+succedere /sʊtʃːˈedere/
+1. geschehen, passieren, sich ereignen, stattfinden, vorkommen
+2. Erfolg haben, gelingen
+successivamente /sʊtʃːessivamˈente/
+hintereinander
+successo /sʊtʃːˈɛsso/
+Erfolg, Gelingen
+succhiare /sʊkːjˈare/
+lutschen, saugen
+succiello /sʊtʃːˈɛllo/
+Bohrer
+succinto /sʊtʃːˈinto/
+bündig, gedrängt, konzis, kurz
+sud /sˈud/
+Süden
+sudare /sʊdˈare/
+schwitzen
+sufficiente /sʊffitʃˈɛnte/
+auskömmlich, genügend, ziemlich, zulänglich
+suffisso /sʊffˈisso/
+Suffix
+sughero /sˈuɡero/
+Kork, Pfropfen, Stöpsel
+suo /sˈuo/
+sein
+suocero /sʊˈɔːtʃero/
+Schwiegervater
+suonare /sʊonˈare/
+spielen
+suono /sʊˈɔno/
+Hall, Klang, Laut, Schall, Ton
+superiore /sʊperiˈore/
+höher, überlegen
+superstizione /sʊperstitsiˈone/
+Aberglaube
+superstizioso /sʊperstitsiˈozo/
+abergläubisch
+supplicare /sʊpːlikˈare/
+abbetteln
+supporre /sʊpːˈɔrɾe/
+vermuten, voraussetzen
+sussurrare /sʊssʊrɾˈare/
+flüstern
+svedese /zvedˈeze/
+Schwede
+sveglia /zvˈeʎa/
+Wecker
+sveglio /zvˈeʎo/
+anstellig, behände, fix, geschickt, geübt, gewandt
+svenirsi /zvenˈirsɪ/
+in Ohnmacht fallen, ohnmächtig werden
+svizzero /zvˈɪtsːero/
+Schweizer
+svoltare /zvoltˈare/
+abschweifen, abweichen
+s /ˈɛsse/
+ja, doch
+tacere /tatʃˈɛre/
+schweigen
+tagliare /taʎˈare/
+schneiden
+tagliente /taʎˈɛnte/
+scharf
+talento /talˈɛnto/
+Talent
+tallone /tallˈone/
+Ferse, Hacke
+talvolta /talvˈɔlta/
+manchmal
+tanto /tˈanto/
+sofern, insofern, sosehr, ebenso sehr, soviel, ebenso viel, soweit
+tappeto /tapːˈeto/
+Teppich
+tappezzare /tapːetsːˈare/
+tapezieren
+tardo /tˈardo/
+spät
+tassa /tˈassa/
+Abgabe, Steuer, Steuerabgabe
+tasso /tˈasso/
+Dachs
+tastiera /tastiˈɛra/
+Klaviatur, Tastatur
+tavolo /tˈavolo/
+Tisch
+tazza /tˈatsːa/
+Tasse
+teatro /teˈatro/
+Theater
+tedesco /tedˈesko/
+1. deutsch
+2. Deutscher
+tegola /tˈeɡola/
+Dachziegel, Pfanne, Ziegel
+teiera /teiˈɛra/
+Teebüchse
+temere /temˈere/
+fürchten, befürchten, sich ängsten, sich ängstigen, zagen
+tempesta /tempˈɛsta/
+Sturm
+tempia /tˈempia/
+Schläfe
+tempo /tˈɛmpo/
+1. Zeit
+2. Wetter, Witterung
+tenaglie /tenˈaʎe/
+Gefäß, Griff, Handhabe, Heft, Knauf, Stiel
+tenebre /tˈɛnebre/
+Dunkelheit
+tenebroso /tenebrˈozo/
+dunkel, finster
+tenere /tenˈere/
+halten, aufhalten
+teritorio /teritˈɔrio/
+Gebiet, Gelände, Territorium
+terminare /terminˈare/
+beschließen, enden, beenden, endigen, beendigen, erledigen
+terminato /terminˈato/
+fertig
+terra /tˈɛrɾa/
+Boden, Erdboden, Erde, Grund, Land, Terrain
+terrazzo /terɾˈatsːo/
+Altan, Balkon
+terremoto /terɾemˈɔto/
+Erdbeben
+terrestre /terɾˈɛstre/
+irdisch, terrestrisch
+terribile /terɾˈibile/
+entsetzlich, furchtbar, grässlich, schrecklich
+testa /tˈɛsta/
+Kopf
+tetto /tˈetːo/
+Dach
+tettoia /tetːˈoia/
+Markise
+tiglio /tˈiʎo/
+Linde, Lindenbaum
+tigre /tˈiɡre/ <f>
+Tiger <m>
+timone /timˈone/
+Lenkrad
+timore /timˈore/
+1. Angst
+2. Blödigkeit
+tinozza /tinˈɔtsːa/
+Behälter, Besteck, Krug
+tiranno /tirˈanno/
+Tyrann, Wüterich
+tirare /tirˈare/
+ziehen, verziehen
+titubare /titʊbˈare/
+1. schwanken, zaudern, zögern
+2. taumeln, wackeln, zagen
+toccare /tokːˈare/
+rühren, anrühren, berühren, tangieren
+togliere /tˈɔʎere/
+zurücklegen
+tollerare /tollerˈare/
+dulden
+tomo /tˈomo/
+Band, Volumen
+tonno /tˈonno/
+Thunfisch
+topo /tˈɔpo/ <m>
+1. Maus <f>
+2. Ratte <f>
+torcia /tˈɔrtʃa/
+Fackel
+toro /tˈɔro/
+Stier
+torre /tˈɔrɾe/
+Turm, Zwinger
+torta /tˈɔrta/
+Kuchen
+tossire /tossˈire/
+husten
+totale /totˈale/
+ganz, total
+tovagliolo /tovaʎˈɔlo/
+Serviette
+toviglia /tovˈiʎa/
+Tischtuch
+tradurre /tradˈurɾe/
+übersetzen, übertragen
+traduzione /tradʊtsiˈone/
+Übersetzung, Übertragung
+tram /trˈam/
+Straßenbahn
+tranquillo /trankwˈillo/
+gelassen, gemütlich, ruhig, still
+traspirare /traspirˈare/
+schwitzen
+trasportare /trasportˈare/
+befördern, übertragen
+trasporto /traspˈɔrto/
+Transport
+trattamento /tratːamˈento/
+Behandlung, Unterhandlung, Verhandlung
+trattare /tratːˈare/
+behandeln, traktieren, unterhandeln
+trattato /tratːˈato/
+Abhandlung, Traktat
+trave /trˈave/
+Balken
+tre /trˈe/
+drei
+trebbiare /trebːjˈare/
+dreschen
+tredici /trˈeditʃɪ/
+dreizehn
+tremare /tremˈare/
+beben, zittern, zucken
+treno /trˈɛno/
+1. Zug
+2. Bahnzug, Eisenbahnzug
+treno /trˈɛno/
+Eilzug
+trenta /trˈɛnta/
+dreißig
+triangolo /triˈaŋɡolo/
+Dreieck
+triciclo /tritʃˈiklo/
+Dreirad
+triste /trˈiste/
+1. düster
+2. flau, träge
+3. traurig
+4. verzagt
+tristezza /tristˈetsːa/
+Betrübnis
+tromba /trˈomba/
+1. Hupe
+2. Horn
+3. Trompete
+tronco /trˈonko/
+Stamm, Baumstamm, Strunk
+troppo /trˈɔpːo/
+zu, zu sehr, zu viel
+trota /trˈɔta/
+Forelle
+trovare /trovˈare/
+finden, befinden, erachten, ermitteln, vorfinden
+trovarsi /trovˈarsɪ/
+sich aufhalten, sich befinden
+truffa /trˈuffa/
+Betrug, Täuschung, Trug, Unterschleif
+truffare /trʊffˈare/
+äffen, betrügen, hintergehen, täuschen
+tuo /tˈuo/
+1. dein
+2. deinig, euer, eurige, Ihr, ihrige
+tuonare /tʊonˈare/
+donnern
+tuono /tʊˈɔno/
+Donner
+turbato /tʊrbˈato/
+bestürtzt
+turco /tˈurko/
+Türke
+tutto /tˈutːo/
+1. ganz, total
+2. Ganze, Gesamtheit
+3. alles
+tutt /tˈutː/
+zumeist
+t /tˈɪ/
+Tee
+ubbidiente /ʊbːidiˈɛnte/
+folgsam, fügsam, gefügig, gehorsam, zahm
+ubbidire /ʊbːidˈire/
+folgen, befolgen, gehorchen
+ubriaco /ʊbriˈako/
+berauscht, trunken, betrunken
+uccello /ʊtʃːˈɛllo/ <m>
+Vogel <m>
+uccidere /ʊtʃːˈidere/
+ermorden, töten
+udienza /ʊdjˈɛntsa/
+Audienz
+udire /ʊdˈire/
+hören, vernehmen
+udito /ʊdˈito/
+Gehör
+ufficiale /ʊffitʃˈale/
+amtlich, offiziell
+ufficio /ʊffˈitʃo/
+1. Büro, Geschäftszimmer, Kontor
+2. Amt
+ufficio /ʊffˈitʃo/
+Auskunftsstelle
+ufficio /ʊffˈitʃo/
+Postamt
+uffizio /ʊffˈitsio/
+Gottesdienst
+ultimo /ˈultimo/
+letzte, letzter, letztes
+umile /ˈumile/
+demütig, kleinlaut, unterwürfig
+un /ˈun/
+ein, eine, eins
+una /ˈuna/
+ein, eine, eins
+una /ˈuna/
+einmal
+undici /ˈunditʃɪ/
+elf
+ungherese /ʊŋɡerˈeze/
+Ungar
+unghia /ˈuŋɡia/
+Nagel
+unico /ˈuniko/
+einzig
+unit /ˈunit/
+Einigkeit, Einheit
+universale /ʊniversˈale/
+universal
+universit /ʊnivˈɛrsit/
+Hochschule, Universität
+uno /ˈuno/
+ein, eine, eins
+un /ˈun/
+ein, eine, eins
+uomo /wˈɔmo/
+Mann
+uovo /wˈɔvo/
+Ei
+urto /ˈurto/
+Stoß, Trieb
+usare /ʊzˈare/
+anwenden, benutzen, brauchen, gebrauchen, verwenden, verwerten
+uscio /ˈuʃo/
+Tür
+uscire /ʊʃˈire/
+ausgehen, ausrücken
+uscita /ʊʃˈita/
+Ausgang
+usignolo /ʊziɲˈɔlo/
+Nachtigall
+usignuolo /ʊziɲʊˈɔlo/
+Nachtigall
+uso /ˈuzo/
+Benutzung, Gebrauch
+usuale /ʊzʊˈale/
+geläufig, üblich
+utile /ˈutile/
+nützlich, vorteilhaft, zweckdienlich
+utilizzare /ʊtilidzːˈare/
+dienen, frommen, nützen
+uva /ˈuva/
+Traube, Weintraube
+vacca /vˈakːa/
+Kuh
+vagone /vaɡˈone/
+Bahnwagen, Wagen, Wagon, Waggon
+valere /valˈere/
+aufwiegen, gelten, sich verlohnen, wert sein
+valigia /valˈidʒa/
+Handkoffer, Felleisen
+valle /vˈalle/
+Tal
+valore /valˈore/
+Bedeutung, Geltung, Wert
+valutare /valʊtˈare/
+abschätzen, bewerten, schätzen, einschätzen
+valvola /vˈalvola/
+Ventil
+vangelo /vandʒˈɛlo/
+Evangelium
+vanitoso /vanitˈozo/
+eitel, hinfällig
+vantaggio /vantˈadʒːo/
+1. Ertrag, Gewinn, Interesse, Nutzen, Überschuss, Verdienst, Vorteil
+variazone /variatsˈone/
+Variation
+vasca /vˈaska/
+Bad
+vaso /vˈazo/
+Behälter, Besteck, Krug
+vaso /vˈazo/
+Blumentopf
+vecchio /vˈɛkːio/
+alt, bejahrt, betagt
+vedere /vedˈere/
+sehen, ansehen
+vela /vˈela/
+Segel
+veleno /velˈeno/
+Gift
+velenoso /velenˈozo/
+giftig
+velocit /velˈotʃit/
+Geschwindigkeit, Tempo
+vena /vˈena/
+Ader, Vene
+vendere /vˈɛndere/
+veräußern, verkaufen
+vendetta /vendˈetːa/
+Rache
+vendita /vˈendita/
+1. Absatz, Debit, Vertrieb
+2. Verkauf
+venerare /venerˈare/
+anbeten, verehren, vergöttern
+venerd /vˈenerd/
+Freitag <m>
+venire /venˈire/
+kommen
+venti /vˈɛntɪ/
+zwanzig
+ventilare /ventilˈare/
+lüften
+vento /vˈɛnto/
+Wind
+ventre /vˈɛntre/
+Bauch, Unterleib
+venuta /venˈuta/
+Ankunft, Eintreffen
+verde /vˈerde/
+1. grün
+2. Grün
+vergognarsi /verɡoɲˈarsɪ/
+sich schämen
+verificare /verifikˈare/
+kontrollieren, nachsehen, überwachen
+verit /vˈɛrit/
+Wahrheit
+verme /vˈɛrme/
+Wurm
+vero /vˈero/
+authentisch, echt, recht, urkundlich, wahr, wahrhaft
+versare /versˈare/
+gießen, schütten
+verso /vˈɛrso/
+annähernd, etwa, ungefähr
+vescica /veʃˈika/
+Blase
+vescovo /vˈeskovo/
+Bischof
+vespa /vˈɛspa/ <f>
+Wespe <f>
+vestire /vestˈire/
+anziehen, kleiden, ankleiden, bekleiden
+vetro /vˈetro/
+Glas
+vettura /vetːˈura/
+Bahnwagen, Wagen, Wagon, Waggon
+vettura /vetːˈura/
+Schlafwagen
+via /vˈia/
+1. Straße
+2. Bahn, Chaussee, Strecke, Weg
+viaggiare /vjadʒːˈare/
+reisen
+viaggio /vjˈadʒːo/
+Reise, Tour
+vicino /vitʃˈino/
+1. angrenzend, anstoßend, benachbart
+2. Nachbar
+3. nahe
+vicolo /vˈikolo/
+Gasse
+vietare /vjetˈare/
+untersagen, verbieten
+vigna /vˈiɲɲa/
+Weinberg
+villaggio /villˈadʒːo/
+Dorf, Ort
+vino /vˈino/
+Wein
+violoncello /violontʃˈɛllo/
+Violoncello
+vipera /vˈipera/
+Natter
+virt /vˈirt/
+Tugend
+visita /vˈizita/
+Besuch, Visite
+visitare /vizitˈare/
+besuchen, einen Besuch abstatten
+viso /vˈizo/
+Angesicht, Antlitz, Gesicht
+vista /vˈista/
+1. Aussicht
+2. Panorama
+3. Aussehen, Gesicht, Sehen, Sicht
+visto /vˈisto/
+da, denn, weil
+vita /vˈita/
+Leben
+vite /vˈite/
+1. Rebe, Weinstock
+2. Schraube
+vitello /vitˈɛllo/
+Kalb
+vittoria /vitːˈɔria/
+1. Triumph
+2. Sieg
+vivere /vˈivere/
+leben
+volante /volˈante/
+Lenkrad
+volare /volˈare/
+fliegen, huschen
+volentieri /volentiˈɛrɪ/
+bereit, bereitwillig, gern
+volere /volˈere/
+wollen
+volere /volˈere/
+gernhaben, lieben, mögen
+volgare /volɡˈare/
+üblich, verständlich, vulgär
+volont /vˈolont/
+Wille
+volpe /vˈolpe/ <f>
+Fuchs <m>
+volume /volˈume/
+Band, Volumen
+vomitare /vomitˈare/
+sich brechen, sich erbrechen, sich übergeben
+vongola /vˈoŋɡola/
+Miesmuschel
+vostro /vˈɔstro/
+dein, deinig, euer, eurige, Ihr, ihrige
+votare /votˈare/
+votieren
+vuotare /vʊotˈare/
+ausleeren, entleeren
+vuoto /vʊˈɔto/
+leer
+zanzara /dzandzˈaɾa/ <f>
+Mücke <f>, Stechmücke <f>, Moskito
+zavorra /dzavˈɔrɾa/
+Ballast
+zelo /dzˈɛlo/
+Eifer, Inbrunst
+zio /dzˈio/
+Onkel
+zoccolo /dzˈɔkːolo/
+Huf
+zodiaco /dzodˈiako/
+Tierkreis, Zodiakus
+zoppicare /dzopːikˈare/
+hinken, humpeln
+zucca /dzˈukːa/
+Kürbis
+unknown
+ abcdefghiklmnopqrstuvz

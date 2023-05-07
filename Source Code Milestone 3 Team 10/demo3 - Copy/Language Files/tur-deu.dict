@@ -1,0 +1,2014 @@
+
+00-database-dictfmt-1.12.1
+Turkish-German FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.2.3
+Size: 941 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+    Copyright (C) 1999-2019 by various authors listed below.
+    Available under the terms of the GNU General Public License ver. 2.0 and
+  any later version.
+    This program is free software; you can redistribute it and/or modify it
+  under the terms of the GNU General Public License as published by the
+  Free Software Foundation; either version 2 of the License, or (at your
+  option) any later version.
+    This program is distributed in the hope that it will be useful, but
+  WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+  Public License for more details.
+    You should have received a copy of the GNU General Public License along
+  with this program; if not, write to the Free Software Foundation, Inc.,
+  59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://www.travlang.com/ This Database was generated from the
+  Ergane project.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2019-05-03 Ivan Panchenko ver. 0.2.3:
+   insert missing spaces, replace incorrect "ß" through "ss"
+ * 2017-12-09 Sebastian Humenda ver. 0.2:
+   * update licencing stanza (thanks to Karl Bartel)
+   * remove duplicated entries
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-22 that was rolled back due to
+   Ergane's cryptic change of database licensing.
+ * 2005-02-12 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-30 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-01 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+Turkish-German FreeDict Dictionary ver. 0.2.3
+Afrika /afrikˈa/
+Afrika
+Afrikalı /afrikaɫˈɯ/
+afrikanisch
+Alman /aɫmˈan/
+1. deutsch
+2. Deutscher
+Almanya /aɫmˈanja/
+Deutschland
+Amerika /ameɾikˈa/
+Vereinigte Staaten
+Amerikalı /ameɾikaɫˈɯ/
+amerikanisch
+Amerikan timsahı /ameɾikˈan tɪmsahˈɯ/
+Alligator
+Anadolu /anadoɫˈʊ/
+Anatolien
+Ankara /ˈankaɾa/
+Ankara
+Arap /aɾˈap/
+Araber
+Arjantin /arʒantˈɪn/
+Argentinien
+Arnavut /arnavˈʊt/
+albanesisch, albanisch
+Arnavutluk /arnavʊtɫˈʊk/
+Albanien
+Asya /asjˈa/
+Asien
+Atlas Okyanusu /atɫˈas ɔkjanusˈʊ/
+Atlantischer Ozean
+Avrupalı /ˈavrupaɫɯ/
+1. europäisch
+2. Europäer
+Avustralya /avʊstraɫjˈa/
+Australien
+Avustralyalı /avʊstraɫjaɫˈɯ/
+australisch
+Avusturya /avˈʊstʊrja/
+Österreich
+Avusturyalı /avʊstʊrjaɫˈɯ/
+österreichisch
+Belçika /bæltʃikˈa/
+Belgien
+Belçikalı /bæltʃikaɫˈɯ/
+belgisch
+Birleşik Devletler /bɪrleʃˈɪk dɛvlɛtlˈɛr/
+Vereinigte Staaten
+Brezilya /brezɪljˈa/
+Brasilien
+Brezilyalı /brezɪljaɫˈɯ/
+brasilianisch
+Britanya /britanjˈa/
+Britannien
+Bulgaristan /bʊɫɡaɾɪstˈan/
+Bulgarien
+Cezayir /dʒezajˈɪr/
+Algerien
+Cezayirli /dʒezajɪrlˈɪ/
+algerisch
+Danimarka /danimarkˈa/
+Dänemark
+Danimarkalı /danimarkaɫˈɯ/
+Däne
+Filistin /filɪstˈɪn/
+Palästina
+Fransa /frˈansa/
+Frankreich
+Fransız /frˈansɯz/
+französisch
+Habeşistan /habeʃɪstˈan/
+Äthiopien
+Hindistan /hɪndɪstˈan/
+Indien
+Hintli /hɪntlˈɪ/
+Inder
+Hollanda /hɔɫɫandˈa/
+1. Holland
+2. Niederlande, die Niederlande
+Hollandalı /hɔɫɫandaɫˈɯ/
+1. holländisch
+2. Holländer
+3. niederländisch
+4. Niederländer
+Hıristiyan /hɯɾɪstijˈan/
+Christ
+Japonca /ʒapɔndʒˈa/
+1. japanisch
+2. Japaner
+Japonyalı /ʒapɔnjaɫˈɯ/
+1. japanisch
+2. Japaner
+Kanada /kanadˈa/
+Kanada
+Kanadalı /kanadaɫˈɯ/
+kanadisch
+Kıbrıs /kɯbrˈɯs/
+Zypern
+Kıbrıslı /kɯbrɯsɫˈɯ/
+Zypriot
+Kızılderili /kɯzɯɫdeɾilˈɪ/
+Indianer
+Macaristan /madʒaɾɪstˈan/
+Ungarn
+Musevi /musevˈɪ/
+Jude
+Müslüman /møslymˈan/
+Muslim
+Mısır /mɯsˈɯr/
+Ägypten
+Mısırlı /mɯsɯrɫˈɯ/
+1. ägyptisch
+2. Ägypter
+Noel /noˈæl/
+Weihnachten
+Norveç /nɔrvˈɛtʃ/
+Norwegen
+Norveçce /nɔrvˈɛtʃdʒɛ/
+Norweger
+Norveçli /nɔrvɛtʃlˈɪ/
+1. norwegisch
+2. Norweger
+Paskalya /paskaɫjˈa/
+Ostern
+Polonya /poɫɔnjˈa/
+Polen
+Polonyalı /poɫɔnjaɫˈɯ/
+1. polnisch
+2. Pole
+Portekiz /pɔrtˈekɪz/
+Portugal
+Portekizli /pɔrtˈekɪzlɪ/
+1. portugiesisch
+2. Portugiese
+Ren /rˈæn/
+Rhein
+Rumanya /rumanjˈa/
+Rumänien
+Rumca /rʊmdʒˈa/
+Grieche
+Rus /rˈʊs/
+Russe
+Rusya /rʊsjˈa/
+Russland
+Rusça /rʊstʃˈa/
+russisch
+Suriyeli /suɾijelˈɪ/
+syrisch
+Türkiye /tørkijˈɛ/
+Türkei, die Türkei
+Yahudi /jahudˈɪ/
+Jude
+Yugoslavya /juɡɔsɫavjˈa/
+Jugoslawien
+Yunanistan /junanɪstˈan/
+Griechenland
+Yunanlı /junanɫˈɯ/
+griechisch
+abes /abˈɛs/
+1. abgeschmackt, absurd, ungereimt, widersinnig
+2. nutzlos
+3. vergebens, vergeblich
+abide /abidˈɛ/
+Denkmal, Monument
+abla /ˈabɫa/
+Schwester
+abluka /abɫukˈa/
+Blockade
+abluka etmek /abɫukˈa ɛtmˈɛk/
+blockieren
+abone /abonˈɛ/
+Abonnement
+abuk sabuk /abˈʊk sabˈʊk/
+Gallimathias, Unsinn
+acayip /adʒajˈɪp/
+befremdend, kurios, seltsam, sonderbar, wunderlich
+acele /ˈadʒɛlɛ/
+geschwind, hurtig, rasch, schnell
+acemi /adʒemˈɪ/
+Novize
+acente /adʒæntˈɛ/
+Agent, Geschäftsbesorger
+aciz /ˈadʒɪz/
+flau, gelinde, schwach
+acı /adʒˈɯ/
+1. bitter
+2. Schmerz, Weh
+3. Betrübnis
+acıklı /adʒɯkɫˈɯ/
+1. ergreifend
+2. traurig
+3. tragisch
+acıkmak /adʒɯkmˈak/
+bedauern
+acımak /adʒɯmˈak/
+Schmerz verursachen, schmerzen, wehtun
+ad /ˈad/
+Name
+ada /adˈa/
+Eiland, Insel
+adam /adˈam/
+Mensch
+adres /adrˈɛs/
+Adresse
+af /ˈaf/
+Amnestie, Begnadigung, Straferlass
+akasya /akasjˈa/
+Akazie
+akordeon /akɔrdeˈɔn/
+Ziehharmonika
+akrobat /akrobˈat/
+Akrobat
+aktör /aktˈœr/
+Schauspieler
+akustik /akʊstˈɪk/
+Akustik
+akvaryum /akvˈarjʊm/
+Aquarium
+akümülatör /akymyɫatˈœr/
+Akkumulator
+akşam /akʃˈam/
+Abend
+akıl /akˈɯɫ/
+Gehirn, Hirn
+alay /aɫˈaj/
+Ironie
+alaşım /aɫˈaʃɯm/
+Legierung
+albay /aɫbˈaj/
+Oberst
+albüm /ˈaɫbøm/
+Album
+alev /alˈɛv/
+Flamme
+aleyhinde /alɛjhɪndˈɛ/
+an, gegen, gegenüber, wider
+alfabe /aɫfabˈɛ/
+Alphabet
+alkiş /aɫkˈɪʃ/
+Applaus, Beifall
+alkol /aɫkˈɔɫ/
+Alkohol, Spiritus
+alkışlamak /aɫkɯʃɫamˈak/
+applaudieren, Beifall spenden
+almak /aɫmˈak/
+1. fassen, nehmen
+2. bekommen, empfangen, erhalten
+almanak /aɫmanˈak/
+Almanach
+altı /aɫtˈɯ/
+sechs
+alüminyum /alymˈɪnjʊm/
+Aluminium
+amatör /amatˈœr/
+Amateur, Liebhaber
+amerikalı /ameɾikaɫˈɯ/
+amerikanisch
+amiral /amiɾˈaɫ/
+Admiral
+amonyak /amɔnjˈak/
+Ammoniak
+amper /ampˈɛr/
+Ampere
+anahtar /anahtˈar/
+Schlüssel
+anarşi /anarʃˈɪ/
+Anarchie
+anatomi /anatomˈɪ/
+Anatomie, Zergliederungskunst
+ancak /andʒˈak/
+kaum
+anemi /anemˈɪ/
+Blutarmut
+anlamak /anɫamˈak/
+begreifen, erfassen, verstehen
+anne /annˈɛ/
+Mutter
+ansiklopedi /ansɪkɫopedˈɪ/
+Enzyklopädie
+anten /antˈæn/
+Fühler, Fühlhorn
+antika /antikˈa/
+altertümlich, antik
+apostrof /apɔstrˈɔf/
+Apostroph
+apse /ˈapsɛ/
+Abszess, Eiterbeule, Geschwulst
+aralık /ˈaɾaɫɯk/
+Dezember
+aramak /aɾamˈak/
+ausschauen nach, suchen, aufsuchen
+arasında /aɾasɯndˈa/
+unter, mitten unter, zwischen
+arena /aɾenˈa/
+Arena, Kampfplatz
+arkadaş /arkadˈaʃ/
+Freund
+arkasından /arkasɯndˈan/
+1. hinter
+2. nach
+arpa /arpˈa/
+Gerste
+arzu /arzˈʊ/
+Appetit
+arı /aɾˈɯ/
+Biene
+arı kovanı /aɾˈɯ kovanˈɯ/
+Bienenkorb, Bienenstock
+asfalt /asfˈaɫt/
+Asphalt, Erdpech
+asker /askˈɛr/
+1. Armee, Heer
+2. Armee
+3. Soldat
+astronomi /astronomˈɪ/
+Astronomie, Himmelskunde, Sternkunde
+astım /ˈastɯm/
+Asthma
+at /ˈat/
+Gaul, Pferd
+ata /atˈa/
+Ahn, Vorfahr, Urahn
+atardamar /atardamˈar/
+Arterie, Pulsader, Schlagader
+ateş /atˈɛʃ/
+Feuer
+atlet /atlˈɛt/
+Athlet
+atmak /atmˈak/
+schleudern, werfen
+atmosfer /atmɔsfˈɛr/
+Atmosphäre
+atom /atˈɔm/
+Atom
+ay /ˈaj/
+1. Mond
+2. Monat
+ayak bileği /ajˈak bilejˈɪ/
+Knöchel
+ayak parmağı /ajˈak parmaːˈɯ/
+Zehe
+aç /ˈatʃ/
+hungrig
+açgözlü /atʃɟœzlˈø/
+unersättlich
+açmak /atʃmˈak/
+aufmachen, öffnen
+açık /atʃˈɯk/
+1. hell, licht, lichtvoll
+2. anschaulich, bestimmt, deutlich, klar
+3. offen
+açıkgöz /atʃɯkɟˈœz/
+abgefeimt, arglistig, gerieben, gewiegt, gewitzigt, listig, schlau
+açıklama /atʃˈɯkɫama/
+Aufklärung, Aufschluss, Erläuterung
+açıklamak /atʃɯkɫamˈak/
+1. darlegen, einleuchten, erklären, erläutern
+2. aufbieten, veröffentlichen
+açıkça /atʃɯktʃˈa/
+ausdrücklich
+ağustos /aːʊstˈɔs/
+August
+baba /babˈa/
+Väterchen
+babacığım /babadʒˈɯɯɯm/
+Väterchen
+baca /badʒˈa/
+Schornstein
+bagaj /baɡˈaʒ/
+Bagage, Gepäck, Verpackung
+bakteriler /bakteɾilˈɛr/
+Bakterie
+bakışım /bakˈɯʃɯm/
+Ebenmaß, Gleichmaß, Symmetrie
+balina /balinˈa/
+Walfisch
+balkon /baɫkˈɔn/
+Altan, Balkon
+balon /baɫˈɔn/
+Ballon
+balta /baɫtˈa/
+Axt, Beil, Hacke
+balık /baɫˈɯk/
+Fisch
+banka /bˈanka/
+Bank
+banyo /banjˈɔ/
+Badestube
+banyo odası /banjˈɔ odasˈɯ/
+Badestube
+barbar /barbˈar/
+Barbar
+barikat /baɾikˈat/
+Barrikade, Verhau
+barometre /baɾomɛtrˈɛ/
+Barometer
+baron /baɾˈɔn/
+Baron, Freiherr
+basil /basˈɪl/
+Bazillus
+basur /basˈʊr/
+Hämorrhoiden
+battaniye /batanijˈɛ/
+Bettdecke, Decke
+batı /batˈɯ/
+Abendland, Okzident, Westen
+batıya ait /batɯjˈa aˈɪt/
+westlich
+baykuş /bajkˈʊʃ/
+Eule
+bayrak /bajrˈak/
+Banner, Fahne, Flagge
+başka /baʃkˈa/
+anderer, anders, sonst
+başlamak /baʃɫamˈak/
+anbrechen, anfangen, beginnen
+beden /bedˈæn/
+Körper, Leib
+beden yapısı /bedˈæn japɯsˈɯ/
+Anatomie, Zergliederungskunst
+beklemek /bɛklemˈɛk/
+gewärtigen, harren, warten, erwarten
+belkemiği /bælkemijˈɪ/
+Rückgrat
+benzin /bænzˈɪn/
+Benzin
+beygir /bɛjɟˈɪr/
+Gaul, Pferd
+beyin /bejˈɪn/
+Gehirn, Hirn
+bez /bˈɛz/
+Tuch
+beş /bˈɛʃ/
+fünf
+beğenmek /bejænmˈɛk/
+1. approbieren, billigen, genehmigen, gutheißen
+2. achten, mögen, schätzen, wertschätzen, würdigen
+biftek /bɪftˈɛk/
+Beefsteak
+bilardo /biɫardˈɔ/
+Billard
+bilet /bilˈɛt/
+Billett, Fahrkarte, Karte
+bilezik /bilezˈɪk/
+Armband
+bilgisinde /bɪlɟisɪndˈɛ/
+Adjektiv, Eigenschaftswort
+bilmek /bɪlmˈɛk/
+wissen
+bina /binˈa/
+Bau, Bauwerk, Gebäude
+bir /bˈɪr/
+1. ein, eine, eins
+bira /biɾˈa/
+Bier
+birader /biɾadˈɛr/
+Bruder
+birden fazla kadın alma /bɪrdˈæn fˈazɫa kadˈɯn ˈaɫma/
+Polygamie, Vielweiberei
+biriktirmek /biɾɪktɪrmˈɛk/
+sammeln, einsammeln
+birlik /bɪrlˈɪk/
+Einigkeit, Einheit
+bir daha /bɪr dahˈa/
+anderer, anders, sonst
+bir uzvu kesmek /bɪr ʊzvˈʊ kɛsmˈɛk/
+abnehmen, abschneiden, amputieren
+bisiklet /bisɪklˈɛt/
+1. Fahrrad, Rad, Rover
+biyografi /bijɔɡrafˈɪ/
+Biographie, Lebensbeschreibung
+biyoloji /bijoɫoʒˈɪ/
+Biologie, Lebenslehre
+biz /bˈɪz/
+uns, unser, wir
+biçak /bitʃˈak/
+Messer
+boksör /bɔksˈœr/
+Boxer
+bomba /bɔmbˈa/
+Bombe
+boykot /bɔjkˈɔt/
+Aussperrung, Boykott
+boş /bˈɔʃ/
+leer
+boğa güreşi alanı /boːˈa ɟyɾeʃˈɪ aɫanˈɯ/
+Arena, Kampfplatz
+broşür /broʃˈør/
+Broschüre
+bugün /buɡˈøn/
+heute
+bulmak /bʊɫmˈak/
+finden, befinden, erachten, ermitteln, vorfinden
+bulunmayış /buɫʊnmajˈɯʃ/
+Abwesenheit
+bulut /buɫˈʊt/
+Wolke
+bulüz /bˈuɫøz/
+Bluse
+burun /buɾˈʊn/
+Nase
+burç /bˈʊrtʃ/
+Horoskop
+buz /bˈʊz/
+Eis
+böbrek /bœbrˈɛk/
+Niere
+bölüm /bˈœløm/
+Kapitel
+bülbül /bølbˈøl/
+Nachtigall
+bütün /bytˈøn/
+alles
+büyük /byjˈøk/
+groß
+büyük elçi /byjˈøk æltʃˈɪ/
+Botschafter, Gesandter
+büyük kilise /byjˈøk kilˈisɛ/
+Dom, Kathedrale, Münster
+büyük zil /byjˈøk zˈɪl/
+Zimbel
+bırakmak /bɯɾakmˈak/
+abreisen, fortgehen
+cadde /dʒadˈɛ/
+Straße
+cambaz /dʒambˈaz/
+Akrobat
+cami /dʒamˈɪ/
+Moschee
+cebir /dʒebˈɪr/
+Algebra, Buchstabenrechnung
+cephane /dʒɛphanˈɛ/
+Munition
+cevap /dʒevˈap/
+Antwort
+cevap vermek /dʒevˈap vɛrmˈɛk/
+antworten, beantworten, entgegnen, erwidern
+ceviz /dʒˈevɪz/
+Walnuss
+ceylan /dʒɛjɫˈan/
+Gazelle
+coğrafya /dʒoːɾafjˈa/
+Erdbeschreibung, Erdkunde, Geographie
+cuma /dʒˈuma/
+Freitag
+cumartesi /dʒumartesˈɪ/
+Sabbat
+cümle kuruluşu /dʒˈømlɛ kuɾuɫuʃˈʊ/
+Syntax
+da /dˈa/
+auch, ebenfalls, gleichfalls
+daha iyi /dahˈa ijˈi/
+besser
+daha şimdiden /dahˈa ʃɪmdidˈæn/
+bereits, schon
+dahi /dahˈɪ/
+auch, ebenfalls, gleichfalls
+daima /daˈima/
+allemal, allzeit, fortwährend, immer, jederzeit, stets
+daire /daiɾˈɛ/
+Kreis
+damat /damˈat/
+Eidam, Schwiegersohn
+dana /danˈa/
+Kalb
+dans /dˈans/
+Tanz
+dans etmek /dˈans ɛtmˈɛk/
+tanzen
+dar /dˈar/
+schmal
+darı /daɾˈɯ/
+Mais
+dağ /dˈaː/
+Berg
+de /dˈɛ/
+auch, ebenfalls, gleichfalls
+demek /demˈɛk/
+erwähnen, sagen
+demir /demˈɪr/
+Eisen
+demirci /demɪrdʒˈɪ/
+Schmied
+deri /deɾˈɪ/
+Leder
+deve /devˈɛ/
+Kamel
+difteri /dɪfteɾˈɪ/
+Diphtherie
+dikenli çalı /dˈicænlɪ tʃaɫˈɯ/
+Dorn, Grat, Stachel
+diktatör /dɪktatˈœr/
+Diktator
+dilenci /dilændʒˈɪ/
+Bettler
+dimağ /dimˈaː/
+Gehirn, Hirn
+dinamit /dinamˈɪt/
+Dynamit
+dinlemek /dɪnlemˈɛk/
+anhören, horchen, aushorchen, zuhören
+dinsizlik /dˈɪnsɪzlɪk/
+Atheismus, Gottesleugnung
+dip /dˈɪp/
+Boden, Grund
+diploma /dɪpɫˈoma/
+Diplom, Prüfungszeugnis, Urkunde
+diplomat /dɪpɫomˈat/
+Diplomat
+dirsek /dˈɪrsɛk/
+Ellbogen
+diyalog /dijaɫˈɔɡ/
+Dialog, Zwiegespräch
+diz /dˈɪz/
+Knie
+diğer bir /dijˈɛr bˈɪr/
+anderer, anders, sonst
+dokuz /dˈokʊz/
+neun
+dolar /doɫˈar/
+Dollar
+domuz /dˈomʊz/
+Schwein
+domuz eti /dˈomʊz etˈɪ/
+Schweinefleisch
+domuz pastarması /dˈomʊz pastarmasˈɯ/
+Speck
+dondurma /dˈɔndʊrma/
+Eis, Gefrorenes, Speiseeis
+doğru /doːɾˈʊ/
+akkurat, genau
+doğu /doːˈʊ/
+Orient, Osten
+doğum /dˈoːʊm/
+Geburt
+doğum günü /dˈoːʊm ɟynˈø/
+Geburtstag
+doğuya ait /doːujˈa aˈɪt/
+östlich
+duka /dukˈa/
+Herzog
+durmak /dʊrmˈak/
+halten, anhalten, haltmachen, stocken, stoppen
+dört /dˈœrt/
+vier
+dük /dˈøk/
+Herzog
+dükkân /døkˈan/
+Butique, Geschäft, Kramladen, Laden
+dülger /dølɟˈɛr/
+Zimmermann
+dün /dˈøn/
+gestern
+dünya /dønjˈa/
+Welt
+düzenlemek /dyzænlemˈɛk/
+arrangieren, einrichten, ordnen, anorden, veranstalten
+düşmek /døʃmˈɛk/
+fallen
+düşünmek /dyʃønmˈɛk/
+denken
+ecnebi memlekette /ɛdʒnebˈɪ mæmlekɛtˈɛ/
+Ausland
+ekim /ˈekɪm/
+Oktober
+ekmek /ɛkmˈɛk/
+Brot
+elbise /ælbˈisɛ/
+Kleider
+elektrik /elɛktrˈɪk/
+Elektrizität
+elma /ˈælma/
+Apfel
+emniyet /æmnijˈɛt/
+Polizei
+engel /ænɟˈæl/
+Barriere, Schranke
+erkek /ɛrkˈɛk/
+Mann
+erkek kardeş /ɛrkˈɛk kardˈɛʃ/
+Bruder
+eski /ɛskˈɪ/
+1. Ex‐
+2. alt
+etmek /ɛtmˈɛk/
+anfertigen, herstellen, leiten, machen, tun, zurücklegen
+evet /evˈɛt/
+ja, doch
+ev kadını /ˈɛv kadɯnˈɯ/
+Frau des Hauses
+eylül /ɛjlˈøl/
+September
+eş /ˈɛʃ/
+Frau, Gemahlin
+eşek /eʃˈɛk/
+Esel
+eşkiya /ɛʃkijˈa/
+Bandit, Räuber
+eşlik etmek /ɛʃlˈɪk ɛtmˈɛk/
+begleiten
+eğer /ejˈɛr/
+falls, insofern, wenn, wofern
+eğlendirmek /ɛjlændɪrmˈɛk/
+amüsieren, belustigen, ergötzen, unterhalten
+fakat /fakˈat/
+aber, allein, dagegen, sondern
+falı /faɫˈɯ/
+Horoskop
+fare /faɾˈɛ/
+Maus
+fark /fˈark/
+Unterschied
+fasulye /fasʊɫjˈɛ/
+Bohne
+felaket /feɫakˈɛt/
+Katastrophe
+fena /fenˈa/
+böse, schlecht
+feshetmek /fɛshɛtmˈɛk/
+annullieren, für null und nichtig erklären, kassieren
+fikir /fikˈɪr/
+Gedanke, Idee, Vorstellung
+fikir vermek /fikˈɪr vɛrmˈɛk/
+raten, beraten, einen Rat geben
+fil /fˈɪl/
+Elefant
+fildişi /fɪldiʃˈɪ/
+Elfenbein
+fizik /fizˈɪk/
+Physik
+formül /fɔrmˈøl/
+Formel
+fren /frˈæn/
+Bremse
+fıkra /fɯkrˈa/
+Anekdote
+fındık /fɯndˈɯk/
+Nuss
+fırıncı /fɯɾɯndʒˈɯ/
+Bäcker
+fırında pişirmek /fɯɾɯndˈa piʃɪrmˈɛk/
+backen
+fıskiye /fɯskijˈɛ/
+Brunnen, Fontäne, Springbrunnen
+gaga /ɡaɡˈa/
+Schnabel
+gazeteci /ɡazetedʒˈɪ/
+Journalist
+gece /ɟˈedʒɛ/
+Nacht
+gelmek /ɟælmˈɛk/
+kommen
+gemi /ɟemˈɪ/
+Boot
+genelev /ɟenelˈɛv/
+Bordell
+genişlik /ɟenɪʃlˈɪk/
+Breite
+geometri /ɟeomɛtrˈɪ/
+Geometrie
+geriye doğru /ɟeɾijˈɛ doːɾˈʊ/
+zurück
+getirmek /ɟetɪrmˈɛk/
+bringen, anbringen, eintragen, heranbringen, überbringen
+girmek /ɟɪrmˈɛk/
+eintreten
+gitmek /ɟɪtmˈɛk/
+fahren, gehen, treten
+gri /ɡrˈɪ/
+grau
+grup /ɡrˈʊp/
+Gruppe
+göbek /ɟœbˈɛk/
+Bauch, Unterleib
+göndermek /ɟœndɛrmˈɛk/
+schicken, senden, einsenden
+görmek /ɟœrmˈɛk/
+sehen, ansehen
+gövde /ɟœvdˈɛ/
+Körper, Leib
+gün /ɟˈøn/
+Tag
+gündem /ɟøndˈæm/
+Agenda, Notizbuch
+gündüz /ɟˈøndøz/
+Tag
+gürültü /ɟyɾøltˈø/
+Aufsehen, Braus
+güve /ɟyvˈɛ/
+Motte
+güzel /ɟyzˈæl/
+hübsch, schön
+güzel koku /ɟyzˈæl kokˈʊ/
+Aroma, Duft
+güç /ɟˈøtʃ/
+Energie, Tatkraft, Willenskraft
+haber vermek /habˈɛr vɛrmˈɛk/
+ankündigen, anzeigen, avisieren, melden, anmelden, verkünden
+hafta /haftˈa/
+Woche
+halihazırda /halihazɯrdˈa/
+bereits, schon
+halita /halitˈa/
+Legierung
+hareket /haɾekˈɛt/
+Handlung, Tat
+hasırdan yapılmış /hasɯrdˈan japɯɫmˈɯʃ/
+Stroh
+hava /havˈa/
+1. Luft
+2. Atmosphäre
+havaî /havaˈɯ/
+Fühler, Fühlhorn
+havuç /havˈʊtʃ/
+Karotte, Möhre, Mohrrübe
+havyar /havjˈar/
+Kaviar
+haydut /hajdˈʊt/
+Bandit, Räuber
+hayran olmak /hajrˈan ɔɫmˈak/
+bewundern
+hayvan /hajvˈan/
+Tier
+hayvanbilim /hajvanbˈilɪm/
+Zoologie
+hayvansal /hajvansˈaɫ/
+Tier
+haziran /haziɾˈan/
+Juni
+hece /hˈedʒɛ/
+Silbe
+hedef /hedˈɛf/
+Ziel, Zweck
+hemen hemen /hemˈæn hemˈæn/
+beinahe, fast, nahezu, schier, ungefähr
+her zaman /hˈɛr zamˈan/
+allemal, allzeit, fortwährend, immer, jederzeit, stets
+hesap /hesˈap/
+Konto, Rechnung
+heyet /hejˈɛt/
+Ausschuss, Komitee
+hidrojen /hɪdroʒˈæn/
+Wasserstoff
+hikâye /hikajˈɛ/
+Anekdote
+hiçbir yerde /hɪtʃbˈɪr jɛrdˈɛ/
+nirgends
+hiçbir şey /hɪtʃbˈɪr ʃˈɛj/
+nichts
+horoz /hoɾˈɔz/
+Hahn
+hortlak /hɔrtɫˈak/
+Geist, Gespenst, Phantom, Spuk
+hoş /hˈɔʃ/
+1. behaglich, herrlich, genehm, angenehm
+2. hübsch
+3. süß
+hücum /hˈydʒʊm/
+Anfall, Angriff
+hürmet göstermek /hørmˈɛt ɟœstɛrmˈɛk/
+ehren, beehren, verehren
+hırslı /hɯrsɫˈɯ/
+ehrgeizig
+hırsızlık /hˈɯrsɯzɫɯk/
+Diebstahl
+hıyar /hɯjˈar/
+Gurke
+hızlandırmak /hɯzɫandɯrmˈak/
+beschleunigen
+idealist /idealˈɪst/
+Idealist
+ihtiras /ɪhtiɾˈas/
+Ehrgeiz
+iki /ikˈɪ/
+zwei
+iklim /ˈɪklɪm/
+Klima
+ilahi /iɫahˈɪ/
+Hymne, Lobgesang
+ilahiyat /iɫahijˈat/
+Theologie
+ilan /iɫˈan/
+Annonce, Anzeige, Inserat
+ilan etmek /iɫˈan ɛtmˈɛk/
+ankündigen, anzeigen, avisieren, melden, anmelden, verkünden
+imparator /ɪmpaɾatˈɔr/
+Imperator, Kaiser
+imparatorluk /ɪmpaɾatɔrɫˈʊk/
+Kaiserreich, Kaisertum
+inanmak /inanmˈak/
+glauben
+inanç /inˈantʃ/
+Glaube, Glauben
+inek /inˈɛk/
+Kuh
+iptal etmek /ɪptˈaɫ ɛtmˈɛk/
+annullieren, für null und nichtig erklären, kassieren
+irtifa /ɪrtifˈa/
+Höhe
+ise /ˈise/
+falls, insofern, wenn, wofern
+isim /ˈisɪm/
+1. Name
+2. Hauptwort, Substantiv
+istek /ɪstˈɛk/
+Appetit
+istihza /ɪstɪhzˈa/
+Ironie
+istiridye /ɪstiɾɪdjˈɛ/
+Auster
+itaat etmek /itaˈat ɛtmˈɛk/
+folgen, befolgen, gehörchen
+itham etmek /ɪthˈam ɛtmˈɛk/
+anklagen, beschuldigen
+iyod /ijˈɔd/
+Jod
+izin vermek /izˈɪn vɛrmˈɛk/
+erlauben, gestatten
+içilen şey /itʃilˈæn ʃˈɛj/
+Getränk, Trank
+içmek /ɪtʃmˈɛk/
+1. rauchen
+2. trinken
+iş /ˈɪʃ/
+1. Angelegenheit, Ding, Sache, Werk
+2. Handlung, Tat
+3. Arbeit
+işitmek /iʃɪtmˈɛk/
+hören, vernehmen
+iştah /ɪʃtˈah/
+Appetit
+jeoloji /ʒeoɫoʒˈɪ/
+Geologie
+kabul etmek /kabˈʊɫ ɛtmˈɛk/
+annehmen, empfangen, genehmigen
+kafes /kafˈɛs/
+Bauer, Käfig
+kahve /kahvˈɛ/
+Kaffee
+kahverengi /kahveɾænɡˈɪ/
+braun
+kalay /kaɫˈaj/
+Zinn
+kalça /kaɫtʃˈa/
+Schenkel, Oberschenkel
+kan /kˈan/
+Blut
+kanal /kanˈaɫ/
+Graben, Kanal
+kanarya /kanarjˈa/
+Kanarienvogel
+kansızlık /kˈansɯzɫɯk/
+Blutarmut
+kanyak /kanjˈak/
+Kognak
+kaos /kaˈɔs/
+Chaos
+kapamak /kapamˈak/
+schließen, verschließen, zumachen
+kaplan /kapɫˈan/
+Tiger
+kaptan /kaptˈan/
+Hauptmann, Kapitän
+kapı /kapˈɯ/
+Tor
+kara /kaɾˈa/
+schwarz
+karaağaç /kaɾaˈaːtʃ/
+Rüster, Ulme
+karakol /kaɾakˈɔɫ/
+Polizeiamt, Polizeiwache
+karartmak /kaɾartmˈak/
+anschwärzen
+karmakarışık hal /karmakaɾɯʃˈɯk hˈaɫ/
+Chaos
+karnabahar /karnabahˈar/
+Blumenkohl, Karfiol
+kart /kˈart/
+Karte, Zettel
+kartal /kartˈaɫ/
+Adler
+kartpostal /kartpɔstˈaɫ/
+Postkarte
+karşı /karʃˈɯ/
+an, gegen, gegenüber, wider
+karı /kaɾˈɯ/
+Frau, Gemahlin
+karın /kaɾˈɯn/
+Bauch, Unterleib
+karınca /kaɾɯndʒˈa/
+Ameise
+kas /kˈas/
+Muskel
+kasap /kasˈap/
+Fleischer
+kasım /kˈasɯm/
+November
+kasırga /kasɯrɡˈa/
+Wirbelwind, Zyklon
+katalog /kataɫˈɔɡ/
+Katalog, Verzeichnis
+kategori /kateɡoɾˈɪ/
+Kategorie
+kat'î /katˈɯ/
+akkurat, genau
+kaybetmek /kajbɛtmˈɛk/
+verlieren
+kayık /kajˈɯk/
+Boot
+kayısı /kajɯsˈɯ/
+Aprikose, Marille
+kaza /kazˈa/
+Unfall
+kedı /kedˈɯ/
+Katze
+kelebek /kelebˈɛk/
+Falter, Schmetterling
+kemik /kemˈɪk/
+Gebein, Knochen
+kent /kˈænt/
+Ort, Stadt
+kereviz /keɾˈevɪz/
+Sellerie
+kesin /kesˈɪn/
+akkurat, genau
+keskin /kɛskˈɪn/
+bitter
+kesmek /kɛsmˈɛk/
+schneiden
+kestane /kɛstanˈɛ/
+Kastanie
+keza /kezˈa/
+auch, ebenfalls, gleichfalls
+keşiş /keʃˈɪʃ/
+Mönch
+kil /kˈɪl/
+Lehm, Ton, Tonerde
+kilo /kiɫˈɔ/
+Kilogramm
+kimya /kɪmjˈa/
+Chemie
+kiraz /kiɾˈaz/
+Kirsche
+kirli /kɪrlˈɪ/
+unlauter
+kitap /kitˈap/
+Buch
+kitapçı dükkanı /kitaptʃˈɯ døkanˈɯ/
+Buchhandlung
+kişla /kˈɪʃɫa/
+Kaserne
+klinik /klinˈɪk/
+Klinik
+kolera /koleɾˈa/
+Cholera
+koltuk /kɔɫtˈʊk/
+Lehnstuhl
+komedi /kˈomedɪ/
+Komödie, Lustspiel
+komite /komitˈɛ/
+Ausschuss, Komitee
+komünizm /komynˈɪzm/
+Kommunismus
+komşu /kɔmʃˈʊ/
+Nachbar
+kongre /kɔnɡrˈɛ/
+Kongress
+konuşma /konˈʊʃma/
+Dialog, Zwiegespräch
+kova /kovˈa/
+Eimer
+koşmak /kɔʃmˈak/
+laufen
+kral /krˈaɫ/
+König
+kraliyet /kralijˈɛt/
+Königreich
+kristal /krɪstˈaɫ/
+Kristall
+kriz /krˈɪz/
+Krisis, Krise
+krom /krˈɔm/
+Chrom
+kulak /kuɫˈak/
+Ohr
+kullanmak /kʊɫɫanmˈak/
+anwenden, benutzen, brauchen, gebrauchen, verwenden, verwerten
+kulübe /kulybˈɛ/
+Hütte
+kulüp /kulˈøp/
+Klub
+kum /kˈʊm/
+Sand
+kumaş /kumˈaʃ/
+Tuch
+kumsal /kʊmsˈaɫ/
+Strand
+kurt /kˈʊrt/
+Wurm
+kutsal /kʊtsˈaɫ/
+heilig
+kutu /kutˈʊ/
+Büchse, Schachtel
+kuvvet /kʊvvˈɛt/
+1. Energie, Tatkraft, Willenskraft
+2. Gewalt, Kraft
+kuyruklu yıldız /kʊjrʊkɫˈʊ jˈɯɫdɯz/
+Komet, Schweifstern
+kuzey /kuzˈɛj/
+Norden
+kuzeye ait /kuzejˈɛ aˈɪt/
+nördlich
+kuş /kˈʊʃ/
+Vogel
+kuğu /kˈʊː/
+Schwan
+kyruk /kjrˈʊk/
+Bürzel, Fahne, Lunte, Rute, Schleppe, Schwanz, Schweif, Sterz, Wedel
+köknar /kœknˈar/
+Fichte, Tanne
+köpek /kœpˈɛk/
+Hund
+köprü /kœprˈø/
+Brücke
+kötü /kœtˈø/
+böse, schlecht
+kül /kˈøl/
+Asche
+kültür /køltˈør/
+Kultur
+kül tablası /kˈøl tabɫasˈɯ/
+Aschenbecher
+kâtip /katˈɪp/
+Angestellte, Kanzlist
+kâğıt para /kaːˈɯt paɾˈa/
+Bon, Schein
+kılçık /kɯɫtʃˈɯk/
+Gräte
+kılıç /kɯɫˈɯtʃ/
+Schwert
+kırlangıç /kɯrɫanɡˈɯtʃ/
+Schwalbe
+kısım /kˈɯsɯm/
+Kapitel
+kıyı /kɯjˈɯ/
+Küste
+kız /kˈɯz/
+1. Tochter
+2. Dirne, Mädchen
+kızgın /kɯzɡˈɯn/
+1. arg, böse
+2. heiß
+kız evlat /kˈɯz ɛvɫˈat/
+Tochter
+kıç /kˈɯtʃ/
+Boden, Grund
+lahana /ɫahanˈa/
+Kohl
+lehçe /lˈɛhtʃɛ/
+Dialekt, Mundart
+limon /limˈɔn/
+Zitrone
+limonata /limonatˈa/
+Limonade
+maaş /maˈaʃ/
+Gage, Gehalt, Salär
+macera /madʒeɾˈa/
+Angelegenheit, Ding, Sache, Werk
+madde /madˈɛ/
+Ding
+makine /makinˈɛ/
+Maschine
+manda /mandˈa/
+Büffel
+marangoz /maɾanɡˈɔz/
+Zimmermann
+mart /mˈart/
+März
+marul /maɾˈʊɫ/
+Kopfsalat, Lattich, Salat
+mavi /mavˈɪ/
+blau
+maymun /majmˈʊn/
+Affe
+mayıs /majˈɯs/
+Mai
+melek /melˈɛk/
+Engel
+merkez /mɛrkˈɛz/
+Mittelpunkt, Zentrum
+mermi /mɛrmˈɪ/
+Kugel
+mesele /mˈeselɛ/
+Angelegenheit, Ding, Sache, Werk
+meslekdaş /mɛslɛkdˈaʃ/
+Amtsbruder, Amtsgenosse, Genosse, Kollege
+mezarlık /mezarɫˈɯk/
+Friedhof, Gottesacker, Kirchhof
+meşe /meʃˈɛ/
+Eiche
+millet /mɪllˈɛt/
+Nation
+milyar /mɪljˈar/
+Milliarde
+mimar /mimˈar/
+Architekt
+misafir /misafˈɪr/
+Gast
+modern /modˈɛrn/
+modern
+molekül /molekˈøl/
+Molekül
+motor /motˈɔr/
+Motor
+motosiklet /motosɪklˈɛt/
+Kraftfahrrad, Motorrad
+muharebe /muhaɾebˈɛ/
+Kampf, Schlacht
+muhasebeci /muhasebedʒˈɪ/
+Buchrevisor
+muhteris /mʊhteɾˈɪs/
+ehrgeizig
+muktedir /mʊktˈedɪr/
+begabt, fähig, imstande, tüchtig
+mum /mˈʊm/
+Kerze, Licht
+mutfak /mʊtfˈak/
+Küche
+muvafakat etmek /muvafakˈat ɛtmˈɛk/
+beipflichten, beistimmen, einwilligen, zustimmen, zuwilligen
+muz /mˈʊz/
+Banane
+mücadele /mydʒadˈelɛ/
+Konflikt, Streit, Widerstreit
+mühendis /myhændˈɪs/
+Ingenieur
+mühim /mˈyhɪm/
+arg, bedeutend, bedeutsam, beträchtlich, erheblich, ernst, wichtig
+müneccimlik /mynˈɛdʒɪmlɪk/
+Astrologie, Sterndeutung
+müsaade etmek /mysaadˈɛ ɛtmˈɛk/
+erlauben, gestatten
+müvekkil /myvɛkˈɪl/
+Klient, Kunde
+müşteri /møʃteɾˈɪ/
+Klient, Kunde
+mısır /mɯsˈɯr/
+Mais
+mızrak /mɯzrˈak/
+Lanze, Speer
+nakletmek /naklɛtmˈɛk/
+tragen
+nalbant /naɫbˈant/
+Schmied
+namevcut /namɛvdʒˈʊt/
+abwesend
+namus /namˈʊs/
+Ehre
+nashihat /nashihˈat/
+Rat, Ratschlag
+nazari /nazaɾˈɪ/
+theoretisch
+nefes /nefˈɛs/
+Atem, Hauch
+nefes alma /nefˈɛs ˈaɫma/
+Atem, Hauch
+nefes almak /nefˈɛs aɫmˈak/
+atmen
+nefis /nefˈɪs/
+hübsch
+nehir /nehˈɪr/
+Fluss
+nisan /nˈisan/
+April
+o /ˈɔ/
+1. er, ihm, ihn, seiner
+2. es
+3. die, ihr, ihrer, sie
+ocak ayı /odʒˈak ajˈɯ/
+Januar
+ok /ˈɔk/
+Pfeil
+oksijen /ɔksiʒˈæn/
+Oxygen, Sauerstoff
+okumak /okumˈak/
+lesen
+olay /oɫˈaj/
+Unfall
+olmak /ɔɫmˈak/
+1. geschehen, vorkommen, werden, zustande kommen
+on /ˈɔn/
+zehn
+on bır /ˈɔn bˈɯr/
+elf
+ordu /ˈɔrdʊ/
+1. Armee, Heer
+2. Armee
+otel /otˈæl/
+Hotel
+otobüs /otobˈøs/
+Autobus, Bus
+otomobil /otomobˈɪl/
+Auto
+oturmak /otʊrmˈak/
+sitzen
+oğlan /oːɫˈan/
+Junge, Knabe
+oğul /oːˈʊɫ/
+Sohn
+papatya /papatjˈa/
+Gänseblümchen, kleines Maßlieb, Marienblume
+para /paɾˈa/
+Geld
+pars /pˈars/
+Leopard
+patates /patatˈɛs/
+Erdapfel, Kartoffel
+patron /patrˈɔn/
+Befehlshaber, Chef, Haupt, Häuptling, Herr, Oberhaupt, Vorsteher
+pazartesi /pazartesˈɪ/
+Montag
+pek /pˈɛk/
+sehr
+pençe /pˈæntʃɛ/
+Klaue, Kralle
+perde /pɛrdˈɛ/
+Gardine, Vorhang
+perhiz /pˈɛrhɪz/
+Diät
+peri /peɾˈɪ/
+Nymphe
+perşembe /pɛrʃæmbˈɛ/
+Donnerstag
+peynir /pɛjnˈɪr/
+Käse
+pire /piɾˈɛ/
+Floh
+piskopos /pɪskopˈɔs/
+Bischof
+piç /pˈɪtʃ/
+Bastard, Mischling
+plaj /pɫˈaʒ/
+Strand
+polis /polˈɪs/
+Polizei
+porsuk /pɔrsˈʊk/
+Dachs
+portakal /pɔrtakˈaɫ/
+Apfelsine, Orange, Pomeranze
+puro /puɾˈɔ/
+Zigarre
+pusula /pusˈuɫa/
+Kompass
+rahibe /rahibˈɛ/
+Nonne
+rejim /rˈeʒɪm/
+Diät
+reklam /rɛkɫˈam/
+Annonce, Anzeige, Inserat
+renk /rˈænk/
+Farbe
+ressam /rˈɛssam/
+Artist
+revolver /revɔɫvˈɛr/
+Revolver
+roman /romˈan/
+Roman
+rüzgar /røzɡˈar/
+Wind
+saat /saˈat/
+1. Uhr
+2. Stunde
+sabah /sabˈah/
+Frühe, Morgen
+sabah kahvaltısı /sabˈah kahvaɫtɯsˈɯ/
+Frühstück
+sadaka /sadakˈa/
+Almosen
+sadece /sadˈedʒɛ/
+kaum
+sahil /sahˈɪl/
+Küste
+sakal /sakˈaɫ/
+Bart
+salata /sˈaɫata/
+Kopfsalat, Lattich, Salat
+salatalık /saɫataɫˈɯk/
+Gurke
+saldırmak /saɫdɯrmˈak/
+anfallen, angreifen, ausfallen, befallen, überfallen
+saldırış /saɫdɯɾˈɯʃ/
+Anfall, Angriff
+salı /saɫˈɯ/
+Dienstag
+saman /samˈan/
+Stroh
+sanatkâr /sanatkˈar/
+Artist
+sandal /sandˈaɫ/
+1. Boot
+2. Sandale
+sandalye /sandaɫjˈɛ/
+Stuhl
+sandviç /sandvˈɪtʃ/
+Sandwich
+sanki /sankˈɪ/
+als ob, gleichsam
+sanmak /sanmˈak/
+vermuten, voraussetzen
+santimetre /santimɛtrˈɛ/
+Zentimeter
+sarmaşık /sarmaʃˈɯk/
+Efeu
+sarışın /saɾɯʃˈɯn/
+blond
+satmak /satmˈak/
+veräußern, verkaufen
+savaş /savˈaʃ/
+Krieg
+sayfa /sajfˈa/
+Folio, Seite
+saymak /sajmˈak/
+zählen, aufzählen
+saçma /sˈatʃma/
+abgeschmackt, absurd, ungereimt, widersinnig
+sağır /saːˈɯr/
+taub
+sekiz /sˈekɪz/
+acht
+selvi /sælvˈɪ/
+Zypresse
+sembol /sæmbˈɔɫ/
+Symbol
+sene /senˈɛ/
+Jahr
+sepet /sepˈɛt/
+Korb
+sesli harf /sɛslˈɪ hˈarf/
+Vokal
+ses düzeni /sˈɛs dyzenˈɪ/
+Akustik
+sevmek /sɛvmˈɛk/
+gernhaben, lieben, mögen
+seçmek /sɛtʃmˈɛk/
+auslesen, wählen, auswählen, erwählen
+sidik torbası /sidˈɪk tɔrbasˈɯ/
+Blase
+sigar /siɡˈar/
+Zigarre
+sigara /siɡaɾˈa/
+Zigarette
+silah /siɫˈah/
+Gewehr
+silindir /silˈɪndɪr/
+Walze, Zylinder
+simetri /simɛtrˈɪ/
+Ebenmaß, Gleichmaß, Symmetrie
+simetrik /simɛtrˈɪk/
+symmetrisch
+sincap /sɪndʒˈap/
+Eichhorn, Eichhörnchen
+sinema /sinˈema/
+Kino
+sirk /sˈɪrk/
+Zirkus
+sivrisinek /sɪvrisinˈɛk/
+Moskito, Stechmücke
+siyah /sijˈah/
+schwarz
+sokak /sokˈak/
+Straße
+solucan /soɫudʒˈan/
+Wurm
+solumak /soɫumˈak/
+atmen
+som balığı /sˈɔm baɫɯɯˈɯ/
+Lachs, Salm
+sonbahar /sɔnbahˈar/
+Herbst
+sonra /sɔnrˈa/
+1. hinter
+2. nach
+3. dann, darauf, hernach, hierauf, hinten, hinterher, nachher, später
+sonraları /sɔnraɫaɾˈɯ/
+dann, darauf, hernach, hierauf, hinten, hinterher, nachher, später
+sormak /sɔrmˈak/
+fragen, anfragen
+soyadı /sojadˈɯ/
+Familienname
+soğan /soːˈan/
+Zwiebel
+sporcu /spɔrdʒˈʊ/
+Athlet
+su /sˈʊ/
+Wasser
+sultan /sʊɫtˈan/
+Sultan
+susuzluk /sˈusʊzɫʊk/
+Durst
+suçlamak /sʊtʃɫamˈak/
+anklagen, beschuldigen
+suçlu /sʊtʃɫˈʊ/
+schuldig
+söylemek /sœjlemˈɛk/
+erwähnen, sagen
+söz /sˈœz/
+Vokabel, Wort
+sözcük /sœzdʒˈøk/
+Vokabel, Wort
+sülün /sylˈøn/
+Fasan
+süngü /sønɡˈø/
+Bajonett
+süpürge /sypørɡˈɛ/
+Besen
+sıcak /sɯdʒˈak/
+heiß
+sıfır /sɯfˈɯr/
+Null
+sıgır eti /sɯɡˈɯr etˈɪ/
+Rindfleisch
+sınıf /sɯnˈɯf/
+Kategorie
+sıra /sɯɾˈa/
+Bank
+sıtma /sˈɯtma/
+Malaria
+takdire değer /takdiɾˈɛ dejˈɛr/
+bewundernswert, wunderbar
+takdir etmek /tˈakdɪr ɛtmˈɛk/
+applaudieren, Beifall spenden
+taksi /taksˈɪ/
+Taxe, Taxi
+takvim /tˈakvɪm/
+1. Almanach
+2. Kalender
+tam /tˈam/
+1. akkurat, genau
+2. bestimmt, bündig, exakt, präzis, präzise, pünktlich
+tanımak /tanɯmˈak/
+kennen
+taparcasına sevmek /tapardʒasɯnˈa sɛvmˈɛk/
+anbeten, verehren, vergöttern
+tarak /taɾˈak/
+Kamm
+taramak /taɾamˈak/
+kämmen
+tatlı /tatɫˈɯ/
+süß
+tavan /tavˈan/
+Decke, Zimmerdecke
+tavşan /tavʃˈan/
+1. Kaninchen
+2. Hase
+tay /tˈaj/
+Fohlen, Füllen
+tayyare /tajjaɾˈɛ/
+Aeroplan, Flugmaschine, Flugzeug
+tayyare mayadanı /tajjaɾˈɛ majadanˈɯ/
+Flugplatz
+taşımak /taʃɯmˈak/
+tragen
+tedavi /tedavˈɪ/
+Therapie
+tehlike /tɛhlikˈɛ/
+Gefahr
+tehlikeli /tɛhlikelˈɪ/
+besorglich, gefährlich
+tekrar /tɛkrˈar/
+1. abermalig, abermals, von neuem, wieder
+2. wiederholt, zurück
+temmuz /tˈæmmʊz/
+Juli
+teoloji /teoɫoʒˈɪ/
+Theologie
+teorik /teoɾˈɪk/
+theoretisch
+tepe /tepˈɛ/
+Halde, Hügel
+ter /tˈɛr/
+Schweiß
+tereyağı /teɾejaːˈɯ/
+Butter
+terlemek /tɛrlemˈɛk/
+schwitzen
+termometre /tɛrmomɛtrˈɛ/
+Thermometer
+tertip etmek /tɛrtˈɪp ɛtmˈɛk/
+arrangieren, einrichten, ordnen, anordnen, veranstalten
+terzi /tɛrzˈɪ/
+Schneider
+tezgâh /tɛzɡˈah/
+Bank
+teşekkür /teʃɛkˈør/
+danke
+tilki /tɪlkˈɪ/
+Fuchs
+timsah /tɪmsˈah/
+Krokodil
+tiyatro /tijatrˈɔ/
+Theater
+top /tˈɔp/
+1. Gewehr
+2. Kanon, Kanone
+toplamak /tɔpɫamˈak/
+sammeln, einsammeln
+toprak /tɔprˈak/
+Boden, Erdboden, Erde, Grund, Land, Terrain
+tren /trˈæn/
+1. Zug
+2. Bahnzug, Eisenbahnzug
+tugay /tuɡˈaj/
+Brigade
+tunç /tˈʊntʃ/
+Bronze, Erz
+tutku /tʊtkˈʊ/
+Ehrgeiz
+tutkulu /tʊtkuɫˈʊ/
+ehrgeizig
+tutmak /tʊtmˈak/
+halten, aufhalten
+tuz /tˈʊz/
+Salz
+tuzlu /tʊzɫˈʊ/
+salzen, salzig
+tuğla /tˈuːɫa/
+Backstein, Ziegel, Ziegelstein
+tören /tœɾˈæn/
+Feierlichkeit, Förmlichkeit, Zeremonie
+tüfek /tyfˈɛk/
+Gewehr
+tırmanmak /tɯrmanmˈak/
+klettern, klimmen
+tırtıl /tɯrtˈɯɫ/
+Raupe
+ufuk /ufˈʊk/
+Gesichtskreis, Horizont
+ulus /uɫˈʊs/
+Nation
+ulusal /uɫusˈaɫ/
+national
+ummak /ʊmmˈak/
+hoffen
+umut /umˈʊt/
+Hoffnung
+unutmak /unʊtmˈak/
+vergessen
+uygun /ʊjɡˈʊn/
+behaglich, herrlich, genehm, angenehm
+uyumak /ujumˈak/
+schlafen
+uzak /uzˈak/
+entlegen, fern, entfernt, weit
+uçak /utʃˈak/
+1. Aeroplan, Flugmaschine, Flugzeug
+uçaklar /utʃakɫˈar/
+Flugzeug
+uçmak /ʊtʃmˈak/
+fliegen, huschen
+vapur /vapˈʊr/
+Dampfer
+varil /vaɾˈɪl/
+Fass, Tonne
+varış /vaɾˈɯʃ/
+Ankunft, Eintreffen
+ve /vˈɛ/
+und
+vermek /vɛrmˈɛk/
+erteilen, geben, angeben, herreichen
+vestiyer /vɛstijˈɛr/
+Garderobe
+virgül /vɪrɟˈøl/
+1. Apostroph
+2. Komma
+viski /vɪskˈɪ/
+Whisky
+volkan /vɔɫkˈan/
+Vulkan
+vücut /vydʒˈʊt/
+Körper, Leib
+yaban eşeği /jabˈan eʃejˈɪ/
+Zebra
+yakında /jakɯndˈa/
+bald, alsbald, baldig
+yalan /jaɫˈan/
+flunkern, lügen, belügen
+yalnız /jˈaɫnɯz/
+allein, alleinig, bloß, einzig
+yamyam /jamjˈam/
+Kannibale, Menschenfresser
+yapmak /japmˈak/
+anfertigen, herstellen, leiten, machen, tun, zurücklegen
+yat /jˈat/
+Jacht, Yacht
+yatak /jatˈak/
+Bett, Bettstelle
+yatak odası /jatˈak odasˈɯ/
+Schlafzimmer
+yavru kedi /javrˈʊ kedˈɪ/
+Kätzchen
+yazar /jazˈar/
+Autor, Urheber, Verfasser
+yazmak /jazmˈak/
+schreiben
+yaş /jˈaʃ/
+Alter
+yaşamak /jaʃamˈak/
+leben
+yağ /jˈaː/
+Öl
+yedi /jedˈɪ/
+sieben
+yemin /jemˈɪn/
+Eid
+yeni /jenˈɪ/
+neu
+yeryüzü /jˈɛrjyzø/
+Boden, Erdboden, Erde, Grund, Land, Terrain
+yetişkin /jetɪʃkˈɪn/
+gedeihen, wachsen, anwachsen
+yeşil /jeʃˈɪl/
+grün
+yeğen /jejˈæn/
+1. Nichte
+2. Neffe
+yine /jinˈɛ/
+1. abermalig, abermals, von neuem, wieder
+2. wiederholt, zurück
+yokluk /jɔkɫˈʊk/
+Abwesenheit
+yollamak /jɔɫɫamˈak/
+schicken, senden, einsenden
+yulaf /juɫˈaf/
+Hafer
+yumurta /jumʊrtˈa/
+Ei
+yunus baliğı /junˈʊs balijˈɯ/
+Delphin, Tümmler
+yüksek okul /jˈøksɛk okˈʊɫ/
+Kollegium
+yün /jˈøn/
+Wolle
+yürümek /jyɾymˈɛk/
+gehen, laufen, marschieren, treten
+yüz /jˈøz/
+hundert
+yüzmek /jøzmˈɛk/
+schwimmen
+yüzünden /jyzøndˈæn/
+da, denn, weil
+yıldız /jˈɯɫdɯz/
+Horoskop
+yıllık /jɯɫɫˈɯk/
+1. Almanach
+2. jährlich
+zabıta /zabɯtˈa/
+Polizei
+zambak /zambˈak/
+Lilie
+zarf /zˈarf/
+Adverb, Umstandswort
+zarif /zaɾˈɪf/
+elegant, geschmackvoll
+zar zor /zˈar zˈɔr/
+kaum
+zebra /zɛbrˈa/
+Zebra
+zehir /zehˈɪr/
+Gift
+zeki /zekˈɪ/
+abgefeimt, arglistig, gerieben, gewiegt, gewitzigt, listig, schlau
+zeytin /zɛjtˈɪn/
+Olive
+zincir /zɪndʒˈɪr/
+Kette
+zooloji /zooɫoʒˈɪ/
+Zoologie
+zürafa /zyɾafˈa/
+Giraffe
+öfkeli /œfkelˈɪ/
+arg, böse
+öldürmek /œldørmˈɛk/
+ermorden, töten
+ölmek /œlmˈɛk/
+sterben
+ölmüş /œlmˈøʃ/
+gestorben, tot, verstorben
+ölü /œlˈy/
+gestorben, tot, verstorben
+ördek /œrdˈɛk/
+Ente
+örümcek ağı /œɾømdʒˈɛk aːˈɯ/
+Spinngewebe
+özel /œzˈæl/
+spezial, speziell
+özerklik /œzɛrklˈɪk/
+Autonomie, Selbstgesetzgebung
+öğleden sonra /ˈœːledæn sɔnrˈa/
+Nachmittag
+öğrenmek /œːɾænmˈɛk/
+lernen
+öğüt /œːˈøt/
+Rat, Ratschlag
+öğüt vermek /œːˈøt vɛrmˈɛk/
+raten, beraten, ratgeben
+ülkücü /ølkydʒˈø/
+Idealist
+üniversite /ynivɛrsitˈɛ/
+Hochschule, Universität
+üstüne evlenme /østynˈɛ ɛvlˈænmɛ/
+Bigamie
+üç /ˈøtʃ/
+drei
+Çin /tʃˈɪn/
+China
+Şeytan /ʃɛjtˈan/
+Satanas, Teufel
+çakı /tʃakˈɯ/
+Messer
+çalar saat /tʃaɫˈar saˈat/
+Wecker
+çalişmak /tʃalɪʃmˈak/
+arbeiten
+çalışkan /tʃaɫɯʃkˈan/
+beflissen, emsig, fleißig, geflissentlich, strebsam
+çaprazvari /tʃaprazvaɾˈɪ/
+jenseits, quer, über, hinüber
+çarşamba /tʃarʃambˈa/
+Mittwoch
+çarşı /tʃarʃˈɯ/
+Basar, Markt, Warenhaus
+çay /tʃˈaj/
+Tee
+çek /tʃˈɛk/
+Bankanweisung, Scheck
+çekmek /tʃɛkmˈɛk/
+ziehen, verziehen
+çene /tʃenˈɛ/
+1. Kiefer, Kinnlade
+2. Kinn
+çeşme /tʃˈɛʃmɛ/
+Brunnen, Fontäne, Springbrunnen
+çikolata /tʃikˈoɫata/
+Schokolade
+çilek /tʃilˈɛk/
+Erdbeere
+çimento /tʃimæntˈɔ/
+Zement
+çingene /tʃɪnɟenˈɛ/
+Zigeuner
+çinko /tʃɪnkˈɔ/
+Zink
+çiplak /tʃɪpɫˈak/
+bloß, nackt
+çiğnemek /tʃɪjnemˈɛk/
+kauen
+çok beğenmek /tʃˈɔk bejænmˈɛk/
+bewundern
+çok geçmeden /tʃˈɔk ɟˈɛtʃmedæn/
+bald, alsbald, baldig
+çorba /tʃɔrbˈa/
+Suppe
+çoçuk /tʃotʃˈʊk/
+Junge, Knabe
+çoğulu /tʃoːuɫˈʊ/
+Leben
+çünkü /tʃønkˈø/
+da, denn, weil
+çıkmak /tʃɯkmˈak/
+ausgehen, ausrücken
+şapka /ʃapkˈa/
+Hut
+şarap /ʃaɾˈap/
+Wein
+şarkı /ʃarkˈɯ/
+Gesang, Lied
+şehir /ʃehˈɪr/
+Ort, Stadt
+şeref /ʃeɾˈɛf/
+Ehre
+şey /ʃˈɛj/
+Ding
+şiddetli /ʃɪdɛtlˈɪ/
+bitter
+şikayet etmek /ʃikajˈɛt ɛtmˈɛk/
+klagen, sich beklagen, verklagen
+şikâyet /ʃikajˈɛt/
+Beschwerde, Klage
+şimdi /ʃɪmdˈɪ/
+jetzt, gegenwärtig, nun
+şişe /ʃiʃˈɛ/
+Flasche
+şoför /ʃofˈœr/
+Chauffeur, Fahrer
+şubat /ʃubˈat/
+Februar
+ılık /ɯɫˈɯk/
+warm
+ırmak /ɯrmˈak/
+Fluss
+İncil /ɪndʒˈɪl/
+Bibel
+İngiliz /ɪnɟˈilɪz/
+1. englisch
+2. Engländer
+3. britisch
+İngilizce /ɪnɟˈilɪzdʒɛ/
+englisch
+İngiliz kamışı /ɪnɟˈilɪz kamɯʃˈɯ/
+Bambus
+İngiltere /ɪnɟɪltˈeɾɛ/
+1. England
+İrlanda /ɪrɫandˈa/
+Irland
+İrlandalı /ɪrɫandaɫˈɯ/
+Ire
+İsa /ˈisa/
+Christus
+İslam /ɪsɫˈam/
+Islam
+İspanya /ɪspanjˈa/
+Spanien
+İspanyol /ɪspanjˈɔɫ/
+Spanier
+İsrail /ɪsraˈɪl/
+1. Israel
+İsveç /ˈɪsvɛtʃ/
+Schweden
+İsveçli /ˈɪsvɛtʃlɪ/
+1. schwedisch
+2. Schwede
+İsviçre /ɪsvɪtʃrˈɛ/
+Schweiz, die Schweiz
+İsviçreli /ɪsvˈɪtʃrelɪ/
+1. schweizerisch
+2. Schweizer
+İtalya /itaɫjˈa/
+Italien
+İtalyan /itaɫjˈan/
+1. italienisch
+2. Italiener
+İtalyanca /itaɫjandʒˈa/
+1. italienisch
+2. Italiener
+unknown
+ abcdefghijklmnoprstuvyzâçîöüğış
